@@ -1,0 +1,6588 @@
+# sentid = file01188.txt_2
+# text = my name is Charlie .
+1	my	_	_	PRP$	_	_	_	_	_
+2	name	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	Charlie	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01279.txt_15
+# text = I always cook almost the same thing .
+1	I	_	_	PRP	_	_	_	_	_
+2	always	_	_	RB	_	_	_	_	_
+3	cook	_	_	VBP	_	_	_	_	_
+4	almost	_	_	RB	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	same	_	_	JJ	_	_	_	_	_
+7	thing	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00829.txt_13
+# text = I ca n't speak with English with fluency .
+1	I	_	_	PRP	_	_	_	_	_
+2	ca	_	_	MD	_	_	_	_	_
+3	n't	_	_	RB	_	_	_	_	_
+4	speak	_	_	VB	_	_	_	_	_
+5	with	_	_	IN	_	_	_	_	_
+6	English	_	_	NNP	_	_	_	_	_
+7	with	_	_	IN	_	_	_	_	_
+8	fluency	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00109.txt_49
+# text = I think it 's U S or European styled living place .
+1	I	_	_	PRP	_	_	_	_	_
+2	think	_	_	VBP	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	's	_	_	VBZ	_	_	_	_	_
+5	U	_	_	NNP	_	_	_	_	_
+6	S	_	_	NNP	_	_	_	_	_
+7	or	_	_	CC	_	_	_	_	_
+8	European	_	_	JJ	_	_	_	_	_
+9	styled	_	_	JJ	_	_	_	_	_
+10	living	_	_	NN	_	_	_	_	_
+11	place	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00967.txt_129
+# text = or you know , J R.
+1	or	_	_	CC	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	know	_	_	VBP	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	J	_	_	NN	_	_	_	_	_
+6	R.	_	_	NN	_	_	_	_	_
+
+# sentid = file00286.txt_53
+# text = And , beside the clock , there is a piano , and woman , I think , is playing a nice music there .
+1	And	_	_	CC	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	beside	_	_	IN	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	clock	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	there	_	_	EX	_	_	_	_	_
+8	is	_	_	VBZ	_	_	_	_	_
+9	a	_	_	DT	_	_	_	_	_
+10	piano	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	and	_	_	CC	_	_	_	_	_
+13	woman	_	_	NN	_	_	_	_	_
+14	,	_	_	,	_	_	_	_	_
+15	I	_	_	PRP	_	_	_	_	_
+16	think	_	_	VBP	_	_	_	_	_
+17	,	_	_	,	_	_	_	_	_
+18	is	_	_	VBZ	_	_	_	_	_
+19	playing	_	_	VBG	_	_	_	_	_
+20	a	_	_	DT	_	_	_	_	_
+21	nice	_	_	JJ	_	_	_	_	_
+22	music	_	_	NN	_	_	_	_	_
+23	there	_	_	RB	_	_	_	_	_
+24	.	_	_	.	_	_	_	_	_
+
+# sentid = file00829.txt_71
+# text = and I want a new one .
+1	and	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	want	_	_	VBP	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	new	_	_	JJ	_	_	_	_	_
+6	one	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00477.txt_44
+# text = And he is computer technician .
+1	And	_	_	CC	_	_	_	_	_
+2	he	_	_	PRP	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	computer	_	_	NN	_	_	_	_	_
+5	technician	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00835.txt_22
+# text = A man and a woman are dining .
+1	A	_	_	DT	_	_	_	_	_
+2	man	_	_	NN	_	_	_	_	_
+3	and	_	_	CC	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	woman	_	_	NN	_	_	_	_	_
+6	are	_	_	VBP	_	_	_	_	_
+7	dining	_	_	VBG	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00750.txt_24
+# text = listening to music .
+1	listening	_	_	VBG	_	_	_	_	_
+2	to	_	_	TO	_	_	_	_	_
+3	music	_	_	NN	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01212.txt_107
+# text = Mamiko looked inside , and picked up the cat .
+1	Mamiko	_	_	NNP	_	_	_	_	_
+2	looked	_	_	VBD	_	_	_	_	_
+3	inside	_	_	RB	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	and	_	_	CC	_	_	_	_	_
+6	picked	_	_	VBD	_	_	_	_	_
+7	up	_	_	RP	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	cat	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00319.txt_20
+# text = I like reading magazines and novels , not so much into music .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	reading	_	_	VBG	_	_	_	_	_
+4	magazines	_	_	NNS	_	_	_	_	_
+5	and	_	_	CC	_	_	_	_	_
+6	novels	_	_	NNS	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	not	_	_	RB	_	_	_	_	_
+9	so	_	_	RB	_	_	_	_	_
+10	much	_	_	RB	_	_	_	_	_
+11	into	_	_	IN	_	_	_	_	_
+12	music	_	_	NN	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file01279.txt_197
+# text = I am .
+1	I	_	_	PRP	_	_	_	_	_
+2	am	_	_	VBP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01248.txt_108
+# text = the person that 's exchanged it for me , if they were n't allowed , then if they get in trouble , then it 's probably my fault , too .
+1	the	_	_	DT	_	_	_	_	_
+2	person	_	_	NN	_	_	_	_	_
+3	that	_	_	WDT	_	_	_	_	_
+4	's	_	_	VBZ	_	_	_	_	_
+5	exchanged	_	_	VBN	_	_	_	_	_
+6	it	_	_	PRP	_	_	_	_	_
+7	for	_	_	IN	_	_	_	_	_
+8	me	_	_	PRP	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	if	_	_	IN	_	_	_	_	_
+11	they	_	_	PRP	_	_	_	_	_
+12	were	_	_	VBD	_	_	_	_	_
+13	n't	_	_	RB	_	_	_	_	_
+14	allowed	_	_	VBN	_	_	_	_	_
+15	,	_	_	,	_	_	_	_	_
+16	then	_	_	RB	_	_	_	_	_
+17	if	_	_	IN	_	_	_	_	_
+18	they	_	_	PRP	_	_	_	_	_
+19	get	_	_	VBP	_	_	_	_	_
+20	in	_	_	IN	_	_	_	_	_
+21	trouble	_	_	NN	_	_	_	_	_
+22	,	_	_	,	_	_	_	_	_
+23	then	_	_	RB	_	_	_	_	_
+24	it	_	_	PRP	_	_	_	_	_
+25	's	_	_	VBZ	_	_	_	_	_
+26	probably	_	_	RB	_	_	_	_	_
+27	my	_	_	PRP$	_	_	_	_	_
+28	fault	_	_	NN	_	_	_	_	_
+29	,	_	_	,	_	_	_	_	_
+30	too	_	_	RB	_	_	_	_	_
+31	.	_	_	.	_	_	_	_	_
+
+# sentid = file01231.txt_118
+# text = He got angry at me that his bike broke and his phone got broken .
+1	He	_	_	PRP	_	_	_	_	_
+2	got	_	_	VBD	_	_	_	_	_
+3	angry	_	_	JJ	_	_	_	_	_
+4	at	_	_	IN	_	_	_	_	_
+5	me	_	_	PRP	_	_	_	_	_
+6	that	_	_	IN	_	_	_	_	_
+7	his	_	_	PRP$	_	_	_	_	_
+8	bike	_	_	NN	_	_	_	_	_
+9	broke	_	_	VBD	_	_	_	_	_
+10	and	_	_	CC	_	_	_	_	_
+11	his	_	_	PRP$	_	_	_	_	_
+12	phone	_	_	NN	_	_	_	_	_
+13	got	_	_	VBD	_	_	_	_	_
+14	broken	_	_	VBN	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00707.txt_88
+# text = I watched " A I " .
+1	I	_	_	PRP	_	_	_	_	_
+2	watched	_	_	VBD	_	_	_	_	_
+3	"	_	_	"	_	_	_	_	_
+4	A	_	_	NNP	_	_	_	_	_
+5	I	_	_	NNP	_	_	_	_	_
+6	"	_	_	"	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00816.txt_90
+# text = So I can not make it to the party .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	can	_	_	MD	_	_	_	_	_
+4	not	_	_	RB	_	_	_	_	_
+5	make	_	_	VB	_	_	_	_	_
+6	it	_	_	PRP	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	party	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00982.txt_2
+# text = Thank you , yeah .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	yeah	_	_	UH	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00775.txt_122
+# text = the two man enjoyed the lunch each other .
+1	the	_	_	DT	_	_	_	_	_
+2	two	_	_	CD	_	_	_	_	_
+3	man	_	_	NN	_	_	_	_	_
+4	enjoyed	_	_	VBD	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	lunch	_	_	NN	_	_	_	_	_
+7	each	_	_	DT	_	_	_	_	_
+8	other	_	_	JJ	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00070.txt_79
+# text = So she went to supermarket and she bought many food , and she paid the money for the food .
+1	So	_	_	RB	_	_	_	_	_
+2	she	_	_	PRP	_	_	_	_	_
+3	went	_	_	VBD	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	supermarket	_	_	NN	_	_	_	_	_
+6	and	_	_	CC	_	_	_	_	_
+7	she	_	_	PRP	_	_	_	_	_
+8	bought	_	_	VBD	_	_	_	_	_
+9	many	_	_	JJ	_	_	_	_	_
+10	food	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	and	_	_	CC	_	_	_	_	_
+13	she	_	_	PRP	_	_	_	_	_
+14	paid	_	_	VBD	_	_	_	_	_
+15	the	_	_	DT	_	_	_	_	_
+16	money	_	_	NN	_	_	_	_	_
+17	for	_	_	IN	_	_	_	_	_
+18	the	_	_	DT	_	_	_	_	_
+19	food	_	_	NN	_	_	_	_	_
+20	.	_	_	.	_	_	_	_	_
+
+# sentid = file00799.txt_52
+# text = Are you OK ?
+1	Are	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	OK	_	_	JJ	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file00853.txt_52
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00280.txt_37
+# text = about financial things .
+1	about	_	_	IN	_	_	_	_	_
+2	financial	_	_	JJ	_	_	_	_	_
+3	things	_	_	NNS	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00016.txt_91
+# text = But I could n't help getting on , not my fault but that fault of accident .
+1	But	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	could	_	_	MD	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	help	_	_	VB	_	_	_	_	_
+6	getting	_	_	VBG	_	_	_	_	_
+7	on	_	_	IN	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	not	_	_	RB	_	_	_	_	_
+10	my	_	_	PRP$	_	_	_	_	_
+11	fault	_	_	NN	_	_	_	_	_
+12	but	_	_	CC	_	_	_	_	_
+13	that	_	_	DT	_	_	_	_	_
+14	fault	_	_	NN	_	_	_	_	_
+15	of	_	_	IN	_	_	_	_	_
+16	accident	_	_	NN	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file01261.txt_122
+# text = I do n't look around the city .
+1	I	_	_	PRP	_	_	_	_	_
+2	do	_	_	VBP	_	_	_	_	_
+3	n't	_	_	RB	_	_	_	_	_
+4	look	_	_	VB	_	_	_	_	_
+5	around	_	_	IN	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	city	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01173.txt_8
+# text = I have changed my job after I came back Japan .
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	changed	_	_	VBN	_	_	_	_	_
+4	my	_	_	PRP$	_	_	_	_	_
+5	job	_	_	NN	_	_	_	_	_
+6	after	_	_	IN	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	came	_	_	VBD	_	_	_	_	_
+9	back	_	_	RB	_	_	_	_	_
+10	Japan	_	_	NNP	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file00368.txt_78
+# text = Now , I 've just arrived home .
+1	Now	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	've	_	_	VBP	_	_	_	_	_
+5	just	_	_	RB	_	_	_	_	_
+6	arrived	_	_	VBN	_	_	_	_	_
+7	home	_	_	RB	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00557.txt_28
+# text = Because , when I was a high school student , I lost my parents because of cancer .
+1	Because	_	_	IN	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	when	_	_	WRB	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	was	_	_	VBD	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	high	_	_	JJ	_	_	_	_	_
+8	school	_	_	NN	_	_	_	_	_
+9	student	_	_	NN	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	I	_	_	PRP	_	_	_	_	_
+12	lost	_	_	VBD	_	_	_	_	_
+13	my	_	_	PRP$	_	_	_	_	_
+14	parents	_	_	NNS	_	_	_	_	_
+15	because	_	_	IN	_	_	_	_	_
+16	of	_	_	IN	_	_	_	_	_
+17	cancer	_	_	NN	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file01236.txt_142
+# text = I will meet my friend yes , to dinner .
+1	I	_	_	PRP	_	_	_	_	_
+2	will	_	_	MD	_	_	_	_	_
+3	meet	_	_	VB	_	_	_	_	_
+4	my	_	_	PRP$	_	_	_	_	_
+5	friend	_	_	NN	_	_	_	_	_
+6	yes	_	_	UH	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	to	_	_	TO	_	_	_	_	_
+9	dinner	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01248.txt_113
+# text = because if I just hop on the train , I can go to Shibuya , I can go to Ikebukuro , I can go anywhere .
+1	because	_	_	IN	_	_	_	_	_
+2	if	_	_	IN	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	just	_	_	RB	_	_	_	_	_
+5	hop	_	_	VBP	_	_	_	_	_
+6	on	_	_	IN	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	train	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	I	_	_	PRP	_	_	_	_	_
+11	can	_	_	MD	_	_	_	_	_
+12	go	_	_	VB	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	Shibuya	_	_	NNP	_	_	_	_	_
+15	,	_	_	,	_	_	_	_	_
+16	I	_	_	PRP	_	_	_	_	_
+17	can	_	_	MD	_	_	_	_	_
+18	go	_	_	VB	_	_	_	_	_
+19	to	_	_	TO	_	_	_	_	_
+20	Ikebukuro	_	_	NNP	_	_	_	_	_
+21	,	_	_	,	_	_	_	_	_
+22	I	_	_	PRP	_	_	_	_	_
+23	can	_	_	MD	_	_	_	_	_
+24	go	_	_	VB	_	_	_	_	_
+25	anywhere	_	_	RB	_	_	_	_	_
+26	.	_	_	.	_	_	_	_	_
+
+# sentid = file00380.txt_93
+# text = I really could n't make it , because my boss asked me to do some job .
+1	I	_	_	PRP	_	_	_	_	_
+2	really	_	_	RB	_	_	_	_	_
+3	could	_	_	MD	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	make	_	_	VB	_	_	_	_	_
+6	it	_	_	PRP	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	because	_	_	IN	_	_	_	_	_
+9	my	_	_	PRP$	_	_	_	_	_
+10	boss	_	_	NN	_	_	_	_	_
+11	asked	_	_	VBD	_	_	_	_	_
+12	me	_	_	PRP	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	do	_	_	VB	_	_	_	_	_
+15	some	_	_	DT	_	_	_	_	_
+16	job	_	_	NN	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file00585.txt_43
+# text = no , no .
+1	no	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	no	_	_	UH	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01213.txt_92
+# text = I 'm really sorry .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	really	_	_	RB	_	_	_	_	_
+4	sorry	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00398.txt_53
+# text = Yes , I like sports .
+1	Yes	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	like	_	_	VBP	_	_	_	_	_
+5	sports	_	_	NNS	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00611.txt_115
+# text = They enjoy it the story .
+1	They	_	_	PRP	_	_	_	_	_
+2	enjoy	_	_	VBP	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	story	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01186.txt_63
+# text = so you know , pretty good
+1	so	_	_	RB	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	know	_	_	VBP	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	pretty	_	_	RB	_	_	_	_	_
+6	good	_	_	JJ	_	_	_	_	_
+
+# sentid = file00802.txt_11
+# text = It 's not here .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	not	_	_	RB	_	_	_	_	_
+4	here	_	_	RB	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00323.txt_154
+# text = Here in Okinawa .
+1	Here	_	_	RB	_	_	_	_	_
+2	in	_	_	IN	_	_	_	_	_
+3	Okinawa	_	_	NNP	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01019.txt_39
+# text = So plant engineer is very important to our division .
+1	So	_	_	RB	_	_	_	_	_
+2	plant	_	_	NN	_	_	_	_	_
+3	engineer	_	_	NN	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	very	_	_	RB	_	_	_	_	_
+6	important	_	_	JJ	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	our	_	_	PRP$	_	_	_	_	_
+9	division	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00920.txt_66
+# text = but it is very dangerous to go through between cars and car and especially bus or truck .
+1	but	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	very	_	_	RB	_	_	_	_	_
+5	dangerous	_	_	JJ	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	go	_	_	VB	_	_	_	_	_
+8	through	_	_	IN	_	_	_	_	_
+9	between	_	_	IN	_	_	_	_	_
+10	cars	_	_	NNS	_	_	_	_	_
+11	and	_	_	CC	_	_	_	_	_
+12	car	_	_	NN	_	_	_	_	_
+13	and	_	_	CC	_	_	_	_	_
+14	especially	_	_	RB	_	_	_	_	_
+15	bus	_	_	NN	_	_	_	_	_
+16	or	_	_	CC	_	_	_	_	_
+17	truck	_	_	NN	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file00014.txt_44
+# text = my friends are almost archaeology members
+1	my	_	_	PRP$	_	_	_	_	_
+2	friends	_	_	NNS	_	_	_	_	_
+3	are	_	_	VBP	_	_	_	_	_
+4	almost	_	_	RB	_	_	_	_	_
+5	archaeology	_	_	NN	_	_	_	_	_
+6	members	_	_	NNS	_	_	_	_	_
+
+# sentid = file00987.txt_140
+# text = one day last week , this housewives started thinking of the menu for a dinner .
+1	one	_	_	CD	_	_	_	_	_
+2	day	_	_	NN	_	_	_	_	_
+3	last	_	_	JJ	_	_	_	_	_
+4	week	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	this	_	_	DT	_	_	_	_	_
+7	housewives	_	_	NNS	_	_	_	_	_
+8	started	_	_	VBD	_	_	_	_	_
+9	thinking	_	_	VBG	_	_	_	_	_
+10	of	_	_	IN	_	_	_	_	_
+11	the	_	_	DT	_	_	_	_	_
+12	menu	_	_	NN	_	_	_	_	_
+13	for	_	_	IN	_	_	_	_	_
+14	a	_	_	DT	_	_	_	_	_
+15	dinner	_	_	NN	_	_	_	_	_
+16	.	_	_	.	_	_	_	_	_
+
+# sentid = file00129.txt_17
+# text = three table and three cup , in this room .
+1	three	_	_	CD	_	_	_	_	_
+2	table	_	_	NN	_	_	_	_	_
+3	and	_	_	CC	_	_	_	_	_
+4	three	_	_	CD	_	_	_	_	_
+5	cup	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	in	_	_	IN	_	_	_	_	_
+8	this	_	_	DT	_	_	_	_	_
+9	room	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00043.txt_76
+# text = thank you .
+1	thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00468.txt_40
+# text = And pianist is woman . ...
+1	And	_	_	CC	_	_	_	_	_
+2	pianist	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	woman	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+6	...	_	_	:	_	_	_	_	_
+
+# sentid = file00555.txt_88
+# text = I drunk beer .
+1	I	_	_	PRP	_	_	_	_	_
+2	drunk	_	_	VBN	_	_	_	_	_
+3	beer	_	_	NN	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00837.txt_22
+# text = And Saitama are number one brand in Japanese shampoo and conditioner market .
+1	And	_	_	CC	_	_	_	_	_
+2	Saitama	_	_	NNP	_	_	_	_	_
+3	are	_	_	VBP	_	_	_	_	_
+4	number	_	_	NN	_	_	_	_	_
+5	one	_	_	CD	_	_	_	_	_
+6	brand	_	_	NN	_	_	_	_	_
+7	in	_	_	IN	_	_	_	_	_
+8	Japanese	_	_	JJ	_	_	_	_	_
+9	shampoo	_	_	NN	_	_	_	_	_
+10	and	_	_	CC	_	_	_	_	_
+11	conditioner	_	_	NN	_	_	_	_	_
+12	market	_	_	NN	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00475.txt_110
+# text = he takes a lesson of , yeah , karate in every week .
+1	he	_	_	PRP	_	_	_	_	_
+2	takes	_	_	VBZ	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	lesson	_	_	NN	_	_	_	_	_
+5	of	_	_	IN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	yeah	_	_	UH	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	karate	_	_	NN	_	_	_	_	_
+10	in	_	_	IN	_	_	_	_	_
+11	every	_	_	DT	_	_	_	_	_
+12	week	_	_	NN	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file01221.txt_27
+# text = and she likes playing tennis , too .
+1	and	_	_	CC	_	_	_	_	_
+2	she	_	_	PRP	_	_	_	_	_
+3	likes	_	_	VBZ	_	_	_	_	_
+4	playing	_	_	VBG	_	_	_	_	_
+5	tennis	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	too	_	_	RB	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01219.txt_146
+# text = so you could either get at least the license in high school or you can commute to a driver 's school and get your license there .
+1	so	_	_	RB	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	could	_	_	MD	_	_	_	_	_
+4	either	_	_	CC	_	_	_	_	_
+5	get	_	_	VB	_	_	_	_	_
+6	at	_	_	IN	_	_	_	_	_
+7	least	_	_	JJS	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	license	_	_	NN	_	_	_	_	_
+10	in	_	_	IN	_	_	_	_	_
+11	high	_	_	JJ	_	_	_	_	_
+12	school	_	_	NN	_	_	_	_	_
+13	or	_	_	CC	_	_	_	_	_
+14	you	_	_	PRP	_	_	_	_	_
+15	can	_	_	MD	_	_	_	_	_
+16	commute	_	_	VB	_	_	_	_	_
+17	to	_	_	TO	_	_	_	_	_
+18	a	_	_	DT	_	_	_	_	_
+19	driver	_	_	NN	_	_	_	_	_
+20	's	_	_	POS	_	_	_	_	_
+21	school	_	_	NN	_	_	_	_	_
+22	and	_	_	CC	_	_	_	_	_
+23	get	_	_	VB	_	_	_	_	_
+24	your	_	_	PRP$	_	_	_	_	_
+25	license	_	_	NN	_	_	_	_	_
+26	there	_	_	RB	_	_	_	_	_
+27	.	_	_	.	_	_	_	_	_
+
+# sentid = file00071.txt_3
+# text = Nice to meet you , too .
+1	Nice	_	_	JJ	_	_	_	_	_
+2	to	_	_	TO	_	_	_	_	_
+3	meet	_	_	VB	_	_	_	_	_
+4	you	_	_	PRP	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	too	_	_	RB	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00914.txt_11
+# text = please once again .
+1	please	_	_	UH	_	_	_	_	_
+2	once	_	_	RB	_	_	_	_	_
+3	again	_	_	RB	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00317.txt_88
+# text = But to live with people , pets also need to be a good citizen .
+1	But	_	_	CC	_	_	_	_	_
+2	to	_	_	TO	_	_	_	_	_
+3	live	_	_	VB	_	_	_	_	_
+4	with	_	_	IN	_	_	_	_	_
+5	people	_	_	NNS	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	pets	_	_	NNS	_	_	_	_	_
+8	also	_	_	RB	_	_	_	_	_
+9	need	_	_	VBP	_	_	_	_	_
+10	to	_	_	TO	_	_	_	_	_
+11	be	_	_	VB	_	_	_	_	_
+12	a	_	_	DT	_	_	_	_	_
+13	good	_	_	JJ	_	_	_	_	_
+14	citizen	_	_	NN	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00101.txt_64
+# text = it romantic .
+1	it	_	_	PRP	_	_	_	_	_
+2	romantic	_	_	JJ	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01186.txt_32
+# text = School life ?
+1	School	_	_	NN	_	_	_	_	_
+2	life	_	_	NN	_	_	_	_	_
+3	?	_	_	.	_	_	_	_	_
+
+# sentid = file00685.txt_78
+# text = But that smell not so good .
+1	But	_	_	CC	_	_	_	_	_
+2	that	_	_	DT	_	_	_	_	_
+3	smell	_	_	NN	_	_	_	_	_
+4	not	_	_	RB	_	_	_	_	_
+5	so	_	_	RB	_	_	_	_	_
+6	good	_	_	JJ	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01277.txt_36
+# text = So recently decided to take some golf lessons .
+1	So	_	_	RB	_	_	_	_	_
+2	recently	_	_	RB	_	_	_	_	_
+3	decided	_	_	VBD	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	take	_	_	VB	_	_	_	_	_
+6	some	_	_	DT	_	_	_	_	_
+7	golf	_	_	NN	_	_	_	_	_
+8	lessons	_	_	NNS	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00794.txt_62
+# text = And then when I wear a loose high neck sweater , they would say " .
+1	And	_	_	CC	_	_	_	_	_
+2	then	_	_	RB	_	_	_	_	_
+3	when	_	_	WRB	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	wear	_	_	VBP	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	loose	_	_	JJ	_	_	_	_	_
+8	high	_	_	JJ	_	_	_	_	_
+9	neck	_	_	NN	_	_	_	_	_
+10	sweater	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	they	_	_	PRP	_	_	_	_	_
+13	would	_	_	MD	_	_	_	_	_
+14	say	_	_	VB	_	_	_	_	_
+15	"	_	_	"	_	_	_	_	_
+16	.	_	_	.	_	_	_	_	_
+
+# sentid = file00752.txt_95
+# text = they saw lion . ...
+1	they	_	_	PRP	_	_	_	_	_
+2	saw	_	_	VBD	_	_	_	_	_
+3	lion	_	_	NN	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+5	...	_	_	:	_	_	_	_	_
+
+# sentid = file00654.txt_71
+# text = And probably he was asking the name of the wine .
+1	And	_	_	CC	_	_	_	_	_
+2	probably	_	_	RB	_	_	_	_	_
+3	he	_	_	PRP	_	_	_	_	_
+4	was	_	_	VBD	_	_	_	_	_
+5	asking	_	_	VBG	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	name	_	_	NN	_	_	_	_	_
+8	of	_	_	IN	_	_	_	_	_
+9	the	_	_	DT	_	_	_	_	_
+10	wine	_	_	NN	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file01158.txt_15
+# text = I guess it is around fifty centigrade around noon .
+1	I	_	_	PRP	_	_	_	_	_
+2	guess	_	_	VBP	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	around	_	_	RB	_	_	_	_	_
+6	fifty	_	_	CD	_	_	_	_	_
+7	centigrade	_	_	JJ	_	_	_	_	_
+8	around	_	_	IN	_	_	_	_	_
+9	noon	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01264.txt_14
+# text = he is a very kind and nice person , I guess .
+1	he	_	_	PRP	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	very	_	_	RB	_	_	_	_	_
+5	kind	_	_	JJ	_	_	_	_	_
+6	and	_	_	CC	_	_	_	_	_
+7	nice	_	_	JJ	_	_	_	_	_
+8	person	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	I	_	_	PRP	_	_	_	_	_
+11	guess	_	_	VBP	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00895.txt_39
+# text = But after I could get the entrance permission to Waseda University , I could start to go to the class .
+1	But	_	_	CC	_	_	_	_	_
+2	after	_	_	IN	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	could	_	_	MD	_	_	_	_	_
+5	get	_	_	VB	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	entrance	_	_	NN	_	_	_	_	_
+8	permission	_	_	NN	_	_	_	_	_
+9	to	_	_	TO	_	_	_	_	_
+10	Waseda	_	_	NNP	_	_	_	_	_
+11	University	_	_	NNP	_	_	_	_	_
+12	,	_	_	,	_	_	_	_	_
+13	I	_	_	PRP	_	_	_	_	_
+14	could	_	_	MD	_	_	_	_	_
+15	start	_	_	VB	_	_	_	_	_
+16	to	_	_	TO	_	_	_	_	_
+17	go	_	_	VB	_	_	_	_	_
+18	to	_	_	TO	_	_	_	_	_
+19	the	_	_	DT	_	_	_	_	_
+20	class	_	_	NN	_	_	_	_	_
+21	.	_	_	.	_	_	_	_	_
+
+# sentid = file00671.txt_64
+# text = And we ate just like pasta , pizza .
+1	And	_	_	CC	_	_	_	_	_
+2	we	_	_	PRP	_	_	_	_	_
+3	ate	_	_	VBD	_	_	_	_	_
+4	just	_	_	RB	_	_	_	_	_
+5	like	_	_	IN	_	_	_	_	_
+6	pasta	_	_	NN	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	pizza	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00035.txt_104
+# text = But just by themselves solution could not make out , it seems , so they seemed to decide to call police who can provide one solution .
+1	But	_	_	CC	_	_	_	_	_
+2	just	_	_	RB	_	_	_	_	_
+3	by	_	_	IN	_	_	_	_	_
+4	themselves	_	_	PRP	_	_	_	_	_
+5	solution	_	_	NN	_	_	_	_	_
+6	could	_	_	MD	_	_	_	_	_
+7	not	_	_	RB	_	_	_	_	_
+8	make	_	_	VB	_	_	_	_	_
+9	out	_	_	RP	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	it	_	_	PRP	_	_	_	_	_
+12	seems	_	_	VBZ	_	_	_	_	_
+13	,	_	_	,	_	_	_	_	_
+14	so	_	_	CC	_	_	_	_	_
+15	they	_	_	PRP	_	_	_	_	_
+16	seemed	_	_	VBD	_	_	_	_	_
+17	to	_	_	TO	_	_	_	_	_
+18	decide	_	_	VB	_	_	_	_	_
+19	to	_	_	TO	_	_	_	_	_
+20	call	_	_	VB	_	_	_	_	_
+21	police	_	_	NNS	_	_	_	_	_
+22	who	_	_	WP	_	_	_	_	_
+23	can	_	_	MD	_	_	_	_	_
+24	provide	_	_	VB	_	_	_	_	_
+25	one	_	_	CD	_	_	_	_	_
+26	solution	_	_	NN	_	_	_	_	_
+27	.	_	_	.	_	_	_	_	_
+
+# sentid = file00317.txt_54
+# text = and also I do n't smear the skirt .
+1	and	_	_	CC	_	_	_	_	_
+2	also	_	_	RB	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	do	_	_	VBP	_	_	_	_	_
+5	n't	_	_	RB	_	_	_	_	_
+6	smear	_	_	VB	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	skirt	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file01206.txt_35
+# text = Then I read books and then I ask somebody else here , who has been to that school .
+1	Then	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	read	_	_	VBP	_	_	_	_	_
+4	books	_	_	NNS	_	_	_	_	_
+5	and	_	_	CC	_	_	_	_	_
+6	then	_	_	RB	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	ask	_	_	VBP	_	_	_	_	_
+9	somebody	_	_	NN	_	_	_	_	_
+10	else	_	_	JJ	_	_	_	_	_
+11	here	_	_	RB	_	_	_	_	_
+12	,	_	_	,	_	_	_	_	_
+13	who	_	_	WP	_	_	_	_	_
+14	has	_	_	VBZ	_	_	_	_	_
+15	been	_	_	VBN	_	_	_	_	_
+16	to	_	_	TO	_	_	_	_	_
+17	that	_	_	DT	_	_	_	_	_
+18	school	_	_	NN	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file00285.txt_112
+# text = so , in order ?
+1	so	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	in	_	_	IN	_	_	_	_	_
+4	order	_	_	NN	_	_	_	_	_
+5	?	_	_	.	_	_	_	_	_
+
+# sentid = file01078.txt_25
+# text = Quiet and polite ?
+1	Quiet	_	_	JJ	_	_	_	_	_
+2	and	_	_	CC	_	_	_	_	_
+3	polite	_	_	JJ	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file00325.txt_96
+# text = And I was afraid if the water would come up , and the floor would be flooded .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	was	_	_	VBD	_	_	_	_	_
+4	afraid	_	_	JJ	_	_	_	_	_
+5	if	_	_	IN	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	water	_	_	NN	_	_	_	_	_
+8	would	_	_	MD	_	_	_	_	_
+9	come	_	_	VB	_	_	_	_	_
+10	up	_	_	RP	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	and	_	_	CC	_	_	_	_	_
+13	the	_	_	DT	_	_	_	_	_
+14	floor	_	_	NN	_	_	_	_	_
+15	would	_	_	MD	_	_	_	_	_
+16	be	_	_	VB	_	_	_	_	_
+17	flooded	_	_	VBN	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file00076.txt_89
+# text = It 's too expensive .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	too	_	_	RB	_	_	_	_	_
+4	expensive	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00542.txt_104
+# text = So after your boss came back , can I exchange ?
+1	So	_	_	RB	_	_	_	_	_
+2	after	_	_	IN	_	_	_	_	_
+3	your	_	_	PRP$	_	_	_	_	_
+4	boss	_	_	NN	_	_	_	_	_
+5	came	_	_	VBD	_	_	_	_	_
+6	back	_	_	RB	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	can	_	_	MD	_	_	_	_	_
+9	I	_	_	PRP	_	_	_	_	_
+10	exchange	_	_	VB	_	_	_	_	_
+11	?	_	_	.	_	_	_	_	_
+
+# sentid = file01216.txt_95
+# text = you know , I even did n't put on this coat .
+1	you	_	_	PRP	_	_	_	_	_
+2	know	_	_	VBP	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	even	_	_	RB	_	_	_	_	_
+6	did	_	_	VBD	_	_	_	_	_
+7	n't	_	_	RB	_	_	_	_	_
+8	put	_	_	VB	_	_	_	_	_
+9	on	_	_	RP	_	_	_	_	_
+10	this	_	_	DT	_	_	_	_	_
+11	coat	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00102.txt_53
+# text = how long does it take to get there ?
+1	how	_	_	WRB	_	_	_	_	_
+2	long	_	_	JJ	_	_	_	_	_
+3	does	_	_	VBZ	_	_	_	_	_
+4	it	_	_	PRP	_	_	_	_	_
+5	take	_	_	VB	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	get	_	_	VB	_	_	_	_	_
+8	there	_	_	RB	_	_	_	_	_
+9	?	_	_	.	_	_	_	_	_
+
+# sentid = file00475.txt_38
+# text = I 'd like to be a teacher or have a school .
+1	I	_	_	PRP	_	_	_	_	_
+2	'd	_	_	MD	_	_	_	_	_
+3	like	_	_	VB	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	be	_	_	VB	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	teacher	_	_	NN	_	_	_	_	_
+8	or	_	_	CC	_	_	_	_	_
+9	have	_	_	VB	_	_	_	_	_
+10	a	_	_	DT	_	_	_	_	_
+11	school	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00666.txt_105
+# text = First of all , in Saitama , you have lots of these announcements on the train .
+1	First	_	_	RB	_	_	_	_	_
+2	of	_	_	IN	_	_	_	_	_
+3	all	_	_	DT	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	in	_	_	IN	_	_	_	_	_
+6	Saitama	_	_	NNP	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	you	_	_	PRP	_	_	_	_	_
+9	have	_	_	VBP	_	_	_	_	_
+10	lots	_	_	NNS	_	_	_	_	_
+11	of	_	_	IN	_	_	_	_	_
+12	these	_	_	DT	_	_	_	_	_
+13	announcements	_	_	NNS	_	_	_	_	_
+14	on	_	_	IN	_	_	_	_	_
+15	the	_	_	DT	_	_	_	_	_
+16	train	_	_	NN	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file00026.txt_104
+# text = Last movie ?
+1	Last	_	_	JJ	_	_	_	_	_
+2	movie	_	_	NN	_	_	_	_	_
+3	?	_	_	.	_	_	_	_	_
+
+# sentid = file00574.txt_72
+# text = does it include our hotel and dinner ?
+1	does	_	_	VBZ	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	include	_	_	VB	_	_	_	_	_
+4	our	_	_	PRP$	_	_	_	_	_
+5	hotel	_	_	NN	_	_	_	_	_
+6	and	_	_	CC	_	_	_	_	_
+7	dinner	_	_	NN	_	_	_	_	_
+8	?	_	_	.	_	_	_	_	_
+
+# sentid = file00323.txt_61
+# text = And they are having wine testing .
+1	And	_	_	CC	_	_	_	_	_
+2	they	_	_	PRP	_	_	_	_	_
+3	are	_	_	VBP	_	_	_	_	_
+4	having	_	_	VBG	_	_	_	_	_
+5	wine	_	_	NN	_	_	_	_	_
+6	testing	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00237.txt_101
+# text = so now where do you live now ?
+1	so	_	_	RB	_	_	_	_	_
+2	now	_	_	RB	_	_	_	_	_
+3	where	_	_	WRB	_	_	_	_	_
+4	do	_	_	VBP	_	_	_	_	_
+5	you	_	_	PRP	_	_	_	_	_
+6	live	_	_	VB	_	_	_	_	_
+7	now	_	_	RB	_	_	_	_	_
+8	?	_	_	.	_	_	_	_	_
+
+# sentid = file00792.txt_47
+# text = And I can see the four people are playing with snow .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	can	_	_	MD	_	_	_	_	_
+4	see	_	_	VB	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	four	_	_	CD	_	_	_	_	_
+7	people	_	_	NNS	_	_	_	_	_
+8	are	_	_	VBP	_	_	_	_	_
+9	playing	_	_	VBG	_	_	_	_	_
+10	with	_	_	IN	_	_	_	_	_
+11	snow	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00290.txt_88
+# text = Last week , one woman went to department store because she had maybe her husband 's birthday .
+1	Last	_	_	JJ	_	_	_	_	_
+2	week	_	_	NN	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	one	_	_	CD	_	_	_	_	_
+5	woman	_	_	NN	_	_	_	_	_
+6	went	_	_	VBD	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	department	_	_	NN	_	_	_	_	_
+9	store	_	_	NN	_	_	_	_	_
+10	because	_	_	IN	_	_	_	_	_
+11	she	_	_	PRP	_	_	_	_	_
+12	had	_	_	VBD	_	_	_	_	_
+13	maybe	_	_	RB	_	_	_	_	_
+14	her	_	_	PRP$	_	_	_	_	_
+15	husband	_	_	NN	_	_	_	_	_
+16	's	_	_	POS	_	_	_	_	_
+17	birthday	_	_	NN	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file01096.txt_20
+# text = it was so hard .
+1	it	_	_	PRP	_	_	_	_	_
+2	was	_	_	VBD	_	_	_	_	_
+3	so	_	_	RB	_	_	_	_	_
+4	hard	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00462.txt_23
+# text = my son is three old now .
+1	my	_	_	PRP$	_	_	_	_	_
+2	son	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	three	_	_	CD	_	_	_	_	_
+5	old	_	_	JJ	_	_	_	_	_
+6	now	_	_	RB	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01148.txt_70
+# text = Only once .
+1	Only	_	_	RB	_	_	_	_	_
+2	once	_	_	RB	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00351.txt_132
+# text = And the policeman told us that the man on the scooter was responsible for the accident .
+1	And	_	_	CC	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	policeman	_	_	NN	_	_	_	_	_
+4	told	_	_	VBD	_	_	_	_	_
+5	us	_	_	PRP	_	_	_	_	_
+6	that	_	_	IN	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	man	_	_	NN	_	_	_	_	_
+9	on	_	_	IN	_	_	_	_	_
+10	the	_	_	DT	_	_	_	_	_
+11	scooter	_	_	NN	_	_	_	_	_
+12	was	_	_	VBD	_	_	_	_	_
+13	responsible	_	_	JJ	_	_	_	_	_
+14	for	_	_	IN	_	_	_	_	_
+15	the	_	_	DT	_	_	_	_	_
+16	accident	_	_	NN	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file01278.txt_21
+# text = And the other is Chiba .
+1	And	_	_	CC	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	other	_	_	NN	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	Chiba	_	_	NNP	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00571.txt_23
+# text = my job is about marketing research .
+1	my	_	_	PRP$	_	_	_	_	_
+2	job	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	about	_	_	IN	_	_	_	_	_
+5	marketing	_	_	NN	_	_	_	_	_
+6	research	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01246.txt_157
+# text = Interest experience in England .
+1	Interest	_	_	NN	_	_	_	_	_
+2	experience	_	_	NN	_	_	_	_	_
+3	in	_	_	IN	_	_	_	_	_
+4	England	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00926.txt_26
+# text = I will go to Hakone to Christmas party with all lacrosse teams
+1	I	_	_	PRP	_	_	_	_	_
+2	will	_	_	MD	_	_	_	_	_
+3	go	_	_	VB	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	Hakone	_	_	NNP	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	Christmas	_	_	NNP	_	_	_	_	_
+8	party	_	_	NN	_	_	_	_	_
+9	with	_	_	IN	_	_	_	_	_
+10	all	_	_	DT	_	_	_	_	_
+11	lacrosse	_	_	NN	_	_	_	_	_
+12	teams	_	_	NNS	_	_	_	_	_
+
+# sentid = file00802.txt_8
+# text = What was it ?
+1	What	_	_	WP	_	_	_	_	_
+2	was	_	_	VBD	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file00346.txt_9
+# text = And I 'm living with my sisters .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	'm	_	_	VBP	_	_	_	_	_
+4	living	_	_	VBG	_	_	_	_	_
+5	with	_	_	IN	_	_	_	_	_
+6	my	_	_	PRP$	_	_	_	_	_
+7	sisters	_	_	NNS	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01232.txt_51
+# text = a couple is having tea inside a log house .
+1	a	_	_	DT	_	_	_	_	_
+2	couple	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	having	_	_	VBG	_	_	_	_	_
+5	tea	_	_	NN	_	_	_	_	_
+6	inside	_	_	IN	_	_	_	_	_
+7	a	_	_	DT	_	_	_	_	_
+8	log	_	_	NN	_	_	_	_	_
+9	house	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00893.txt_11
+# text = And as a teacher , second year .
+1	And	_	_	CC	_	_	_	_	_
+2	as	_	_	IN	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	teacher	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	second	_	_	JJ	_	_	_	_	_
+7	year	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01263.txt_42
+# text = Even in Paris , it 's still calm .
+1	Even	_	_	RB	_	_	_	_	_
+2	in	_	_	IN	_	_	_	_	_
+3	Paris	_	_	NNP	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	it	_	_	PRP	_	_	_	_	_
+6	's	_	_	VBZ	_	_	_	_	_
+7	still	_	_	RB	_	_	_	_	_
+8	calm	_	_	JJ	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00543.txt_57
+# text = so this is the biggest problem I had , these days .
+1	so	_	_	RB	_	_	_	_	_
+2	this	_	_	DT	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	biggest	_	_	JJS	_	_	_	_	_
+6	problem	_	_	NN	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	had	_	_	VBD	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	these	_	_	DT	_	_	_	_	_
+11	days	_	_	NNS	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file01239.txt_176
+# text = And so Julia panicked saying , " my God , there 's a storm coming . " .
+1	And	_	_	CC	_	_	_	_	_
+2	so	_	_	CC	_	_	_	_	_
+3	Julia	_	_	NNP	_	_	_	_	_
+4	panicked	_	_	VBD	_	_	_	_	_
+5	saying	_	_	VBG	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	"	_	_	"	_	_	_	_	_
+8	my	_	_	PRP$	_	_	_	_	_
+9	God	_	_	NNP	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	there	_	_	EX	_	_	_	_	_
+12	's	_	_	VBZ	_	_	_	_	_
+13	a	_	_	DT	_	_	_	_	_
+14	storm	_	_	NN	_	_	_	_	_
+15	coming	_	_	VBG	_	_	_	_	_
+16	.	_	_	.	_	_	_	_	_
+17	"	_	_	"	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file01234.txt_141
+# text = And it was a fine day .
+1	And	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	was	_	_	VBD	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	fine	_	_	JJ	_	_	_	_	_
+6	day	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00656.txt_52
+# text = And do I need to explain everything ?
+1	And	_	_	CC	_	_	_	_	_
+2	do	_	_	VBP	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	need	_	_	VB	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	explain	_	_	VB	_	_	_	_	_
+7	everything	_	_	NN	_	_	_	_	_
+8	?	_	_	.	_	_	_	_	_
+
+# sentid = file00697.txt_187
+# text = So I love shopping .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	love	_	_	VBP	_	_	_	_	_
+4	shopping	_	_	VBG	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00430.txt_118
+# text = Not holiday . ?
+1	Not	_	_	RB	_	_	_	_	_
+2	holiday	_	_	NN	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file00259.txt_104
+# text = in your brochure and in your explanation , you told me my accommodation would be with Raffles Hotel .
+1	in	_	_	IN	_	_	_	_	_
+2	your	_	_	PRP$	_	_	_	_	_
+3	brochure	_	_	NN	_	_	_	_	_
+4	and	_	_	CC	_	_	_	_	_
+5	in	_	_	IN	_	_	_	_	_
+6	your	_	_	PRP$	_	_	_	_	_
+7	explanation	_	_	NN	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	you	_	_	PRP	_	_	_	_	_
+10	told	_	_	VBD	_	_	_	_	_
+11	me	_	_	PRP	_	_	_	_	_
+12	my	_	_	PRP$	_	_	_	_	_
+13	accommodation	_	_	NN	_	_	_	_	_
+14	would	_	_	MD	_	_	_	_	_
+15	be	_	_	VB	_	_	_	_	_
+16	with	_	_	IN	_	_	_	_	_
+17	Raffles	_	_	NNP	_	_	_	_	_
+18	Hotel	_	_	NNP	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file00441.txt_47
+# text = And one man is jogging .
+1	And	_	_	CC	_	_	_	_	_
+2	one	_	_	CD	_	_	_	_	_
+3	man	_	_	NN	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	jogging	_	_	VBG	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01242.txt_177
+# text = It 's hard to control every schedule and every club activities .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	hard	_	_	JJ	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	control	_	_	VB	_	_	_	_	_
+6	every	_	_	DT	_	_	_	_	_
+7	schedule	_	_	NN	_	_	_	_	_
+8	and	_	_	CC	_	_	_	_	_
+9	every	_	_	DT	_	_	_	_	_
+10	club	_	_	NN	_	_	_	_	_
+11	activities	_	_	NNS	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file01009.txt_13
+# text = My favorite place is Oze , Iwakura .
+1	My	_	_	PRP$	_	_	_	_	_
+2	favorite	_	_	JJ	_	_	_	_	_
+3	place	_	_	NN	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	Oze	_	_	NNP	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	Iwakura	_	_	NNP	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01228.txt_106
+# text = but John says that he should n't be talking on the phone while driving .
+1	but	_	_	CC	_	_	_	_	_
+2	John	_	_	NNP	_	_	_	_	_
+3	says	_	_	VBZ	_	_	_	_	_
+4	that	_	_	IN	_	_	_	_	_
+5	he	_	_	PRP	_	_	_	_	_
+6	should	_	_	MD	_	_	_	_	_
+7	n't	_	_	RB	_	_	_	_	_
+8	be	_	_	VB	_	_	_	_	_
+9	talking	_	_	VBG	_	_	_	_	_
+10	on	_	_	IN	_	_	_	_	_
+11	the	_	_	DT	_	_	_	_	_
+12	phone	_	_	NN	_	_	_	_	_
+13	while	_	_	IN	_	_	_	_	_
+14	driving	_	_	VBG	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00759.txt_12
+# text = My grandfather , grandmother , father and mother , and my small brother .
+1	My	_	_	PRP$	_	_	_	_	_
+2	grandfather	_	_	NN	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	grandmother	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	father	_	_	NN	_	_	_	_	_
+7	and	_	_	CC	_	_	_	_	_
+8	mother	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	and	_	_	CC	_	_	_	_	_
+11	my	_	_	PRP$	_	_	_	_	_
+12	small	_	_	JJ	_	_	_	_	_
+13	brother	_	_	NN	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00255.txt_9
+# text = It 's really difficult and hard . ... requirement .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	really	_	_	RB	_	_	_	_	_
+4	difficult	_	_	JJ	_	_	_	_	_
+5	and	_	_	CC	_	_	_	_	_
+6	hard	_	_	JJ	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+8	...	_	_	:	_	_	_	_	_
+9	requirement	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01220.txt_178
+# text = And we could n't stay there any longer because the wind was so hard and the rain was coming down really fast as well .
+1	And	_	_	CC	_	_	_	_	_
+2	we	_	_	PRP	_	_	_	_	_
+3	could	_	_	MD	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	stay	_	_	VB	_	_	_	_	_
+6	there	_	_	RB	_	_	_	_	_
+7	any	_	_	DT	_	_	_	_	_
+8	longer	_	_	RBR	_	_	_	_	_
+9	because	_	_	IN	_	_	_	_	_
+10	the	_	_	DT	_	_	_	_	_
+11	wind	_	_	NN	_	_	_	_	_
+12	was	_	_	VBD	_	_	_	_	_
+13	so	_	_	RB	_	_	_	_	_
+14	hard	_	_	JJ	_	_	_	_	_
+15	and	_	_	CC	_	_	_	_	_
+16	the	_	_	DT	_	_	_	_	_
+17	rain	_	_	NN	_	_	_	_	_
+18	was	_	_	VBD	_	_	_	_	_
+19	coming	_	_	VBG	_	_	_	_	_
+20	down	_	_	RB	_	_	_	_	_
+21	really	_	_	RB	_	_	_	_	_
+22	fast	_	_	JJ	_	_	_	_	_
+23	as	_	_	RB	_	_	_	_	_
+24	well	_	_	RB	_	_	_	_	_
+25	.	_	_	.	_	_	_	_	_
+
+# sentid = file00383.txt_46
+# text = big park .
+1	big	_	_	JJ	_	_	_	_	_
+2	park	_	_	NN	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00816.txt_127
+# text = And he dropped his bag .
+1	And	_	_	CC	_	_	_	_	_
+2	he	_	_	PRP	_	_	_	_	_
+3	dropped	_	_	VBD	_	_	_	_	_
+4	his	_	_	PRP$	_	_	_	_	_
+5	bag	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00178.txt_81
+# text = but I was a freshman in my university .
+1	but	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	was	_	_	VBD	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	freshman	_	_	NN	_	_	_	_	_
+6	in	_	_	IN	_	_	_	_	_
+7	my	_	_	PRP$	_	_	_	_	_
+8	university	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file01244.txt_74
+# text = Yes , I 'm doing fine .
+1	Yes	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	'm	_	_	VBP	_	_	_	_	_
+5	doing	_	_	VBG	_	_	_	_	_
+6	fine	_	_	JJ	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01271.txt_163
+# text = We did barbecue .
+1	We	_	_	PRP	_	_	_	_	_
+2	did	_	_	VBD	_	_	_	_	_
+3	barbecue	_	_	NN	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01115.txt_94
+# text = A parent to me ?
+1	A	_	_	DT	_	_	_	_	_
+2	parent	_	_	NN	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	me	_	_	PRP	_	_	_	_	_
+5	?	_	_	.	_	_	_	_	_
+
+# sentid = file00178.txt_18
+# text = because I 'm not good at speaking or hearing English , so maybe at first I will not be a main personality to meet to artists .
+1	because	_	_	IN	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	'm	_	_	VBP	_	_	_	_	_
+4	not	_	_	RB	_	_	_	_	_
+5	good	_	_	JJ	_	_	_	_	_
+6	at	_	_	IN	_	_	_	_	_
+7	speaking	_	_	VBG	_	_	_	_	_
+8	or	_	_	CC	_	_	_	_	_
+9	hearing	_	_	VBG	_	_	_	_	_
+10	English	_	_	NNP	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	so	_	_	CC	_	_	_	_	_
+13	maybe	_	_	RB	_	_	_	_	_
+14	at	_	_	IN	_	_	_	_	_
+15	first	_	_	RB	_	_	_	_	_
+16	I	_	_	PRP	_	_	_	_	_
+17	will	_	_	MD	_	_	_	_	_
+18	not	_	_	RB	_	_	_	_	_
+19	be	_	_	VB	_	_	_	_	_
+20	a	_	_	DT	_	_	_	_	_
+21	main	_	_	JJ	_	_	_	_	_
+22	personality	_	_	NN	_	_	_	_	_
+23	to	_	_	TO	_	_	_	_	_
+24	meet	_	_	VB	_	_	_	_	_
+25	to	_	_	TO	_	_	_	_	_
+26	artists	_	_	NNS	_	_	_	_	_
+27	.	_	_	.	_	_	_	_	_
+
+# sentid = file01280.txt_44
+# text = But the problem is that I 'm tired , working hard .
+1	But	_	_	CC	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	problem	_	_	NN	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	that	_	_	IN	_	_	_	_	_
+6	I	_	_	PRP	_	_	_	_	_
+7	'm	_	_	VBP	_	_	_	_	_
+8	tired	_	_	JJ	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	working	_	_	VBG	_	_	_	_	_
+11	hard	_	_	JJ	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file01101.txt_170
+# text = They got surprised at the same time .
+1	They	_	_	PRP	_	_	_	_	_
+2	got	_	_	VBD	_	_	_	_	_
+3	surprised	_	_	JJ	_	_	_	_	_
+4	at	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	same	_	_	JJ	_	_	_	_	_
+7	time	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00747.txt_29
+# text = the door is open .
+1	the	_	_	DT	_	_	_	_	_
+2	door	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	open	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00943.txt_138
+# text = she can open the door by herself .
+1	she	_	_	PRP	_	_	_	_	_
+2	can	_	_	MD	_	_	_	_	_
+3	open	_	_	VB	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	door	_	_	NN	_	_	_	_	_
+6	by	_	_	IN	_	_	_	_	_
+7	herself	_	_	PRP	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00347.txt_56
+# text = Population is quite large in the town in England , but I ca n't call it a city , because there are n't educated people .
+1	Population	_	_	NN	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	quite	_	_	RB	_	_	_	_	_
+4	large	_	_	JJ	_	_	_	_	_
+5	in	_	_	IN	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	town	_	_	NN	_	_	_	_	_
+8	in	_	_	IN	_	_	_	_	_
+9	England	_	_	NNP	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	but	_	_	CC	_	_	_	_	_
+12	I	_	_	PRP	_	_	_	_	_
+13	ca	_	_	MD	_	_	_	_	_
+14	n't	_	_	RB	_	_	_	_	_
+15	call	_	_	VB	_	_	_	_	_
+16	it	_	_	PRP	_	_	_	_	_
+17	a	_	_	DT	_	_	_	_	_
+18	city	_	_	NN	_	_	_	_	_
+19	,	_	_	,	_	_	_	_	_
+20	because	_	_	IN	_	_	_	_	_
+21	there	_	_	EX	_	_	_	_	_
+22	are	_	_	VBP	_	_	_	_	_
+23	n't	_	_	RB	_	_	_	_	_
+24	educated	_	_	JJ	_	_	_	_	_
+25	people	_	_	NNS	_	_	_	_	_
+26	.	_	_	.	_	_	_	_	_
+
+# sentid = file00652.txt_93
+# text = I guess I did .
+1	I	_	_	PRP	_	_	_	_	_
+2	guess	_	_	VBP	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	did	_	_	VBD	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01258.txt_43
+# text = And you can talk to them about how their country was compared to Japan .
+1	And	_	_	CC	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	can	_	_	MD	_	_	_	_	_
+4	talk	_	_	VB	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	them	_	_	PRP	_	_	_	_	_
+7	about	_	_	IN	_	_	_	_	_
+8	how	_	_	WRB	_	_	_	_	_
+9	their	_	_	PRP$	_	_	_	_	_
+10	country	_	_	NN	_	_	_	_	_
+11	was	_	_	VBD	_	_	_	_	_
+12	compared	_	_	VBN	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	Japan	_	_	NNP	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file01080.txt_184
+# text = I have never because at that time , I cried so much
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	never	_	_	RB	_	_	_	_	_
+4	because	_	_	IN	_	_	_	_	_
+5	at	_	_	IN	_	_	_	_	_
+6	that	_	_	DT	_	_	_	_	_
+7	time	_	_	NN	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	I	_	_	PRP	_	_	_	_	_
+10	cried	_	_	VBD	_	_	_	_	_
+11	so	_	_	RB	_	_	_	_	_
+12	much	_	_	RB	_	_	_	_	_
+
+# sentid = file00677.txt_174
+# text = I have n't seen it .
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	n't	_	_	RB	_	_	_	_	_
+4	seen	_	_	VBN	_	_	_	_	_
+5	it	_	_	PRP	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00295.txt_20
+# text = So my mother has tried to get along with her for a long time .
+1	So	_	_	RB	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	mother	_	_	NN	_	_	_	_	_
+4	has	_	_	VBZ	_	_	_	_	_
+5	tried	_	_	VBN	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	get	_	_	VB	_	_	_	_	_
+8	along	_	_	RP	_	_	_	_	_
+9	with	_	_	IN	_	_	_	_	_
+10	her	_	_	PRP	_	_	_	_	_
+11	for	_	_	IN	_	_	_	_	_
+12	a	_	_	DT	_	_	_	_	_
+13	long	_	_	JJ	_	_	_	_	_
+14	time	_	_	NN	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00924.txt_40
+# text = Cheap one .
+1	Cheap	_	_	JJ	_	_	_	_	_
+2	one	_	_	NN	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01241.txt_129
+# text = , I do n't know what it 's called , writing and driving .
+1	,	_	_	,	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	do	_	_	VBP	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	know	_	_	VB	_	_	_	_	_
+6	what	_	_	WP	_	_	_	_	_
+7	it	_	_	PRP	_	_	_	_	_
+8	's	_	_	VBZ	_	_	_	_	_
+9	called	_	_	VBN	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	writing	_	_	VBG	_	_	_	_	_
+12	and	_	_	CC	_	_	_	_	_
+13	driving	_	_	VBG	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file01119.txt_8
+# text = one week ago , I got the cold in Cincinnati because I stayed Cincinnati just until last Monday , so last week , I was so busy , and I got a cold , but almost I got over the cold
+1	one	_	_	CD	_	_	_	_	_
+2	week	_	_	NN	_	_	_	_	_
+3	ago	_	_	RB	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	got	_	_	VBD	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	cold	_	_	NN	_	_	_	_	_
+9	in	_	_	IN	_	_	_	_	_
+10	Cincinnati	_	_	NNP	_	_	_	_	_
+11	because	_	_	IN	_	_	_	_	_
+12	I	_	_	PRP	_	_	_	_	_
+13	stayed	_	_	VBD	_	_	_	_	_
+14	Cincinnati	_	_	NNP	_	_	_	_	_
+15	just	_	_	RB	_	_	_	_	_
+16	until	_	_	IN	_	_	_	_	_
+17	last	_	_	JJ	_	_	_	_	_
+18	Monday	_	_	NNP	_	_	_	_	_
+19	,	_	_	,	_	_	_	_	_
+20	so	_	_	CC	_	_	_	_	_
+21	last	_	_	JJ	_	_	_	_	_
+22	week	_	_	NN	_	_	_	_	_
+23	,	_	_	,	_	_	_	_	_
+24	I	_	_	PRP	_	_	_	_	_
+25	was	_	_	VBD	_	_	_	_	_
+26	so	_	_	RB	_	_	_	_	_
+27	busy	_	_	JJ	_	_	_	_	_
+28	,	_	_	,	_	_	_	_	_
+29	and	_	_	CC	_	_	_	_	_
+30	I	_	_	PRP	_	_	_	_	_
+31	got	_	_	VBD	_	_	_	_	_
+32	a	_	_	DT	_	_	_	_	_
+33	cold	_	_	NN	_	_	_	_	_
+34	,	_	_	,	_	_	_	_	_
+35	but	_	_	CC	_	_	_	_	_
+36	almost	_	_	RB	_	_	_	_	_
+37	I	_	_	PRP	_	_	_	_	_
+38	got	_	_	VBD	_	_	_	_	_
+39	over	_	_	RP	_	_	_	_	_
+40	the	_	_	DT	_	_	_	_	_
+41	cold	_	_	NN	_	_	_	_	_
+
+# sentid = file00802.txt_94
+# text = So I think he was a very good leader
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	think	_	_	VBP	_	_	_	_	_
+4	he	_	_	PRP	_	_	_	_	_
+5	was	_	_	VBD	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	very	_	_	RB	_	_	_	_	_
+8	good	_	_	JJ	_	_	_	_	_
+9	leader	_	_	NN	_	_	_	_	_
+
+# sentid = file00371.txt_7
+# text = I took the medicine for my allergy .
+1	I	_	_	PRP	_	_	_	_	_
+2	took	_	_	VBD	_	_	_	_	_
+3	the	_	_	DT	_	_	_	_	_
+4	medicine	_	_	NN	_	_	_	_	_
+5	for	_	_	IN	_	_	_	_	_
+6	my	_	_	PRP$	_	_	_	_	_
+7	allergy	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01269.txt_254
+# text = So I 'm sorry .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	'm	_	_	VBP	_	_	_	_	_
+4	sorry	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01206.txt_149
+# text = So I got a lot of Christmas candies yesterday .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	got	_	_	VBD	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	lot	_	_	NN	_	_	_	_	_
+6	of	_	_	IN	_	_	_	_	_
+7	Christmas	_	_	NNP	_	_	_	_	_
+8	candies	_	_	NNS	_	_	_	_	_
+9	yesterday	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01242.txt_115
+# text = then it 's OK to exchange into the normal price , not special .
+1	then	_	_	RB	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	OK	_	_	JJ	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	exchange	_	_	VB	_	_	_	_	_
+7	into	_	_	IN	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	normal	_	_	JJ	_	_	_	_	_
+10	price	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	not	_	_	RB	_	_	_	_	_
+13	special	_	_	JJ	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00421.txt_98
+# text = And when I was waiting a train on the platform , I nandakke my bag ... fell the train way outside the platform .
+1	And	_	_	CC	_	_	_	_	_
+2	when	_	_	WRB	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	was	_	_	VBD	_	_	_	_	_
+5	waiting	_	_	VBG	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	train	_	_	NN	_	_	_	_	_
+8	on	_	_	IN	_	_	_	_	_
+9	the	_	_	DT	_	_	_	_	_
+10	platform	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	I	_	_	PRP	_	_	_	_	_
+13	nandakke	_	_	FW	_	_	_	_	_
+14	my	_	_	PRP$	_	_	_	_	_
+15	bag	_	_	NN	_	_	_	_	_
+16	...	_	_	:	_	_	_	_	_
+17	fell	_	_	VBD	_	_	_	_	_
+18	the	_	_	DT	_	_	_	_	_
+19	train	_	_	NN	_	_	_	_	_
+20	way	_	_	RB	_	_	_	_	_
+21	outside	_	_	IN	_	_	_	_	_
+22	the	_	_	DT	_	_	_	_	_
+23	platform	_	_	NN	_	_	_	_	_
+24	.	_	_	.	_	_	_	_	_
+
+# sentid = file00492.txt_17
+# text = I like Japanese pop .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	Japanese	_	_	JJ	_	_	_	_	_
+4	pop	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00650.txt_25
+# text = I mean this school .
+1	I	_	_	PRP	_	_	_	_	_
+2	mean	_	_	VBP	_	_	_	_	_
+3	this	_	_	DT	_	_	_	_	_
+4	school	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01023.txt_10
+# text = What kind of e - mail ?
+1	What	_	_	WDT	_	_	_	_	_
+2	kind	_	_	NN	_	_	_	_	_
+3	of	_	_	IN	_	_	_	_	_
+4	e	_	_	JJ	_	_	_	_	_
+5	-	_	_	:	_	_	_	_	_
+6	mail	_	_	NN	_	_	_	_	_
+7	?	_	_	.	_	_	_	_	_
+
+# sentid = file01195.txt_9
+# text = I 'm sorry .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	sorry	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01214.txt_114
+# text = One day last week , a friend of mine was dating with her boyfriend .
+1	One	_	_	CD	_	_	_	_	_
+2	day	_	_	NN	_	_	_	_	_
+3	last	_	_	JJ	_	_	_	_	_
+4	week	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	friend	_	_	NN	_	_	_	_	_
+8	of	_	_	IN	_	_	_	_	_
+9	mine	_	_	PRP	_	_	_	_	_
+10	was	_	_	VBD	_	_	_	_	_
+11	dating	_	_	VBG	_	_	_	_	_
+12	with	_	_	IN	_	_	_	_	_
+13	her	_	_	PRP$	_	_	_	_	_
+14	boyfriend	_	_	NN	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00895.txt_24
+# text = And then I could start ... from this April .
+1	And	_	_	CC	_	_	_	_	_
+2	then	_	_	RB	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	could	_	_	MD	_	_	_	_	_
+5	start	_	_	VB	_	_	_	_	_
+6	...	_	_	:	_	_	_	_	_
+7	from	_	_	IN	_	_	_	_	_
+8	this	_	_	DT	_	_	_	_	_
+9	April	_	_	NNP	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00748.txt_28
+# text = It 's cheap restaurant .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	cheap	_	_	JJ	_	_	_	_	_
+4	restaurant	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01262.txt_94
+# text = so I have n't gone much .
+1	so	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	have	_	_	VBP	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	gone	_	_	VBN	_	_	_	_	_
+6	much	_	_	RB	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01166.txt_86
+# text = After buying present , she walked in department store and found final sale of lady 's shoes and lady 's clothes .
+1	After	_	_	IN	_	_	_	_	_
+2	buying	_	_	VBG	_	_	_	_	_
+3	present	_	_	NN	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	she	_	_	PRP	_	_	_	_	_
+6	walked	_	_	VBD	_	_	_	_	_
+7	in	_	_	IN	_	_	_	_	_
+8	department	_	_	NN	_	_	_	_	_
+9	store	_	_	NN	_	_	_	_	_
+10	and	_	_	CC	_	_	_	_	_
+11	found	_	_	VBD	_	_	_	_	_
+12	final	_	_	JJ	_	_	_	_	_
+13	sale	_	_	NN	_	_	_	_	_
+14	of	_	_	IN	_	_	_	_	_
+15	lady	_	_	NN	_	_	_	_	_
+16	's	_	_	POS	_	_	_	_	_
+17	shoes	_	_	NNS	_	_	_	_	_
+18	and	_	_	CC	_	_	_	_	_
+19	lady	_	_	NN	_	_	_	_	_
+20	's	_	_	POS	_	_	_	_	_
+21	clothes	_	_	NNS	_	_	_	_	_
+22	.	_	_	.	_	_	_	_	_
+
+# sentid = file00862.txt_126
+# text = So , inside of the train has a little bit , how do you say , continental or yeah , colonial mood .
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	inside	_	_	NN	_	_	_	_	_
+4	of	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	train	_	_	NN	_	_	_	_	_
+7	has	_	_	VBZ	_	_	_	_	_
+8	a	_	_	DT	_	_	_	_	_
+9	little	_	_	JJ	_	_	_	_	_
+10	bit	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	how	_	_	WRB	_	_	_	_	_
+13	do	_	_	VBP	_	_	_	_	_
+14	you	_	_	PRP	_	_	_	_	_
+15	say	_	_	VB	_	_	_	_	_
+16	,	_	_	,	_	_	_	_	_
+17	continental	_	_	JJ	_	_	_	_	_
+18	or	_	_	CC	_	_	_	_	_
+19	yeah	_	_	UH	_	_	_	_	_
+20	,	_	_	,	_	_	_	_	_
+21	colonial	_	_	JJ	_	_	_	_	_
+22	mood	_	_	NN	_	_	_	_	_
+23	.	_	_	.	_	_	_	_	_
+
+# sentid = file01101.txt_189
+# text = And , OK , this is the situation when you hit the other person .
+1	And	_	_	CC	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	OK	_	_	UH	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	this	_	_	DT	_	_	_	_	_
+6	is	_	_	VBZ	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	situation	_	_	NN	_	_	_	_	_
+9	when	_	_	WRB	_	_	_	_	_
+10	you	_	_	PRP	_	_	_	_	_
+11	hit	_	_	VBP	_	_	_	_	_
+12	the	_	_	DT	_	_	_	_	_
+13	other	_	_	JJ	_	_	_	_	_
+14	person	_	_	NN	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file01023.txt_64
+# text = how much is this ?
+1	how	_	_	WRB	_	_	_	_	_
+2	much	_	_	JJ	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	this	_	_	DT	_	_	_	_	_
+5	?	_	_	.	_	_	_	_	_
+
+# sentid = file00767.txt_26
+# text = I like running so I will go to gym after this .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	running	_	_	VBG	_	_	_	_	_
+4	so	_	_	CC	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	will	_	_	MD	_	_	_	_	_
+7	go	_	_	VB	_	_	_	_	_
+8	to	_	_	TO	_	_	_	_	_
+9	gym	_	_	NN	_	_	_	_	_
+10	after	_	_	IN	_	_	_	_	_
+11	this	_	_	DT	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file01213.txt_59
+# text = And then clock is hanging on the wall .
+1	And	_	_	CC	_	_	_	_	_
+2	then	_	_	RB	_	_	_	_	_
+3	clock	_	_	NN	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	hanging	_	_	VBG	_	_	_	_	_
+6	on	_	_	IN	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	wall	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00179.txt_8
+# text = I do n't join .
+1	I	_	_	PRP	_	_	_	_	_
+2	do	_	_	VBP	_	_	_	_	_
+3	n't	_	_	RB	_	_	_	_	_
+4	join	_	_	VB	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01186.txt_241
+# text = And also , I can not use the mission car , probably .
+1	And	_	_	CC	_	_	_	_	_
+2	also	_	_	RB	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	can	_	_	MD	_	_	_	_	_
+6	not	_	_	RB	_	_	_	_	_
+7	use	_	_	VB	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	mission	_	_	NN	_	_	_	_	_
+10	car	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	probably	_	_	RB	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00793.txt_65
+# text = I thought about that , but .
+1	I	_	_	PRP	_	_	_	_	_
+2	thought	_	_	VBD	_	_	_	_	_
+3	about	_	_	IN	_	_	_	_	_
+4	that	_	_	DT	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	but	_	_	CC	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01243.txt_137
+# text = can you call the manager ?
+1	can	_	_	MD	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	call	_	_	VB	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	manager	_	_	NN	_	_	_	_	_
+6	?	_	_	.	_	_	_	_	_
+
+# sentid = file01101.txt_18
+# text = We got not a house but apartment after marriage .
+1	We	_	_	PRP	_	_	_	_	_
+2	got	_	_	VBD	_	_	_	_	_
+3	not	_	_	RB	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	house	_	_	NN	_	_	_	_	_
+6	but	_	_	CC	_	_	_	_	_
+7	apartment	_	_	NN	_	_	_	_	_
+8	after	_	_	IN	_	_	_	_	_
+9	marriage	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01003.txt_45
+# text = I want a something good for souvenir for my parents .
+1	I	_	_	PRP	_	_	_	_	_
+2	want	_	_	VBP	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	something	_	_	NN	_	_	_	_	_
+5	good	_	_	JJ	_	_	_	_	_
+6	for	_	_	IN	_	_	_	_	_
+7	souvenir	_	_	NN	_	_	_	_	_
+8	for	_	_	IN	_	_	_	_	_
+9	my	_	_	PRP$	_	_	_	_	_
+10	parents	_	_	NNS	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file00320.txt_147
+# text = And at that moment , the man who was driving the motorcycle , he drop his cell phone .
+1	And	_	_	CC	_	_	_	_	_
+2	at	_	_	IN	_	_	_	_	_
+3	that	_	_	DT	_	_	_	_	_
+4	moment	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	man	_	_	NN	_	_	_	_	_
+8	who	_	_	WP	_	_	_	_	_
+9	was	_	_	VBD	_	_	_	_	_
+10	driving	_	_	VBG	_	_	_	_	_
+11	the	_	_	DT	_	_	_	_	_
+12	motorcycle	_	_	NN	_	_	_	_	_
+13	,	_	_	,	_	_	_	_	_
+14	he	_	_	PRP	_	_	_	_	_
+15	drop	_	_	VB	_	_	_	_	_
+16	his	_	_	PRP$	_	_	_	_	_
+17	cell	_	_	NN	_	_	_	_	_
+18	phone	_	_	NN	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file01225.txt_133
+# text = So there were lots of parties like that .
+1	So	_	_	RB	_	_	_	_	_
+2	there	_	_	EX	_	_	_	_	_
+3	were	_	_	VBD	_	_	_	_	_
+4	lots	_	_	NNS	_	_	_	_	_
+5	of	_	_	IN	_	_	_	_	_
+6	parties	_	_	NNS	_	_	_	_	_
+7	like	_	_	IN	_	_	_	_	_
+8	that	_	_	DT	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00197.txt_11
+# text = I come by bicycle .
+1	I	_	_	PRP	_	_	_	_	_
+2	come	_	_	VBP	_	_	_	_	_
+3	by	_	_	IN	_	_	_	_	_
+4	bicycle	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01238.txt_19
+# text = and I just came back a year ago .
+1	and	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	just	_	_	RB	_	_	_	_	_
+4	came	_	_	VBD	_	_	_	_	_
+5	back	_	_	RB	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	year	_	_	NN	_	_	_	_	_
+8	ago	_	_	RB	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00919.txt_23
+# text = And only this student is concentrates on the class .
+1	And	_	_	CC	_	_	_	_	_
+2	only	_	_	RB	_	_	_	_	_
+3	this	_	_	DT	_	_	_	_	_
+4	student	_	_	NN	_	_	_	_	_
+5	is	_	_	VBZ	_	_	_	_	_
+6	concentrates	_	_	VBZ	_	_	_	_	_
+7	on	_	_	IN	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	class	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00652.txt_101
+# text = It was the first time I ever made speech in my life .
+1	It	_	_	PRP	_	_	_	_	_
+2	was	_	_	VBD	_	_	_	_	_
+3	the	_	_	DT	_	_	_	_	_
+4	first	_	_	JJ	_	_	_	_	_
+5	time	_	_	NN	_	_	_	_	_
+6	I	_	_	PRP	_	_	_	_	_
+7	ever	_	_	RB	_	_	_	_	_
+8	made	_	_	VBD	_	_	_	_	_
+9	speech	_	_	NN	_	_	_	_	_
+10	in	_	_	IN	_	_	_	_	_
+11	my	_	_	PRP$	_	_	_	_	_
+12	life	_	_	NN	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00981.txt_76
+# text = So I now has ticket for the reserved seat .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	now	_	_	RB	_	_	_	_	_
+4	has	_	_	VBZ	_	_	_	_	_
+5	ticket	_	_	NN	_	_	_	_	_
+6	for	_	_	IN	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	reserved	_	_	JJ	_	_	_	_	_
+9	seat	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00721.txt_58
+# text = Tomorrow , I 'm going to play soccer with friend who went to the same high school .
+1	Tomorrow	_	_	NN	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	'm	_	_	VBP	_	_	_	_	_
+5	going	_	_	VBG	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	play	_	_	VB	_	_	_	_	_
+8	soccer	_	_	NN	_	_	_	_	_
+9	with	_	_	IN	_	_	_	_	_
+10	friend	_	_	NN	_	_	_	_	_
+11	who	_	_	WP	_	_	_	_	_
+12	went	_	_	VBD	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	the	_	_	DT	_	_	_	_	_
+15	same	_	_	JJ	_	_	_	_	_
+16	high	_	_	JJ	_	_	_	_	_
+17	school	_	_	NN	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file01247.txt_132
+# text = And the man was panicked worrying that his briefcase was damaged .
+1	And	_	_	CC	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	man	_	_	NN	_	_	_	_	_
+4	was	_	_	VBD	_	_	_	_	_
+5	panicked	_	_	JJ	_	_	_	_	_
+6	worrying	_	_	VBG	_	_	_	_	_
+7	that	_	_	IN	_	_	_	_	_
+8	his	_	_	PRP$	_	_	_	_	_
+9	briefcase	_	_	NN	_	_	_	_	_
+10	was	_	_	VBD	_	_	_	_	_
+11	damaged	_	_	JJ	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file01001.txt_81
+# text = I 'm waiting Yurakucho station .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	waiting	_	_	VBG	_	_	_	_	_
+4	Yurakucho	_	_	NNP	_	_	_	_	_
+5	station	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01239.txt_83
+# text = But so , gums are not allowed on campus so no one would be chewing gum .
+1	But	_	_	CC	_	_	_	_	_
+2	so	_	_	CC	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	gums	_	_	NNS	_	_	_	_	_
+5	are	_	_	VBP	_	_	_	_	_
+6	not	_	_	RB	_	_	_	_	_
+7	allowed	_	_	VBN	_	_	_	_	_
+8	on	_	_	IN	_	_	_	_	_
+9	campus	_	_	NN	_	_	_	_	_
+10	so	_	_	CC	_	_	_	_	_
+11	no	_	_	DT	_	_	_	_	_
+12	one	_	_	NN	_	_	_	_	_
+13	would	_	_	MD	_	_	_	_	_
+14	be	_	_	VB	_	_	_	_	_
+15	chewing	_	_	NN	_	_	_	_	_
+16	gum	_	_	NN	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file01261.txt_19
+# text = Brazil and France .
+1	Brazil	_	_	NNP	_	_	_	_	_
+2	and	_	_	CC	_	_	_	_	_
+3	France	_	_	NNP	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00285.txt_61
+# text = Just the atmosphere .
+1	Just	_	_	RB	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	atmosphere	_	_	NN	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00562.txt_57
+# text = I want to go there at noon .
+1	I	_	_	PRP	_	_	_	_	_
+2	want	_	_	VBP	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	go	_	_	VB	_	_	_	_	_
+5	there	_	_	RB	_	_	_	_	_
+6	at	_	_	IN	_	_	_	_	_
+7	noon	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01215.txt_78
+# text = That was very , very good experience for me .
+1	That	_	_	DT	_	_	_	_	_
+2	was	_	_	VBD	_	_	_	_	_
+3	very	_	_	RB	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	very	_	_	RB	_	_	_	_	_
+6	good	_	_	JJ	_	_	_	_	_
+7	experience	_	_	NN	_	_	_	_	_
+8	for	_	_	IN	_	_	_	_	_
+9	me	_	_	PRP	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01219.txt_138
+# text = No , I do n't .
+1	No	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	do	_	_	VBP	_	_	_	_	_
+5	n't	_	_	RB	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01051.txt_45
+# text = How how much ?
+1	How	_	_	WRB	_	_	_	_	_
+2	how	_	_	WRB	_	_	_	_	_
+3	much	_	_	JJ	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file01267.txt_46
+# text = But in the States , in the classroom , if I had to participate in the conversations or discussions , I had to understand to be part of it .
+1	But	_	_	CC	_	_	_	_	_
+2	in	_	_	IN	_	_	_	_	_
+3	the	_	_	DT	_	_	_	_	_
+4	States	_	_	NNP	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	in	_	_	IN	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	classroom	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	if	_	_	IN	_	_	_	_	_
+11	I	_	_	PRP	_	_	_	_	_
+12	had	_	_	VBD	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	participate	_	_	VB	_	_	_	_	_
+15	in	_	_	IN	_	_	_	_	_
+16	the	_	_	DT	_	_	_	_	_
+17	conversations	_	_	NNS	_	_	_	_	_
+18	or	_	_	CC	_	_	_	_	_
+19	discussions	_	_	NNS	_	_	_	_	_
+20	,	_	_	,	_	_	_	_	_
+21	I	_	_	PRP	_	_	_	_	_
+22	had	_	_	VBD	_	_	_	_	_
+23	to	_	_	TO	_	_	_	_	_
+24	understand	_	_	VB	_	_	_	_	_
+25	to	_	_	TO	_	_	_	_	_
+26	be	_	_	VB	_	_	_	_	_
+27	part	_	_	NN	_	_	_	_	_
+28	of	_	_	IN	_	_	_	_	_
+29	it	_	_	PRP	_	_	_	_	_
+30	.	_	_	.	_	_	_	_	_
+
+# sentid = file00980.txt_153
+# text = I really , really appreciate it .
+1	I	_	_	PRP	_	_	_	_	_
+2	really	_	_	RB	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	really	_	_	RB	_	_	_	_	_
+5	appreciate	_	_	VBP	_	_	_	_	_
+6	it	_	_	PRP	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01226.txt_39
+# text = a little bit , I think .
+1	a	_	_	DT	_	_	_	_	_
+2	little	_	_	JJ	_	_	_	_	_
+3	bit	_	_	NN	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	think	_	_	VBP	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00674.txt_58
+# text = I understand .
+1	I	_	_	PRP	_	_	_	_	_
+2	understand	_	_	VBP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00816.txt_45
+# text = So strange cat .
+1	So	_	_	RB	_	_	_	_	_
+2	strange	_	_	JJ	_	_	_	_	_
+3	cat	_	_	NN	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00165.txt_191
+# text = so many times , I checked , " there is dash . " .
+1	so	_	_	RB	_	_	_	_	_
+2	many	_	_	JJ	_	_	_	_	_
+3	times	_	_	NNS	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	checked	_	_	VBD	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	"	_	_	"	_	_	_	_	_
+9	there	_	_	EX	_	_	_	_	_
+10	is	_	_	VBZ	_	_	_	_	_
+11	dash	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+13	"	_	_	"	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00788.txt_34
+# text = like OK .
+1	like	_	_	UH	_	_	_	_	_
+2	OK	_	_	UH	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01241.txt_22
+# text = Because I do n't know .
+1	Because	_	_	IN	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	do	_	_	VBP	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	know	_	_	VB	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00454.txt_57
+# text = I easily make by Word , I easily make .
+1	I	_	_	PRP	_	_	_	_	_
+2	easily	_	_	RB	_	_	_	_	_
+3	make	_	_	VBP	_	_	_	_	_
+4	by	_	_	IN	_	_	_	_	_
+5	Word	_	_	NNP	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	easily	_	_	RB	_	_	_	_	_
+9	make	_	_	VBP	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00734.txt_38
+# text = around my house , it has no tree .
+1	around	_	_	IN	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	house	_	_	NN	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	it	_	_	PRP	_	_	_	_	_
+6	has	_	_	VBZ	_	_	_	_	_
+7	no	_	_	DT	_	_	_	_	_
+8	tree	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00332.txt_76
+# text = But , you know , when new people come into your apartment , maybe , you fix everything .
+1	But	_	_	CC	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	you	_	_	PRP	_	_	_	_	_
+4	know	_	_	VBP	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	when	_	_	WRB	_	_	_	_	_
+7	new	_	_	JJ	_	_	_	_	_
+8	people	_	_	NNS	_	_	_	_	_
+9	come	_	_	VBP	_	_	_	_	_
+10	into	_	_	IN	_	_	_	_	_
+11	your	_	_	PRP$	_	_	_	_	_
+12	apartment	_	_	NN	_	_	_	_	_
+13	,	_	_	,	_	_	_	_	_
+14	maybe	_	_	RB	_	_	_	_	_
+15	,	_	_	,	_	_	_	_	_
+16	you	_	_	PRP	_	_	_	_	_
+17	fix	_	_	VBP	_	_	_	_	_
+18	everything	_	_	NN	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file00516.txt_77
+# text = And there are not so many traffic light .
+1	And	_	_	CC	_	_	_	_	_
+2	there	_	_	EX	_	_	_	_	_
+3	are	_	_	VBP	_	_	_	_	_
+4	not	_	_	RB	_	_	_	_	_
+5	so	_	_	RB	_	_	_	_	_
+6	many	_	_	JJ	_	_	_	_	_
+7	traffic	_	_	NN	_	_	_	_	_
+8	light	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00012.txt_67
+# text = So maybe I drunk .
+1	So	_	_	RB	_	_	_	_	_
+2	maybe	_	_	RB	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	drunk	_	_	VBN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01220.txt_12
+# text = And I like to learn what we should do from now on for the future to make a better future for us .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	like	_	_	VBP	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	learn	_	_	VB	_	_	_	_	_
+6	what	_	_	WP	_	_	_	_	_
+7	we	_	_	PRP	_	_	_	_	_
+8	should	_	_	MD	_	_	_	_	_
+9	do	_	_	VB	_	_	_	_	_
+10	from	_	_	IN	_	_	_	_	_
+11	now	_	_	RB	_	_	_	_	_
+12	on	_	_	IN	_	_	_	_	_
+13	for	_	_	IN	_	_	_	_	_
+14	the	_	_	DT	_	_	_	_	_
+15	future	_	_	NN	_	_	_	_	_
+16	to	_	_	TO	_	_	_	_	_
+17	make	_	_	VB	_	_	_	_	_
+18	a	_	_	DT	_	_	_	_	_
+19	better	_	_	JJR	_	_	_	_	_
+20	future	_	_	NN	_	_	_	_	_
+21	for	_	_	IN	_	_	_	_	_
+22	us	_	_	PRP	_	_	_	_	_
+23	.	_	_	.	_	_	_	_	_
+
+# sentid = file00748.txt_59
+# text = And monkey ate banana .
+1	And	_	_	CC	_	_	_	_	_
+2	monkey	_	_	NN	_	_	_	_	_
+3	ate	_	_	VBD	_	_	_	_	_
+4	banana	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00337.txt_27
+# text = Then , she quit , and she got new job .
+1	Then	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	she	_	_	PRP	_	_	_	_	_
+4	quit	_	_	VBD	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	and	_	_	CC	_	_	_	_	_
+7	she	_	_	PRP	_	_	_	_	_
+8	got	_	_	VBD	_	_	_	_	_
+9	new	_	_	JJ	_	_	_	_	_
+10	job	_	_	NN	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file01139.txt_18
+# text = So if I watch his movie , I 'm not interested in the movie .
+1	So	_	_	RB	_	_	_	_	_
+2	if	_	_	IN	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	watch	_	_	VBP	_	_	_	_	_
+5	his	_	_	PRP$	_	_	_	_	_
+6	movie	_	_	NN	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	I	_	_	PRP	_	_	_	_	_
+9	'm	_	_	VBP	_	_	_	_	_
+10	not	_	_	RB	_	_	_	_	_
+11	interested	_	_	JJ	_	_	_	_	_
+12	in	_	_	IN	_	_	_	_	_
+13	the	_	_	DT	_	_	_	_	_
+14	movie	_	_	NN	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00166.txt_45
+# text = the husband tries tasting .
+1	the	_	_	DT	_	_	_	_	_
+2	husband	_	_	NN	_	_	_	_	_
+3	tries	_	_	VBZ	_	_	_	_	_
+4	tasting	_	_	VBG	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00789.txt_158
+# text = And then so just describe the story .
+1	And	_	_	CC	_	_	_	_	_
+2	then	_	_	RB	_	_	_	_	_
+3	so	_	_	CC	_	_	_	_	_
+4	just	_	_	RB	_	_	_	_	_
+5	describe	_	_	VB	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	story	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00792.txt_50
+# text = But it 's strange there is no people on the lift .
+1	But	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	strange	_	_	JJ	_	_	_	_	_
+5	there	_	_	EX	_	_	_	_	_
+6	is	_	_	VBZ	_	_	_	_	_
+7	no	_	_	DT	_	_	_	_	_
+8	people	_	_	NNS	_	_	_	_	_
+9	on	_	_	IN	_	_	_	_	_
+10	the	_	_	DT	_	_	_	_	_
+11	lift	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00411.txt_73
+# text = It cost two thousand yen .
+1	It	_	_	PRP	_	_	_	_	_
+2	cost	_	_	VBD	_	_	_	_	_
+3	two	_	_	CD	_	_	_	_	_
+4	thousand	_	_	CD	_	_	_	_	_
+5	yen	_	_	NNS	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00491.txt_100
+# text = I had been accident once .
+1	I	_	_	PRP	_	_	_	_	_
+2	had	_	_	VBD	_	_	_	_	_
+3	been	_	_	VBN	_	_	_	_	_
+4	accident	_	_	NN	_	_	_	_	_
+5	once	_	_	RB	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00303.txt_173
+# text = after that , I 'm go back my home and may take the family to go out .
+1	after	_	_	IN	_	_	_	_	_
+2	that	_	_	DT	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	'm	_	_	VBP	_	_	_	_	_
+6	go	_	_	VB	_	_	_	_	_
+7	back	_	_	RB	_	_	_	_	_
+8	my	_	_	PRP$	_	_	_	_	_
+9	home	_	_	NN	_	_	_	_	_
+10	and	_	_	CC	_	_	_	_	_
+11	may	_	_	MD	_	_	_	_	_
+12	take	_	_	VB	_	_	_	_	_
+13	the	_	_	DT	_	_	_	_	_
+14	family	_	_	NN	_	_	_	_	_
+15	to	_	_	TO	_	_	_	_	_
+16	go	_	_	VB	_	_	_	_	_
+17	out	_	_	RP	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file00599.txt_30
+# text = I hope so .
+1	I	_	_	PRP	_	_	_	_	_
+2	hope	_	_	VBP	_	_	_	_	_
+3	so	_	_	RB	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00737.txt_37
+# text = And it 's name
+1	And	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	name	_	_	NN	_	_	_	_	_
+
+# sentid = file00842.txt_93
+# text = Could you tell me what kind of beef would be suitable for cooking curry ?
+1	Could	_	_	MD	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	tell	_	_	VB	_	_	_	_	_
+4	me	_	_	PRP	_	_	_	_	_
+5	what	_	_	WDT	_	_	_	_	_
+6	kind	_	_	NN	_	_	_	_	_
+7	of	_	_	IN	_	_	_	_	_
+8	beef	_	_	NN	_	_	_	_	_
+9	would	_	_	MD	_	_	_	_	_
+10	be	_	_	VB	_	_	_	_	_
+11	suitable	_	_	JJ	_	_	_	_	_
+12	for	_	_	IN	_	_	_	_	_
+13	cooking	_	_	VBG	_	_	_	_	_
+14	curry	_	_	NN	_	_	_	_	_
+15	?	_	_	.	_	_	_	_	_
+
+# sentid = file01065.txt_3
+# text = I 'm fine .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	fine	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00487.txt_30
+# text = And women talking near the car .
+1	And	_	_	CC	_	_	_	_	_
+2	women	_	_	NNS	_	_	_	_	_
+3	talking	_	_	VBG	_	_	_	_	_
+4	near	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	car	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00699.txt_103
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01136.txt_45
+# text = And the last , they see the monkey .
+1	And	_	_	CC	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	last	_	_	JJ	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	they	_	_	PRP	_	_	_	_	_
+6	see	_	_	VBP	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	monkey	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00054.txt_30
+# text = the last October , her baby was born , he is only two months old and he is very cute .
+1	the	_	_	DT	_	_	_	_	_
+2	last	_	_	JJ	_	_	_	_	_
+3	October	_	_	NNP	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	her	_	_	PRP$	_	_	_	_	_
+6	baby	_	_	NN	_	_	_	_	_
+7	was	_	_	VBD	_	_	_	_	_
+8	born	_	_	VBN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	he	_	_	PRP	_	_	_	_	_
+11	is	_	_	VBZ	_	_	_	_	_
+12	only	_	_	RB	_	_	_	_	_
+13	two	_	_	CD	_	_	_	_	_
+14	months	_	_	NNS	_	_	_	_	_
+15	old	_	_	JJ	_	_	_	_	_
+16	and	_	_	CC	_	_	_	_	_
+17	he	_	_	PRP	_	_	_	_	_
+18	is	_	_	VBZ	_	_	_	_	_
+19	very	_	_	RB	_	_	_	_	_
+20	cute	_	_	JJ	_	_	_	_	_
+21	.	_	_	.	_	_	_	_	_
+
+# sentid = file00052.txt_61
+# text = actually , I have no classes today , but there is complementary classes or lessons today , so I could n't go to your party .
+1	actually	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	have	_	_	VBP	_	_	_	_	_
+5	no	_	_	DT	_	_	_	_	_
+6	classes	_	_	NNS	_	_	_	_	_
+7	today	_	_	NN	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	but	_	_	CC	_	_	_	_	_
+10	there	_	_	EX	_	_	_	_	_
+11	is	_	_	VBZ	_	_	_	_	_
+12	complementary	_	_	JJ	_	_	_	_	_
+13	classes	_	_	NNS	_	_	_	_	_
+14	or	_	_	CC	_	_	_	_	_
+15	lessons	_	_	NNS	_	_	_	_	_
+16	today	_	_	NN	_	_	_	_	_
+17	,	_	_	,	_	_	_	_	_
+18	so	_	_	CC	_	_	_	_	_
+19	I	_	_	PRP	_	_	_	_	_
+20	could	_	_	MD	_	_	_	_	_
+21	n't	_	_	RB	_	_	_	_	_
+22	go	_	_	VB	_	_	_	_	_
+23	to	_	_	TO	_	_	_	_	_
+24	your	_	_	PRP$	_	_	_	_	_
+25	party	_	_	NN	_	_	_	_	_
+26	.	_	_	.	_	_	_	_	_
+
+# sentid = file00374.txt_73
+# text = But they do n't have any interest in them .
+1	But	_	_	CC	_	_	_	_	_
+2	they	_	_	PRP	_	_	_	_	_
+3	do	_	_	VBP	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	have	_	_	VB	_	_	_	_	_
+6	any	_	_	DT	_	_	_	_	_
+7	interest	_	_	NN	_	_	_	_	_
+8	in	_	_	IN	_	_	_	_	_
+9	them	_	_	PRP	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00127.txt_18
+# text = but , as far as I take , Okinawa line , it is very , how can I say , jammed .
+1	but	_	_	CC	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	as	_	_	RB	_	_	_	_	_
+4	far	_	_	RB	_	_	_	_	_
+5	as	_	_	IN	_	_	_	_	_
+6	I	_	_	PRP	_	_	_	_	_
+7	take	_	_	VBP	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	Okinawa	_	_	NNP	_	_	_	_	_
+10	line	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	it	_	_	PRP	_	_	_	_	_
+13	is	_	_	VBZ	_	_	_	_	_
+14	very	_	_	RB	_	_	_	_	_
+15	,	_	_	,	_	_	_	_	_
+16	how	_	_	WRB	_	_	_	_	_
+17	can	_	_	MD	_	_	_	_	_
+18	I	_	_	PRP	_	_	_	_	_
+19	say	_	_	VB	_	_	_	_	_
+20	,	_	_	,	_	_	_	_	_
+21	jammed	_	_	JJ	_	_	_	_	_
+22	.	_	_	.	_	_	_	_	_
+
+# sentid = file01203.txt_34
+# text = and I applied for this taking a leave , but my position does not have or can not be given this sort of sabbatical .
+1	and	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	applied	_	_	VBD	_	_	_	_	_
+4	for	_	_	IN	_	_	_	_	_
+5	this	_	_	DT	_	_	_	_	_
+6	taking	_	_	VBG	_	_	_	_	_
+7	a	_	_	DT	_	_	_	_	_
+8	leave	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	but	_	_	CC	_	_	_	_	_
+11	my	_	_	PRP$	_	_	_	_	_
+12	position	_	_	NN	_	_	_	_	_
+13	does	_	_	VBZ	_	_	_	_	_
+14	not	_	_	RB	_	_	_	_	_
+15	have	_	_	VB	_	_	_	_	_
+16	or	_	_	CC	_	_	_	_	_
+17	can	_	_	MD	_	_	_	_	_
+18	not	_	_	RB	_	_	_	_	_
+19	be	_	_	VB	_	_	_	_	_
+20	given	_	_	VBN	_	_	_	_	_
+21	this	_	_	DT	_	_	_	_	_
+22	sort	_	_	NN	_	_	_	_	_
+23	of	_	_	IN	_	_	_	_	_
+24	sabbatical	_	_	NN	_	_	_	_	_
+25	.	_	_	.	_	_	_	_	_
+
+# sentid = file00248.txt_16
+# text = Yes . , my teacher is Canadian .
+1	Yes	_	_	UH	_	_	_	_	_
+2	.	_	_	.	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	my	_	_	PRP$	_	_	_	_	_
+5	teacher	_	_	NN	_	_	_	_	_
+6	is	_	_	VBZ	_	_	_	_	_
+7	Canadian	_	_	JJ	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01223.txt_131
+# text = So , yeah , it was a good place .
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	yeah	_	_	UH	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	it	_	_	PRP	_	_	_	_	_
+6	was	_	_	VBD	_	_	_	_	_
+7	a	_	_	DT	_	_	_	_	_
+8	good	_	_	JJ	_	_	_	_	_
+9	place	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00183.txt_33
+# text = So , I bought this .
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	bought	_	_	VBD	_	_	_	_	_
+5	this	_	_	DT	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01141.txt_24
+# text = I have n't cat and dog .
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	n't	_	_	RB	_	_	_	_	_
+4	cat	_	_	NN	_	_	_	_	_
+5	and	_	_	CC	_	_	_	_	_
+6	dog	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00143.txt_37
+# text = but my wife like to Okinawa because she has friends to take care of she and her friends
+1	but	_	_	CC	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	wife	_	_	NN	_	_	_	_	_
+4	like	_	_	VB	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	Okinawa	_	_	NNP	_	_	_	_	_
+7	because	_	_	IN	_	_	_	_	_
+8	she	_	_	PRP	_	_	_	_	_
+9	has	_	_	VBZ	_	_	_	_	_
+10	friends	_	_	NNS	_	_	_	_	_
+11	to	_	_	TO	_	_	_	_	_
+12	take	_	_	VB	_	_	_	_	_
+13	care	_	_	NN	_	_	_	_	_
+14	of	_	_	IN	_	_	_	_	_
+15	she	_	_	PRP	_	_	_	_	_
+16	and	_	_	CC	_	_	_	_	_
+17	her	_	_	PRP$	_	_	_	_	_
+18	friends	_	_	NNS	_	_	_	_	_
+
+# sentid = file01267.txt_132
+# text = Very surprising .
+1	Very	_	_	RB	_	_	_	_	_
+2	surprising	_	_	JJ	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01276.txt_20
+# text = It 's really a good place .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	really	_	_	RB	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	good	_	_	JJ	_	_	_	_	_
+6	place	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00760.txt_130
+# text = so I had JAF .
+1	so	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	had	_	_	VBD	_	_	_	_	_
+4	JAF	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01262.txt_18
+# text = I lived in Tokyo most of my life
+1	I	_	_	PRP	_	_	_	_	_
+2	lived	_	_	VBD	_	_	_	_	_
+3	in	_	_	IN	_	_	_	_	_
+4	Tokyo	_	_	NNP	_	_	_	_	_
+5	most	_	_	JJS	_	_	_	_	_
+6	of	_	_	IN	_	_	_	_	_
+7	my	_	_	PRP$	_	_	_	_	_
+8	life	_	_	NN	_	_	_	_	_
+
+# sentid = file00580.txt_3
+# text = I 'm doing OK .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	doing	_	_	VBG	_	_	_	_	_
+4	OK	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01266.txt_8
+# text = And the title was " Osaka " .
+1	And	_	_	CC	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	title	_	_	NN	_	_	_	_	_
+4	was	_	_	VBD	_	_	_	_	_
+5	"	_	_	''	_	_	_	_	_
+6	Osaka	_	_	NNP	_	_	_	_	_
+7	"	_	_	''	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00515.txt_28
+# text = But I 'm belong to the mountain - climbing club and there is some tasks for me .
+1	But	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	'm	_	_	VBP	_	_	_	_	_
+4	belong	_	_	VB	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	mountain	_	_	NN	_	_	_	_	_
+8	-	_	_	:	_	_	_	_	_
+9	climbing	_	_	NN	_	_	_	_	_
+10	club	_	_	NN	_	_	_	_	_
+11	and	_	_	CC	_	_	_	_	_
+12	there	_	_	EX	_	_	_	_	_
+13	is	_	_	VBZ	_	_	_	_	_
+14	some	_	_	DT	_	_	_	_	_
+15	tasks	_	_	NNS	_	_	_	_	_
+16	for	_	_	IN	_	_	_	_	_
+17	me	_	_	PRP	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file00943.txt_81
+# text = So I want exchange this ticket to another one .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	want	_	_	VBP	_	_	_	_	_
+4	exchange	_	_	VB	_	_	_	_	_
+5	this	_	_	DT	_	_	_	_	_
+6	ticket	_	_	NN	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	another	_	_	DT	_	_	_	_	_
+9	one	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01214.txt_110
+# text = This one ?
+1	This	_	_	DT	_	_	_	_	_
+2	one	_	_	CD	_	_	_	_	_
+3	?	_	_	.	_	_	_	_	_
+
+# sentid = file01101.txt_25
+# text = But some peoples says that there 're many drinking places so some old guys drink from day time , and some drunken guys around the station , they used be .
+1	But	_	_	CC	_	_	_	_	_
+2	some	_	_	DT	_	_	_	_	_
+3	peoples	_	_	NNS	_	_	_	_	_
+4	says	_	_	VBZ	_	_	_	_	_
+5	that	_	_	IN	_	_	_	_	_
+6	there	_	_	EX	_	_	_	_	_
+7	're	_	_	VBP	_	_	_	_	_
+8	many	_	_	JJ	_	_	_	_	_
+9	drinking	_	_	NN	_	_	_	_	_
+10	places	_	_	NNS	_	_	_	_	_
+11	so	_	_	CC	_	_	_	_	_
+12	some	_	_	DT	_	_	_	_	_
+13	old	_	_	JJ	_	_	_	_	_
+14	guys	_	_	NNS	_	_	_	_	_
+15	drink	_	_	VBP	_	_	_	_	_
+16	from	_	_	IN	_	_	_	_	_
+17	day	_	_	NN	_	_	_	_	_
+18	time	_	_	NN	_	_	_	_	_
+19	,	_	_	,	_	_	_	_	_
+20	and	_	_	CC	_	_	_	_	_
+21	some	_	_	DT	_	_	_	_	_
+22	drunken	_	_	JJ	_	_	_	_	_
+23	guys	_	_	NNS	_	_	_	_	_
+24	around	_	_	IN	_	_	_	_	_
+25	the	_	_	DT	_	_	_	_	_
+26	station	_	_	NN	_	_	_	_	_
+27	,	_	_	,	_	_	_	_	_
+28	they	_	_	PRP	_	_	_	_	_
+29	used	_	_	VBD	_	_	_	_	_
+30	be	_	_	VB	_	_	_	_	_
+31	.	_	_	.	_	_	_	_	_
+
+# sentid = file00309.txt_18
+# text = and after working time , I want to work as researcher , so that 's the reason why I 'm very busy .
+1	and	_	_	CC	_	_	_	_	_
+2	after	_	_	IN	_	_	_	_	_
+3	working	_	_	VBG	_	_	_	_	_
+4	time	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	I	_	_	PRP	_	_	_	_	_
+7	want	_	_	VBP	_	_	_	_	_
+8	to	_	_	TO	_	_	_	_	_
+9	work	_	_	VB	_	_	_	_	_
+10	as	_	_	IN	_	_	_	_	_
+11	researcher	_	_	NN	_	_	_	_	_
+12	,	_	_	,	_	_	_	_	_
+13	so	_	_	CC	_	_	_	_	_
+14	that	_	_	DT	_	_	_	_	_
+15	's	_	_	VBZ	_	_	_	_	_
+16	the	_	_	DT	_	_	_	_	_
+17	reason	_	_	NN	_	_	_	_	_
+18	why	_	_	WRB	_	_	_	_	_
+19	I	_	_	PRP	_	_	_	_	_
+20	'm	_	_	VBP	_	_	_	_	_
+21	very	_	_	RB	_	_	_	_	_
+22	busy	_	_	JJ	_	_	_	_	_
+23	.	_	_	.	_	_	_	_	_
+
+# sentid = file00725.txt_55
+# text = I think , we see that movie in Shibuya .
+1	I	_	_	PRP	_	_	_	_	_
+2	think	_	_	VBP	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	we	_	_	PRP	_	_	_	_	_
+5	see	_	_	VBP	_	_	_	_	_
+6	that	_	_	DT	_	_	_	_	_
+7	movie	_	_	NN	_	_	_	_	_
+8	in	_	_	IN	_	_	_	_	_
+9	Shibuya	_	_	NNP	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00284.txt_27
+# text = but my friends really enjoy doing ballet
+1	but	_	_	CC	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	friends	_	_	NNS	_	_	_	_	_
+4	really	_	_	RB	_	_	_	_	_
+5	enjoy	_	_	VBP	_	_	_	_	_
+6	doing	_	_	VBG	_	_	_	_	_
+7	ballet	_	_	NN	_	_	_	_	_
+
+# sentid = file01203.txt_61
+# text = and I got to know my husband before then , I mean .
+1	and	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	got	_	_	VBD	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	know	_	_	VB	_	_	_	_	_
+6	my	_	_	PRP$	_	_	_	_	_
+7	husband	_	_	NN	_	_	_	_	_
+8	before	_	_	IN	_	_	_	_	_
+9	then	_	_	RB	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	I	_	_	PRP	_	_	_	_	_
+12	mean	_	_	VBP	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00697.txt_77
+# text = So they got marriage .
+1	So	_	_	RB	_	_	_	_	_
+2	they	_	_	PRP	_	_	_	_	_
+3	got	_	_	VBD	_	_	_	_	_
+4	marriage	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00861.txt_132
+# text = Too busy .
+1	Too	_	_	RB	_	_	_	_	_
+2	busy	_	_	JJ	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01245.txt_150
+# text = I 'm sorry .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	sorry	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00727.txt_8
+# text = And I will work at a restaurant .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	will	_	_	MD	_	_	_	_	_
+4	work	_	_	VB	_	_	_	_	_
+5	at	_	_	IN	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	restaurant	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01260.txt_1
+# text = Good afternoon .
+1	Good	_	_	JJ	_	_	_	_	_
+2	afternoon	_	_	NN	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00628.txt_112
+# text = And she asked for the one piece of necktie for the attendant and no , she wanted to wrap up .
+1	And	_	_	CC	_	_	_	_	_
+2	she	_	_	PRP	_	_	_	_	_
+3	asked	_	_	VBD	_	_	_	_	_
+4	for	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	one	_	_	CD	_	_	_	_	_
+7	piece	_	_	NN	_	_	_	_	_
+8	of	_	_	IN	_	_	_	_	_
+9	necktie	_	_	NN	_	_	_	_	_
+10	for	_	_	IN	_	_	_	_	_
+11	the	_	_	DT	_	_	_	_	_
+12	attendant	_	_	NN	_	_	_	_	_
+13	and	_	_	CC	_	_	_	_	_
+14	no	_	_	UH	_	_	_	_	_
+15	,	_	_	,	_	_	_	_	_
+16	she	_	_	PRP	_	_	_	_	_
+17	wanted	_	_	VBD	_	_	_	_	_
+18	to	_	_	TO	_	_	_	_	_
+19	wrap	_	_	VB	_	_	_	_	_
+20	up	_	_	RP	_	_	_	_	_
+21	.	_	_	.	_	_	_	_	_
+
+# sentid = file00244.txt_30
+# text = So maybe if I go into the direction of Shinjuku , that atmosphere is much different , I suppose .
+1	So	_	_	RB	_	_	_	_	_
+2	maybe	_	_	RB	_	_	_	_	_
+3	if	_	_	IN	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	go	_	_	VBP	_	_	_	_	_
+6	into	_	_	IN	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	direction	_	_	NN	_	_	_	_	_
+9	of	_	_	IN	_	_	_	_	_
+10	Shinjuku	_	_	NNP	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	that	_	_	DT	_	_	_	_	_
+13	atmosphere	_	_	NN	_	_	_	_	_
+14	is	_	_	VBZ	_	_	_	_	_
+15	much	_	_	RB	_	_	_	_	_
+16	different	_	_	JJ	_	_	_	_	_
+17	,	_	_	,	_	_	_	_	_
+18	I	_	_	PRP	_	_	_	_	_
+19	suppose	_	_	VBP	_	_	_	_	_
+20	.	_	_	.	_	_	_	_	_
+
+# sentid = file00252.txt_22
+# text = So , it 's very fruitful job for me .
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	's	_	_	VBZ	_	_	_	_	_
+5	very	_	_	RB	_	_	_	_	_
+6	fruitful	_	_	JJ	_	_	_	_	_
+7	job	_	_	NN	_	_	_	_	_
+8	for	_	_	IN	_	_	_	_	_
+9	me	_	_	PRP	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01127.txt_94
+# text = Friend drive .
+1	Friend	_	_	NN	_	_	_	_	_
+2	drive	_	_	VB	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00555.txt_10
+# text = I am master course student , so there are many things to do .
+1	I	_	_	PRP	_	_	_	_	_
+2	am	_	_	VBP	_	_	_	_	_
+3	master	_	_	NN	_	_	_	_	_
+4	course	_	_	NN	_	_	_	_	_
+5	student	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	so	_	_	CC	_	_	_	_	_
+8	there	_	_	EX	_	_	_	_	_
+9	are	_	_	VBP	_	_	_	_	_
+10	many	_	_	JJ	_	_	_	_	_
+11	things	_	_	NNS	_	_	_	_	_
+12	to	_	_	TO	_	_	_	_	_
+13	do	_	_	VB	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00449.txt_13
+# text = But I 'm lucky my own room . ?
+1	But	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	'm	_	_	VBP	_	_	_	_	_
+4	lucky	_	_	JJ	_	_	_	_	_
+5	my	_	_	PRP$	_	_	_	_	_
+6	own	_	_	JJ	_	_	_	_	_
+7	room	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+9	?	_	_	.	_	_	_	_	_
+
+# sentid = file00878.txt_66
+# text = And my brother always suddenly came into our room , and my parents also came came into suddenly .
+1	And	_	_	CC	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	brother	_	_	NN	_	_	_	_	_
+4	always	_	_	RB	_	_	_	_	_
+5	suddenly	_	_	RB	_	_	_	_	_
+6	came	_	_	VBD	_	_	_	_	_
+7	into	_	_	IN	_	_	_	_	_
+8	our	_	_	PRP$	_	_	_	_	_
+9	room	_	_	NN	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	and	_	_	CC	_	_	_	_	_
+12	my	_	_	PRP$	_	_	_	_	_
+13	parents	_	_	NNS	_	_	_	_	_
+14	also	_	_	RB	_	_	_	_	_
+15	came	_	_	VBD	_	_	_	_	_
+16	came	_	_	VBD	_	_	_	_	_
+17	into	_	_	IN	_	_	_	_	_
+18	suddenly	_	_	RB	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file00843.txt_166
+# text = So it 's really identical .
+1	So	_	_	RB	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	really	_	_	RB	_	_	_	_	_
+5	identical	_	_	JJ	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00323.txt_33
+# text = But since I 've got a child , now I do n't have enough time to do all these kind of things .
+1	But	_	_	CC	_	_	_	_	_
+2	since	_	_	IN	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	've	_	_	VBP	_	_	_	_	_
+5	got	_	_	VBN	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	child	_	_	NN	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	now	_	_	RB	_	_	_	_	_
+10	I	_	_	PRP	_	_	_	_	_
+11	do	_	_	VBP	_	_	_	_	_
+12	n't	_	_	RB	_	_	_	_	_
+13	have	_	_	VB	_	_	_	_	_
+14	enough	_	_	JJ	_	_	_	_	_
+15	time	_	_	NN	_	_	_	_	_
+16	to	_	_	TO	_	_	_	_	_
+17	do	_	_	VB	_	_	_	_	_
+18	all	_	_	PDT	_	_	_	_	_
+19	these	_	_	DT	_	_	_	_	_
+20	kind	_	_	NN	_	_	_	_	_
+21	of	_	_	IN	_	_	_	_	_
+22	things	_	_	NNS	_	_	_	_	_
+23	.	_	_	.	_	_	_	_	_
+
+# sentid = file00888.txt_10
+# text = he is playing the movie machine .
+1	he	_	_	PRP	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	playing	_	_	VBG	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	movie	_	_	NN	_	_	_	_	_
+6	machine	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00552.txt_65
+# text = So do you have some place you want to go like Shibuya or Shinjuku ?
+1	So	_	_	RB	_	_	_	_	_
+2	do	_	_	VBP	_	_	_	_	_
+3	you	_	_	PRP	_	_	_	_	_
+4	have	_	_	VB	_	_	_	_	_
+5	some	_	_	DT	_	_	_	_	_
+6	place	_	_	NN	_	_	_	_	_
+7	you	_	_	PRP	_	_	_	_	_
+8	want	_	_	VBP	_	_	_	_	_
+9	to	_	_	TO	_	_	_	_	_
+10	go	_	_	VB	_	_	_	_	_
+11	like	_	_	IN	_	_	_	_	_
+12	Shibuya	_	_	NNP	_	_	_	_	_
+13	or	_	_	CC	_	_	_	_	_
+14	Shinjuku	_	_	NNP	_	_	_	_	_
+15	?	_	_	.	_	_	_	_	_
+
+# sentid = file00171.txt_43
+# text = I forgot .
+1	I	_	_	PRP	_	_	_	_	_
+2	forgot	_	_	VBD	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00114.txt_48
+# text = So he tasted a wine .
+1	So	_	_	RB	_	_	_	_	_
+2	he	_	_	PRP	_	_	_	_	_
+3	tasted	_	_	VBD	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	wine	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00561.txt_14
+# text = he loves Giants very much .
+1	he	_	_	PRP	_	_	_	_	_
+2	loves	_	_	VBZ	_	_	_	_	_
+3	Giants	_	_	NNPS	_	_	_	_	_
+4	very	_	_	RB	_	_	_	_	_
+5	much	_	_	RB	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00380.txt_62
+# text = So I might try that way again .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	might	_	_	MD	_	_	_	_	_
+4	try	_	_	VB	_	_	_	_	_
+5	that	_	_	DT	_	_	_	_	_
+6	way	_	_	NN	_	_	_	_	_
+7	again	_	_	RB	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00804.txt_25
+# text = Hitachi is famous of Hitachi Company .
+1	Hitachi	_	_	NNP	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	famous	_	_	JJ	_	_	_	_	_
+4	of	_	_	IN	_	_	_	_	_
+5	Hitachi	_	_	NNP	_	_	_	_	_
+6	Company	_	_	NNP	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00804.txt_111
+# text = And let 's settle the time and place we will met .
+1	And	_	_	CC	_	_	_	_	_
+2	let	_	_	VB	_	_	_	_	_
+3	's	_	_	PRP	_	_	_	_	_
+4	settle	_	_	VB	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	time	_	_	NN	_	_	_	_	_
+7	and	_	_	CC	_	_	_	_	_
+8	place	_	_	NN	_	_	_	_	_
+9	we	_	_	PRP	_	_	_	_	_
+10	will	_	_	MD	_	_	_	_	_
+11	met	_	_	VBD	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00828.txt_50
+# text = meet time is ten o'clock , and I go on train with you .
+1	meet	_	_	VB	_	_	_	_	_
+2	time	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	ten	_	_	CD	_	_	_	_	_
+5	o'clock	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	and	_	_	CC	_	_	_	_	_
+8	I	_	_	PRP	_	_	_	_	_
+9	go	_	_	VBP	_	_	_	_	_
+10	on	_	_	IN	_	_	_	_	_
+11	train	_	_	NN	_	_	_	_	_
+12	with	_	_	IN	_	_	_	_	_
+13	you	_	_	PRP	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00611.txt_50
+# text = it looks she does n't care about her dog .
+1	it	_	_	PRP	_	_	_	_	_
+2	looks	_	_	VBZ	_	_	_	_	_
+3	she	_	_	PRP	_	_	_	_	_
+4	does	_	_	VBZ	_	_	_	_	_
+5	n't	_	_	RB	_	_	_	_	_
+6	care	_	_	VB	_	_	_	_	_
+7	about	_	_	IN	_	_	_	_	_
+8	her	_	_	PRP$	_	_	_	_	_
+9	dog	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01256.txt_90
+# text = And lots of kids hanging there .
+1	And	_	_	CC	_	_	_	_	_
+2	lots	_	_	NNS	_	_	_	_	_
+3	of	_	_	IN	_	_	_	_	_
+4	kids	_	_	NNS	_	_	_	_	_
+5	hanging	_	_	VBG	_	_	_	_	_
+6	there	_	_	RB	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00399.txt_64
+# text = in the planetarium recently , Kyoto is built .
+1	in	_	_	IN	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	planetarium	_	_	NN	_	_	_	_	_
+4	recently	_	_	RB	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	Kyoto	_	_	NNP	_	_	_	_	_
+7	is	_	_	VBZ	_	_	_	_	_
+8	built	_	_	VBN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file01267.txt_120
+# text = And as soon as the train left the station , this person who 's working for the station came down to the railway to pick up Hiroshi 's bag and bring it back to him .
+1	And	_	_	CC	_	_	_	_	_
+2	as	_	_	RB	_	_	_	_	_
+3	soon	_	_	RB	_	_	_	_	_
+4	as	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	train	_	_	NN	_	_	_	_	_
+7	left	_	_	VBD	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	station	_	_	NN	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	this	_	_	DT	_	_	_	_	_
+12	person	_	_	NN	_	_	_	_	_
+13	who	_	_	WP	_	_	_	_	_
+14	's	_	_	VBZ	_	_	_	_	_
+15	working	_	_	VBG	_	_	_	_	_
+16	for	_	_	IN	_	_	_	_	_
+17	the	_	_	DT	_	_	_	_	_
+18	station	_	_	NN	_	_	_	_	_
+19	came	_	_	VBD	_	_	_	_	_
+20	down	_	_	RP	_	_	_	_	_
+21	to	_	_	TO	_	_	_	_	_
+22	the	_	_	DT	_	_	_	_	_
+23	railway	_	_	NN	_	_	_	_	_
+24	to	_	_	TO	_	_	_	_	_
+25	pick	_	_	VB	_	_	_	_	_
+26	up	_	_	RP	_	_	_	_	_
+27	Hiroshi	_	_	NNP	_	_	_	_	_
+28	's	_	_	POS	_	_	_	_	_
+29	bag	_	_	NN	_	_	_	_	_
+30	and	_	_	CC	_	_	_	_	_
+31	bring	_	_	VB	_	_	_	_	_
+32	it	_	_	PRP	_	_	_	_	_
+33	back	_	_	RB	_	_	_	_	_
+34	to	_	_	TO	_	_	_	_	_
+35	him	_	_	PRP	_	_	_	_	_
+36	.	_	_	.	_	_	_	_	_
+
+# sentid = file00617.txt_87
+# text = So , please find the exit which name is Tamagawa- guchi .
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	please	_	_	UH	_	_	_	_	_
+4	find	_	_	VB	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	exit	_	_	NN	_	_	_	_	_
+7	which	_	_	WDT	_	_	_	_	_
+8	name	_	_	NN	_	_	_	_	_
+9	is	_	_	VBZ	_	_	_	_	_
+10	Tamagawa-	_	_	NNP	_	_	_	_	_
+11	guchi	_	_	NNP	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00450.txt_29
+# text = and he 's jogging .
+1	and	_	_	CC	_	_	_	_	_
+2	he	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	jogging	_	_	VBG	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01244.txt_48
+# text = Yeah , I think that 's all .
+1	Yeah	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	think	_	_	VBP	_	_	_	_	_
+5	that	_	_	DT	_	_	_	_	_
+6	's	_	_	VBZ	_	_	_	_	_
+7	all	_	_	DT	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00208.txt_236
+# text = before that , maybe coming Saturday , tomorrow , I will come to office and to practice for the wedding party .
+1	before	_	_	IN	_	_	_	_	_
+2	that	_	_	DT	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	maybe	_	_	RB	_	_	_	_	_
+5	coming	_	_	VBG	_	_	_	_	_
+6	Saturday	_	_	NNP	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	tomorrow	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	I	_	_	PRP	_	_	_	_	_
+11	will	_	_	MD	_	_	_	_	_
+12	come	_	_	VB	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	office	_	_	NN	_	_	_	_	_
+15	and	_	_	CC	_	_	_	_	_
+16	to	_	_	TO	_	_	_	_	_
+17	practice	_	_	VB	_	_	_	_	_
+18	for	_	_	IN	_	_	_	_	_
+19	the	_	_	DT	_	_	_	_	_
+20	wedding	_	_	NN	_	_	_	_	_
+21	party	_	_	NN	_	_	_	_	_
+22	.	_	_	.	_	_	_	_	_
+
+# sentid = file01268.txt_83
+# text = Since the accident could have been prevented , especially it was a suicidal accident .
+1	Since	_	_	IN	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	accident	_	_	NN	_	_	_	_	_
+4	could	_	_	MD	_	_	_	_	_
+5	have	_	_	VB	_	_	_	_	_
+6	been	_	_	VBN	_	_	_	_	_
+7	prevented	_	_	VBN	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	especially	_	_	RB	_	_	_	_	_
+10	it	_	_	PRP	_	_	_	_	_
+11	was	_	_	VBD	_	_	_	_	_
+12	a	_	_	DT	_	_	_	_	_
+13	suicidal	_	_	JJ	_	_	_	_	_
+14	accident	_	_	NN	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00343.txt_63
+# text = So quite hard to translate the such old Japanese expression .
+1	So	_	_	RB	_	_	_	_	_
+2	quite	_	_	RB	_	_	_	_	_
+3	hard	_	_	JJ	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	translate	_	_	VB	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	such	_	_	JJ	_	_	_	_	_
+8	old	_	_	JJ	_	_	_	_	_
+9	Japanese	_	_	JJ	_	_	_	_	_
+10	expression	_	_	NN	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file00173.txt_57
+# text = the guest is a couple
+1	the	_	_	DT	_	_	_	_	_
+2	guest	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	couple	_	_	NN	_	_	_	_	_
+
+# sentid = file00796.txt_101
+# text = And the he jumped to the railway and then he took my briefcase back to me .
+1	And	_	_	CC	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	he	_	_	PRP	_	_	_	_	_
+4	jumped	_	_	VBD	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	railway	_	_	NN	_	_	_	_	_
+8	and	_	_	CC	_	_	_	_	_
+9	then	_	_	RB	_	_	_	_	_
+10	he	_	_	PRP	_	_	_	_	_
+11	took	_	_	VBD	_	_	_	_	_
+12	my	_	_	PRP$	_	_	_	_	_
+13	briefcase	_	_	NN	_	_	_	_	_
+14	back	_	_	RB	_	_	_	_	_
+15	to	_	_	TO	_	_	_	_	_
+16	me	_	_	PRP	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file00777.txt_96
+# text = , did I say Tom ?
+1	,	_	_	,	_	_	_	_	_
+2	did	_	_	VBD	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	say	_	_	VB	_	_	_	_	_
+5	Tom	_	_	NNP	_	_	_	_	_
+6	?	_	_	.	_	_	_	_	_
+
+# sentid = file00673.txt_92
+# text = This summer I went to Hawaii Island .
+1	This	_	_	DT	_	_	_	_	_
+2	summer	_	_	NN	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	went	_	_	VBD	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	Hawaii	_	_	NNP	_	_	_	_	_
+7	Island	_	_	NNP	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00254.txt_38
+# text = It 's been yes , almost four years since we 've married , but he never change his mind .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	been	_	_	VBN	_	_	_	_	_
+4	yes	_	_	UH	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	almost	_	_	RB	_	_	_	_	_
+7	four	_	_	CD	_	_	_	_	_
+8	years	_	_	NNS	_	_	_	_	_
+9	since	_	_	IN	_	_	_	_	_
+10	we	_	_	PRP	_	_	_	_	_
+11	've	_	_	VBP	_	_	_	_	_
+12	married	_	_	VBN	_	_	_	_	_
+13	,	_	_	,	_	_	_	_	_
+14	but	_	_	CC	_	_	_	_	_
+15	he	_	_	PRP	_	_	_	_	_
+16	never	_	_	RB	_	_	_	_	_
+17	change	_	_	VB	_	_	_	_	_
+18	his	_	_	PRP$	_	_	_	_	_
+19	mind	_	_	NN	_	_	_	_	_
+20	.	_	_	.	_	_	_	_	_
+
+# sentid = file00249.txt_108
+# text = And the person on the car is n't convinced , then called the police .
+1	And	_	_	CC	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	person	_	_	NN	_	_	_	_	_
+4	on	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	car	_	_	NN	_	_	_	_	_
+7	is	_	_	VBZ	_	_	_	_	_
+8	n't	_	_	RB	_	_	_	_	_
+9	convinced	_	_	JJ	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	then	_	_	RB	_	_	_	_	_
+12	called	_	_	VBD	_	_	_	_	_
+13	the	_	_	DT	_	_	_	_	_
+14	police	_	_	NNS	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00357.txt_36
+# text = And she goes , " Ha , ha , ha , ha , ha . " .
+1	And	_	_	CC	_	_	_	_	_
+2	she	_	_	PRP	_	_	_	_	_
+3	goes	_	_	VBZ	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	"	_	_	"	_	_	_	_	_
+6	Ha	_	_	UH	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	ha	_	_	UH	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	ha	_	_	UH	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	ha	_	_	UH	_	_	_	_	_
+13	,	_	_	,	_	_	_	_	_
+14	ha	_	_	UH	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+16	"	_	_	"	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file00405.txt_45
+# text = And this student is listening , I think music .
+1	And	_	_	CC	_	_	_	_	_
+2	this	_	_	DT	_	_	_	_	_
+3	student	_	_	NN	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	listening	_	_	VBG	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	think	_	_	VBP	_	_	_	_	_
+9	music	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01205.txt_30
+# text = Not really the difficulties , but I sometimes feel that like the gap between like the native teachers ' thinking and also like thinking in that matter .
+1	Not	_	_	RB	_	_	_	_	_
+2	really	_	_	RB	_	_	_	_	_
+3	the	_	_	DT	_	_	_	_	_
+4	difficulties	_	_	NNS	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	but	_	_	CC	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	sometimes	_	_	RB	_	_	_	_	_
+9	feel	_	_	VBP	_	_	_	_	_
+10	that	_	_	IN	_	_	_	_	_
+11	like	_	_	UH	_	_	_	_	_
+12	the	_	_	DT	_	_	_	_	_
+13	gap	_	_	NN	_	_	_	_	_
+14	between	_	_	IN	_	_	_	_	_
+15	like	_	_	UH	_	_	_	_	_
+16	the	_	_	DT	_	_	_	_	_
+17	native	_	_	JJ	_	_	_	_	_
+18	teachers	_	_	NNS	_	_	_	_	_
+19	'	_	_	POS	_	_	_	_	_
+20	thinking	_	_	NN	_	_	_	_	_
+21	and	_	_	CC	_	_	_	_	_
+22	also	_	_	RB	_	_	_	_	_
+23	like	_	_	UH	_	_	_	_	_
+24	thinking	_	_	VBG	_	_	_	_	_
+25	in	_	_	IN	_	_	_	_	_
+26	that	_	_	DT	_	_	_	_	_
+27	matter	_	_	NN	_	_	_	_	_
+28	.	_	_	.	_	_	_	_	_
+
+# sentid = file01226.txt_123
+# text = I use it between the lessons .
+1	I	_	_	PRP	_	_	_	_	_
+2	use	_	_	VBP	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	between	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	lessons	_	_	NNS	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01246.txt_189
+# text = And it was English course run by the university .
+1	And	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	was	_	_	VBD	_	_	_	_	_
+4	English	_	_	JJ	_	_	_	_	_
+5	course	_	_	NN	_	_	_	_	_
+6	run	_	_	VBN	_	_	_	_	_
+7	by	_	_	IN	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	university	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00237.txt_144
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	very	_	_	RB	_	_	_	_	_
+4	much	_	_	RB	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00514.txt_111
+# text = So motorbike man permit that .
+1	So	_	_	RB	_	_	_	_	_
+2	motorbike	_	_	NN	_	_	_	_	_
+3	man	_	_	NN	_	_	_	_	_
+4	permit	_	_	VB	_	_	_	_	_
+5	that	_	_	DT	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00756.txt_2
+# text = My name is Charlie .
+1	My	_	_	PRP$	_	_	_	_	_
+2	name	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	Charlie	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00016.txt_126
+# text = I can not say
+1	I	_	_	PRP	_	_	_	_	_
+2	can	_	_	MD	_	_	_	_	_
+3	not	_	_	RB	_	_	_	_	_
+4	say	_	_	VB	_	_	_	_	_
+
+# sentid = file00919.txt_3
+# text = Please call me Charlie .
+1	Please	_	_	UH	_	_	_	_	_
+2	call	_	_	VB	_	_	_	_	_
+3	me	_	_	PRP	_	_	_	_	_
+4	Charlie	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00316.txt_107
+# text = I have to go back to my home as soon as possible , because I have just married and usually , I live with mother - in - law .
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	go	_	_	VB	_	_	_	_	_
+5	back	_	_	RB	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	my	_	_	PRP$	_	_	_	_	_
+8	home	_	_	NN	_	_	_	_	_
+9	as	_	_	RB	_	_	_	_	_
+10	soon	_	_	RB	_	_	_	_	_
+11	as	_	_	IN	_	_	_	_	_
+12	possible	_	_	JJ	_	_	_	_	_
+13	,	_	_	,	_	_	_	_	_
+14	because	_	_	IN	_	_	_	_	_
+15	I	_	_	PRP	_	_	_	_	_
+16	have	_	_	VBP	_	_	_	_	_
+17	just	_	_	RB	_	_	_	_	_
+18	married	_	_	VBN	_	_	_	_	_
+19	and	_	_	CC	_	_	_	_	_
+20	usually	_	_	RB	_	_	_	_	_
+21	,	_	_	,	_	_	_	_	_
+22	I	_	_	PRP	_	_	_	_	_
+23	live	_	_	VBP	_	_	_	_	_
+24	with	_	_	IN	_	_	_	_	_
+25	mother	_	_	NN	_	_	_	_	_
+26	-	_	_	:	_	_	_	_	_
+27	in	_	_	IN	_	_	_	_	_
+28	-	_	_	:	_	_	_	_	_
+29	law	_	_	NN	_	_	_	_	_
+30	.	_	_	.	_	_	_	_	_
+
+# sentid = file00178.txt_90
+# text = And it has a small dirty part .
+1	And	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	has	_	_	VBZ	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	small	_	_	JJ	_	_	_	_	_
+6	dirty	_	_	JJ	_	_	_	_	_
+7	part	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01245.txt_69
+# text = And everyone seems to be quite relaxed .
+1	And	_	_	CC	_	_	_	_	_
+2	everyone	_	_	NN	_	_	_	_	_
+3	seems	_	_	VBZ	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	be	_	_	VB	_	_	_	_	_
+6	quite	_	_	RB	_	_	_	_	_
+7	relaxed	_	_	JJ	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00884.txt_10
+# text = actually I do n't remember .
+1	actually	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	do	_	_	VBP	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	remember	_	_	VB	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00278.txt_14
+# text = I like it .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00267.txt_28
+# text = So we go often shopping , together .
+1	So	_	_	RB	_	_	_	_	_
+2	we	_	_	PRP	_	_	_	_	_
+3	go	_	_	VBP	_	_	_	_	_
+4	often	_	_	RB	_	_	_	_	_
+5	shopping	_	_	VBG	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	together	_	_	RB	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00919.txt_51
+# text = I have n't seen my families since September .
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	n't	_	_	RB	_	_	_	_	_
+4	seen	_	_	VBN	_	_	_	_	_
+5	my	_	_	PRP$	_	_	_	_	_
+6	families	_	_	NNS	_	_	_	_	_
+7	since	_	_	IN	_	_	_	_	_
+8	September	_	_	NNP	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00216.txt_123
+# text = And actually , I wanted to watch the love story but they wanted to watch a action movie .
+1	And	_	_	CC	_	_	_	_	_
+2	actually	_	_	RB	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	wanted	_	_	VBD	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	watch	_	_	VB	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	love	_	_	NN	_	_	_	_	_
+10	story	_	_	NN	_	_	_	_	_
+11	but	_	_	CC	_	_	_	_	_
+12	they	_	_	PRP	_	_	_	_	_
+13	wanted	_	_	VBD	_	_	_	_	_
+14	to	_	_	TO	_	_	_	_	_
+15	watch	_	_	VB	_	_	_	_	_
+16	a	_	_	DT	_	_	_	_	_
+17	action	_	_	NN	_	_	_	_	_
+18	movie	_	_	NN	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file00580.txt_36
+# text = So , I think no big difference between United States and Japan .
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	think	_	_	VBP	_	_	_	_	_
+5	no	_	_	DT	_	_	_	_	_
+6	big	_	_	JJ	_	_	_	_	_
+7	difference	_	_	NN	_	_	_	_	_
+8	between	_	_	IN	_	_	_	_	_
+9	United	_	_	NNP	_	_	_	_	_
+10	States	_	_	NNP	_	_	_	_	_
+11	and	_	_	CC	_	_	_	_	_
+12	Japan	_	_	NNP	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00253.txt_116
+# text = I have a work as a secretary to a professor in Stanford .
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	work	_	_	NN	_	_	_	_	_
+5	as	_	_	IN	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	secretary	_	_	NN	_	_	_	_	_
+8	to	_	_	TO	_	_	_	_	_
+9	a	_	_	DT	_	_	_	_	_
+10	professor	_	_	NN	_	_	_	_	_
+11	in	_	_	IN	_	_	_	_	_
+12	Stanford	_	_	NNP	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file01211.txt_65
+# text = I 'm ready .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	ready	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00281.txt_70
+# text = so now please check this .
+1	so	_	_	RB	_	_	_	_	_
+2	now	_	_	RB	_	_	_	_	_
+3	please	_	_	UH	_	_	_	_	_
+4	check	_	_	VB	_	_	_	_	_
+5	this	_	_	DT	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00760.txt_115
+# text = Sorry about that .
+1	Sorry	_	_	JJ	_	_	_	_	_
+2	about	_	_	IN	_	_	_	_	_
+3	that	_	_	DT	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00612.txt_12
+# text = I say to him do n't bring heavy things .
+1	I	_	_	PRP	_	_	_	_	_
+2	say	_	_	VBP	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	him	_	_	PRP	_	_	_	_	_
+5	do	_	_	VB	_	_	_	_	_
+6	n't	_	_	RB	_	_	_	_	_
+7	bring	_	_	VB	_	_	_	_	_
+8	heavy	_	_	JJ	_	_	_	_	_
+9	things	_	_	NNS	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00170.txt_45
+# text = and they are enjoying their situation .
+1	and	_	_	CC	_	_	_	_	_
+2	they	_	_	PRP	_	_	_	_	_
+3	are	_	_	VBP	_	_	_	_	_
+4	enjoying	_	_	VBG	_	_	_	_	_
+5	their	_	_	PRP$	_	_	_	_	_
+6	situation	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00346.txt_3
+# text = Fine , thank you .
+1	Fine	_	_	JJ	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	thank	_	_	VBP	_	_	_	_	_
+4	you	_	_	PRP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01174.txt_51
+# text = Because it 's not dark outside .
+1	Because	_	_	IN	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	not	_	_	RB	_	_	_	_	_
+5	dark	_	_	JJ	_	_	_	_	_
+6	outside	_	_	RB	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00933.txt_107
+# text = one day last week , the couple were walking down the street .
+1	one	_	_	CD	_	_	_	_	_
+2	day	_	_	NN	_	_	_	_	_
+3	last	_	_	JJ	_	_	_	_	_
+4	week	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	couple	_	_	NN	_	_	_	_	_
+8	were	_	_	VBD	_	_	_	_	_
+9	walking	_	_	VBG	_	_	_	_	_
+10	down	_	_	IN	_	_	_	_	_
+11	the	_	_	DT	_	_	_	_	_
+12	street	_	_	NN	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00612.txt_85
+# text = I went to the Zoorasia in Yokohama with my friend .
+1	I	_	_	PRP	_	_	_	_	_
+2	went	_	_	VBD	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	Zoorasia	_	_	NNP	_	_	_	_	_
+6	in	_	_	IN	_	_	_	_	_
+7	Yokohama	_	_	NNP	_	_	_	_	_
+8	with	_	_	IN	_	_	_	_	_
+9	my	_	_	PRP$	_	_	_	_	_
+10	friend	_	_	NN	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file01152.txt_22
+# text = and I read newspapers or books or watch T V.
+1	and	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	read	_	_	VBP	_	_	_	_	_
+4	newspapers	_	_	NNS	_	_	_	_	_
+5	or	_	_	CC	_	_	_	_	_
+6	books	_	_	NNS	_	_	_	_	_
+7	or	_	_	CC	_	_	_	_	_
+8	watch	_	_	VBP	_	_	_	_	_
+9	T	_	_	NN	_	_	_	_	_
+10	V.	_	_	NN	_	_	_	_	_
+
+# sentid = file00319.txt_13
+# text = Why did I ?
+1	Why	_	_	WRB	_	_	_	_	_
+2	did	_	_	VBD	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file00935.txt_64
+# text = Maybe that was , you mean , Western formal food .
+1	Maybe	_	_	RB	_	_	_	_	_
+2	that	_	_	DT	_	_	_	_	_
+3	was	_	_	VBD	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	you	_	_	PRP	_	_	_	_	_
+6	mean	_	_	VBP	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	Western	_	_	JJ	_	_	_	_	_
+9	formal	_	_	JJ	_	_	_	_	_
+10	food	_	_	NN	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file00474.txt_46
+# text = In Osaka , there are shops but some shops are in only Tokyo .
+1	In	_	_	IN	_	_	_	_	_
+2	Osaka	_	_	NNP	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	there	_	_	EX	_	_	_	_	_
+5	are	_	_	VBP	_	_	_	_	_
+6	shops	_	_	NNS	_	_	_	_	_
+7	but	_	_	CC	_	_	_	_	_
+8	some	_	_	DT	_	_	_	_	_
+9	shops	_	_	NNS	_	_	_	_	_
+10	are	_	_	VBP	_	_	_	_	_
+11	in	_	_	IN	_	_	_	_	_
+12	only	_	_	JJ	_	_	_	_	_
+13	Tokyo	_	_	NNP	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00253.txt_32
+# text = The original sometimes the really good parts of the original script are totally just erased out .
+1	The	_	_	DT	_	_	_	_	_
+2	original	_	_	JJ	_	_	_	_	_
+3	sometimes	_	_	RB	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	really	_	_	RB	_	_	_	_	_
+6	good	_	_	JJ	_	_	_	_	_
+7	parts	_	_	NNS	_	_	_	_	_
+8	of	_	_	IN	_	_	_	_	_
+9	the	_	_	DT	_	_	_	_	_
+10	original	_	_	JJ	_	_	_	_	_
+11	script	_	_	NN	_	_	_	_	_
+12	are	_	_	VBP	_	_	_	_	_
+13	totally	_	_	RB	_	_	_	_	_
+14	just	_	_	RB	_	_	_	_	_
+15	erased	_	_	VBD	_	_	_	_	_
+16	out	_	_	RP	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file00935.txt_36
+# text = Then , at the home , I watch T V , like wide show .
+1	Then	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	at	_	_	IN	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	home	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	watch	_	_	VBP	_	_	_	_	_
+9	T	_	_	NN	_	_	_	_	_
+10	V	_	_	NN	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	like	_	_	IN	_	_	_	_	_
+13	wide	_	_	JJ	_	_	_	_	_
+14	show	_	_	NN	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00529.txt_1
+# text = My name is Charlie .
+1	My	_	_	PRP$	_	_	_	_	_
+2	name	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	Charlie	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00107.txt_61
+# text = So I 'd like you to pay back or exchange another new one .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	'd	_	_	MD	_	_	_	_	_
+4	like	_	_	VB	_	_	_	_	_
+5	you	_	_	PRP	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	pay	_	_	VB	_	_	_	_	_
+8	back	_	_	RB	_	_	_	_	_
+9	or	_	_	CC	_	_	_	_	_
+10	exchange	_	_	VB	_	_	_	_	_
+11	another	_	_	DT	_	_	_	_	_
+12	new	_	_	JJ	_	_	_	_	_
+13	one	_	_	NN	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file01239.txt_121
+# text = I 'm really sorry about this happening and telling about the situation so late , but I hope to be able to be put into your future plans .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	really	_	_	RB	_	_	_	_	_
+4	sorry	_	_	JJ	_	_	_	_	_
+5	about	_	_	IN	_	_	_	_	_
+6	this	_	_	DT	_	_	_	_	_
+7	happening	_	_	VBG	_	_	_	_	_
+8	and	_	_	CC	_	_	_	_	_
+9	telling	_	_	VBG	_	_	_	_	_
+10	about	_	_	IN	_	_	_	_	_
+11	the	_	_	DT	_	_	_	_	_
+12	situation	_	_	NN	_	_	_	_	_
+13	so	_	_	RB	_	_	_	_	_
+14	late	_	_	JJ	_	_	_	_	_
+15	,	_	_	,	_	_	_	_	_
+16	but	_	_	CC	_	_	_	_	_
+17	I	_	_	PRP	_	_	_	_	_
+18	hope	_	_	VBP	_	_	_	_	_
+19	to	_	_	TO	_	_	_	_	_
+20	be	_	_	VB	_	_	_	_	_
+21	able	_	_	JJ	_	_	_	_	_
+22	to	_	_	TO	_	_	_	_	_
+23	be	_	_	VB	_	_	_	_	_
+24	put	_	_	VBN	_	_	_	_	_
+25	into	_	_	IN	_	_	_	_	_
+26	your	_	_	PRP$	_	_	_	_	_
+27	future	_	_	JJ	_	_	_	_	_
+28	plans	_	_	NNS	_	_	_	_	_
+29	.	_	_	.	_	_	_	_	_
+
+# sentid = file00929.txt_10
+# text = I 'm study .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	study	_	_	VB	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01245.txt_64
+# text = this scene express , I would say on Sunday on weekends because you can see this gentleman .
+1	this	_	_	DT	_	_	_	_	_
+2	scene	_	_	NN	_	_	_	_	_
+3	express	_	_	VB	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	would	_	_	MD	_	_	_	_	_
+7	say	_	_	VB	_	_	_	_	_
+8	on	_	_	IN	_	_	_	_	_
+9	Sunday	_	_	NNP	_	_	_	_	_
+10	on	_	_	IN	_	_	_	_	_
+11	weekends	_	_	NNS	_	_	_	_	_
+12	because	_	_	IN	_	_	_	_	_
+13	you	_	_	PRP	_	_	_	_	_
+14	can	_	_	MD	_	_	_	_	_
+15	see	_	_	VB	_	_	_	_	_
+16	this	_	_	DT	_	_	_	_	_
+17	gentleman	_	_	NN	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file01123.txt_1
+# text = my name is Charlie .
+1	my	_	_	PRP$	_	_	_	_	_
+2	name	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	Charlie	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00838.txt_192
+# text = And , maybe , I guess that the policeman judged , I mean , the young guy has a fault , yeah , in driving his bike . ...
+1	And	_	_	CC	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	maybe	_	_	RB	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	guess	_	_	VBP	_	_	_	_	_
+7	that	_	_	IN	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	policeman	_	_	NN	_	_	_	_	_
+10	judged	_	_	VBD	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	I	_	_	PRP	_	_	_	_	_
+13	mean	_	_	VBP	_	_	_	_	_
+14	,	_	_	,	_	_	_	_	_
+15	the	_	_	DT	_	_	_	_	_
+16	young	_	_	JJ	_	_	_	_	_
+17	guy	_	_	NN	_	_	_	_	_
+18	has	_	_	VBZ	_	_	_	_	_
+19	a	_	_	DT	_	_	_	_	_
+20	fault	_	_	NN	_	_	_	_	_
+21	,	_	_	,	_	_	_	_	_
+22	yeah	_	_	UH	_	_	_	_	_
+23	,	_	_	,	_	_	_	_	_
+24	in	_	_	IN	_	_	_	_	_
+25	driving	_	_	VBG	_	_	_	_	_
+26	his	_	_	PRP$	_	_	_	_	_
+27	bike	_	_	NN	_	_	_	_	_
+28	.	_	_	.	_	_	_	_	_
+29	...	_	_	:	_	_	_	_	_
+
+# sentid = file01263.txt_56
+# text = And my big sister , she lives alone .
+1	And	_	_	CC	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	big	_	_	JJ	_	_	_	_	_
+4	sister	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	she	_	_	PRP	_	_	_	_	_
+7	lives	_	_	VBZ	_	_	_	_	_
+8	alone	_	_	RB	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00343.txt_165
+# text = I do n't know hamster in English , but small hamster
+1	I	_	_	PRP	_	_	_	_	_
+2	do	_	_	VBP	_	_	_	_	_
+3	n't	_	_	RB	_	_	_	_	_
+4	know	_	_	VB	_	_	_	_	_
+5	hamster	_	_	NN	_	_	_	_	_
+6	in	_	_	IN	_	_	_	_	_
+7	English	_	_	NNP	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	but	_	_	CC	_	_	_	_	_
+10	small	_	_	JJ	_	_	_	_	_
+11	hamster	_	_	NN	_	_	_	_	_
+
+# sentid = file01213.txt_126
+# text = We 're meeting at six o'clock at the north gate of the Oxford .
+1	We	_	_	PRP	_	_	_	_	_
+2	're	_	_	VBP	_	_	_	_	_
+3	meeting	_	_	VBG	_	_	_	_	_
+4	at	_	_	IN	_	_	_	_	_
+5	six	_	_	CD	_	_	_	_	_
+6	o'clock	_	_	NN	_	_	_	_	_
+7	at	_	_	IN	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	north	_	_	NN	_	_	_	_	_
+10	gate	_	_	NN	_	_	_	_	_
+11	of	_	_	IN	_	_	_	_	_
+12	the	_	_	DT	_	_	_	_	_
+13	Oxford	_	_	NNP	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00346.txt_95
+# text = So , is it possible you talk to your manager ?
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	it	_	_	PRP	_	_	_	_	_
+5	possible	_	_	JJ	_	_	_	_	_
+6	you	_	_	PRP	_	_	_	_	_
+7	talk	_	_	VBP	_	_	_	_	_
+8	to	_	_	TO	_	_	_	_	_
+9	your	_	_	PRP$	_	_	_	_	_
+10	manager	_	_	NN	_	_	_	_	_
+11	?	_	_	.	_	_	_	_	_
+
+# sentid = file01226.txt_80
+# text = I had a stomachache .
+1	I	_	_	PRP	_	_	_	_	_
+2	had	_	_	VBD	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	stomachache	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01258.txt_2
+# text = my name is Charlie .
+1	my	_	_	PRP$	_	_	_	_	_
+2	name	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	Charlie	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00917.txt_39
+# text = so I think that I have good experience to make sushi .
+1	so	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	think	_	_	VBP	_	_	_	_	_
+4	that	_	_	IN	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	have	_	_	VBP	_	_	_	_	_
+7	good	_	_	JJ	_	_	_	_	_
+8	experience	_	_	NN	_	_	_	_	_
+9	to	_	_	TO	_	_	_	_	_
+10	make	_	_	VB	_	_	_	_	_
+11	sushi	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00152.txt_30
+# text = Yes , I think so .
+1	Yes	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	think	_	_	VBP	_	_	_	_	_
+5	so	_	_	RB	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00390.txt_84
+# text = Actually , does n't have to take something for each of them .
+1	Actually	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	does	_	_	VBZ	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	have	_	_	VB	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	take	_	_	VB	_	_	_	_	_
+8	something	_	_	NN	_	_	_	_	_
+9	for	_	_	IN	_	_	_	_	_
+10	each	_	_	DT	_	_	_	_	_
+11	of	_	_	IN	_	_	_	_	_
+12	them	_	_	PRP	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file01263.txt_12
+# text = fifth period ,
+1	fifth	_	_	JJ	_	_	_	_	_
+2	period	_	_	NN	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+
+# sentid = file01205.txt_1
+# text = Good afternoon .
+1	Good	_	_	JJ	_	_	_	_	_
+2	afternoon	_	_	NN	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01227.txt_4
+# text = Nice to see you , too .
+1	Nice	_	_	JJ	_	_	_	_	_
+2	to	_	_	TO	_	_	_	_	_
+3	see	_	_	VB	_	_	_	_	_
+4	you	_	_	PRP	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	too	_	_	RB	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00504.txt_26
+# text = That 's all .
+1	That	_	_	DT	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	all	_	_	DT	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00335.txt_64
+# text = The noise through the wall ?
+1	The	_	_	DT	_	_	_	_	_
+2	noise	_	_	NN	_	_	_	_	_
+3	through	_	_	IN	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	wall	_	_	NN	_	_	_	_	_
+6	?	_	_	.	_	_	_	_	_
+
+# sentid = file00958.txt_65
+# text = for example , " Train Spotting " and " Orange Clock " .
+1	for	_	_	IN	_	_	_	_	_
+2	example	_	_	NN	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	"	_	_	"	_	_	_	_	_
+5	Train	_	_	NNP	_	_	_	_	_
+6	Spotting	_	_	NNP	_	_	_	_	_
+7	"	_	_	"	_	_	_	_	_
+8	and	_	_	CC	_	_	_	_	_
+9	"	_	_	"	_	_	_	_	_
+10	Orange	_	_	NNP	_	_	_	_	_
+11	Clock	_	_	NNP	_	_	_	_	_
+12	"	_	_	"	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file01097.txt_70
+# text = It seems she 's speaking to the black board , not speaking to students .
+1	It	_	_	PRP	_	_	_	_	_
+2	seems	_	_	VBZ	_	_	_	_	_
+3	she	_	_	PRP	_	_	_	_	_
+4	's	_	_	VBZ	_	_	_	_	_
+5	speaking	_	_	VBG	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	black	_	_	JJ	_	_	_	_	_
+9	board	_	_	NN	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	not	_	_	RB	_	_	_	_	_
+12	speaking	_	_	VBG	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	students	_	_	NNS	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file01252.txt_21
+# text = I 'd been in the U S for thirteen years
+1	I	_	_	PRP	_	_	_	_	_
+2	'd	_	_	VBD	_	_	_	_	_
+3	been	_	_	VBN	_	_	_	_	_
+4	in	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	U	_	_	NNP	_	_	_	_	_
+7	S	_	_	NNP	_	_	_	_	_
+8	for	_	_	IN	_	_	_	_	_
+9	thirteen	_	_	CD	_	_	_	_	_
+10	years	_	_	NNS	_	_	_	_	_
+
+# sentid = file00274.txt_92
+# text = To the Herb house .
+1	To	_	_	TO	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	Herb	_	_	NN	_	_	_	_	_
+4	house	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00469.txt_86
+# text = So , unfortunately , they had to leave the place to go to a hotel instead .
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	unfortunately	_	_	RB	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	they	_	_	PRP	_	_	_	_	_
+6	had	_	_	VBD	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	leave	_	_	VB	_	_	_	_	_
+9	the	_	_	DT	_	_	_	_	_
+10	place	_	_	NN	_	_	_	_	_
+11	to	_	_	TO	_	_	_	_	_
+12	go	_	_	VB	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	a	_	_	DT	_	_	_	_	_
+15	hotel	_	_	NN	_	_	_	_	_
+16	instead	_	_	RB	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file00389.txt_58
+# text = So maybe I ca n't come back .
+1	So	_	_	RB	_	_	_	_	_
+2	maybe	_	_	RB	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	ca	_	_	MD	_	_	_	_	_
+5	n't	_	_	RB	_	_	_	_	_
+6	come	_	_	VB	_	_	_	_	_
+7	back	_	_	RB	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00574.txt_48
+# text = And my neighborhood , there is a school .
+1	And	_	_	CC	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	neighborhood	_	_	NN	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	there	_	_	EX	_	_	_	_	_
+6	is	_	_	VBZ	_	_	_	_	_
+7	a	_	_	DT	_	_	_	_	_
+8	school	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00323.txt_102
+# text = I understand .
+1	I	_	_	PRP	_	_	_	_	_
+2	understand	_	_	VBP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00515.txt_53
+# text = but my room 's floor is a carpet .
+1	but	_	_	CC	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	room	_	_	NN	_	_	_	_	_
+4	's	_	_	POS	_	_	_	_	_
+5	floor	_	_	NN	_	_	_	_	_
+6	is	_	_	VBZ	_	_	_	_	_
+7	a	_	_	DT	_	_	_	_	_
+8	carpet	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00621.txt_130
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	very	_	_	RB	_	_	_	_	_
+4	much	_	_	RB	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01120.txt_30
+# text = Free time ?
+1	Free	_	_	JJ	_	_	_	_	_
+2	time	_	_	NN	_	_	_	_	_
+3	?	_	_	.	_	_	_	_	_
+
+# sentid = file00349.txt_77
+# text = and she came back to home .
+1	and	_	_	CC	_	_	_	_	_
+2	she	_	_	PRP	_	_	_	_	_
+3	came	_	_	VBD	_	_	_	_	_
+4	back	_	_	RB	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	home	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00832.txt_40
+# text = this is round .
+1	this	_	_	DT	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	round	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01278.txt_82
+# text = This is Charlie speaking .
+1	This	_	_	DT	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	Charlie	_	_	NNP	_	_	_	_	_
+4	speaking	_	_	VBG	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00711.txt_120
+# text = I like spaghetti .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	spaghetti	_	_	NN	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01220.txt_225
+# text = I 'm going to go to Okinawa with a couple of friends of mine and we are going to make some bracelets for my other friends that have entrance exams , yes , coming up .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	going	_	_	VBG	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	go	_	_	VB	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	Okinawa	_	_	NNP	_	_	_	_	_
+8	with	_	_	IN	_	_	_	_	_
+9	a	_	_	DT	_	_	_	_	_
+10	couple	_	_	NN	_	_	_	_	_
+11	of	_	_	IN	_	_	_	_	_
+12	friends	_	_	NNS	_	_	_	_	_
+13	of	_	_	IN	_	_	_	_	_
+14	mine	_	_	PRP	_	_	_	_	_
+15	and	_	_	CC	_	_	_	_	_
+16	we	_	_	PRP	_	_	_	_	_
+17	are	_	_	VBP	_	_	_	_	_
+18	going	_	_	VBG	_	_	_	_	_
+19	to	_	_	TO	_	_	_	_	_
+20	make	_	_	VB	_	_	_	_	_
+21	some	_	_	DT	_	_	_	_	_
+22	bracelets	_	_	NNS	_	_	_	_	_
+23	for	_	_	IN	_	_	_	_	_
+24	my	_	_	PRP$	_	_	_	_	_
+25	other	_	_	JJ	_	_	_	_	_
+26	friends	_	_	NNS	_	_	_	_	_
+27	that	_	_	WDT	_	_	_	_	_
+28	have	_	_	VBP	_	_	_	_	_
+29	entrance	_	_	NN	_	_	_	_	_
+30	exams	_	_	NNS	_	_	_	_	_
+31	,	_	_	,	_	_	_	_	_
+32	yes	_	_	UH	_	_	_	_	_
+33	,	_	_	,	_	_	_	_	_
+34	coming	_	_	VBG	_	_	_	_	_
+35	up	_	_	RP	_	_	_	_	_
+36	.	_	_	.	_	_	_	_	_
+
+# sentid = file01245.txt_98
+# text = and I do n't have any document .
+1	and	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	do	_	_	VBP	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	have	_	_	VB	_	_	_	_	_
+6	any	_	_	DT	_	_	_	_	_
+7	document	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00591.txt_78
+# text = Impress movie ?
+1	Impress	_	_	VB	_	_	_	_	_
+2	movie	_	_	NN	_	_	_	_	_
+3	?	_	_	.	_	_	_	_	_
+
+# sentid = file00017.txt_117
+# text = You know , I always have is that OK ?
+1	You	_	_	PRP	_	_	_	_	_
+2	know	_	_	VBP	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	always	_	_	RB	_	_	_	_	_
+6	have	_	_	VBP	_	_	_	_	_
+7	is	_	_	VBZ	_	_	_	_	_
+8	that	_	_	DT	_	_	_	_	_
+9	OK	_	_	JJ	_	_	_	_	_
+10	?	_	_	.	_	_	_	_	_
+
+# sentid = file00666.txt_81
+# text = that 's true .
+1	that	_	_	DT	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	true	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01270.txt_83
+# text = And in New Zealand , there are different kinds of wines .
+1	And	_	_	CC	_	_	_	_	_
+2	in	_	_	IN	_	_	_	_	_
+3	New	_	_	NNP	_	_	_	_	_
+4	Zealand	_	_	NNP	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	there	_	_	EX	_	_	_	_	_
+7	are	_	_	VBP	_	_	_	_	_
+8	different	_	_	JJ	_	_	_	_	_
+9	kinds	_	_	NNS	_	_	_	_	_
+10	of	_	_	IN	_	_	_	_	_
+11	wines	_	_	NNS	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00812.txt_79
+# text = how much is the fare to New York ?
+1	how	_	_	WRB	_	_	_	_	_
+2	much	_	_	JJ	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	fare	_	_	NN	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	New	_	_	NNP	_	_	_	_	_
+8	York	_	_	NNP	_	_	_	_	_
+9	?	_	_	.	_	_	_	_	_
+
+# sentid = file01277.txt_161
+# text = That 's not policeman 's job .
+1	That	_	_	DT	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	not	_	_	RB	_	_	_	_	_
+4	policeman	_	_	NN	_	_	_	_	_
+5	's	_	_	POS	_	_	_	_	_
+6	job	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00177.txt_45
+# text = That 's all .
+1	That	_	_	DT	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	all	_	_	DT	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00470.txt_115
+# text = not so busy .
+1	not	_	_	RB	_	_	_	_	_
+2	so	_	_	RB	_	_	_	_	_
+3	busy	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00810.txt_64
+# text = But teacher does n't seem to care about all of them .
+1	But	_	_	CC	_	_	_	_	_
+2	teacher	_	_	NN	_	_	_	_	_
+3	does	_	_	VBZ	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	seem	_	_	VB	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	care	_	_	VB	_	_	_	_	_
+8	about	_	_	IN	_	_	_	_	_
+9	all	_	_	DT	_	_	_	_	_
+10	of	_	_	IN	_	_	_	_	_
+11	them	_	_	PRP	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file01222.txt_125
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	very	_	_	RB	_	_	_	_	_
+4	much	_	_	RB	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01173.txt_126
+# text = More money than she had planned .
+1	More	_	_	JJR	_	_	_	_	_
+2	money	_	_	NN	_	_	_	_	_
+3	than	_	_	IN	_	_	_	_	_
+4	she	_	_	PRP	_	_	_	_	_
+5	had	_	_	VBD	_	_	_	_	_
+6	planned	_	_	VBN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00876.txt_24
+# text = And I 'll take shower for about twenty minutes .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	'll	_	_	MD	_	_	_	_	_
+4	take	_	_	VB	_	_	_	_	_
+5	shower	_	_	NN	_	_	_	_	_
+6	for	_	_	IN	_	_	_	_	_
+7	about	_	_	RB	_	_	_	_	_
+8	twenty	_	_	CD	_	_	_	_	_
+9	minutes	_	_	NNS	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01269.txt_295
+# text = But Saitama , it 's not that crowded .
+1	But	_	_	CC	_	_	_	_	_
+2	Saitama	_	_	NNP	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	it	_	_	PRP	_	_	_	_	_
+5	's	_	_	VBZ	_	_	_	_	_
+6	not	_	_	RB	_	_	_	_	_
+7	that	_	_	RB	_	_	_	_	_
+8	crowded	_	_	JJ	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00266.txt_136
+# text = So I present him for concert ticket .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	present	_	_	VBP	_	_	_	_	_
+4	him	_	_	PRP	_	_	_	_	_
+5	for	_	_	IN	_	_	_	_	_
+6	concert	_	_	NN	_	_	_	_	_
+7	ticket	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01247.txt_145
+# text = And it 's pretty crowded during the rush hour .
+1	And	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	pretty	_	_	RB	_	_	_	_	_
+5	crowded	_	_	JJ	_	_	_	_	_
+6	during	_	_	IN	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	rush	_	_	NN	_	_	_	_	_
+9	hour	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00757.txt_43
+# text = Just a moment , please .
+1	Just	_	_	RB	_	_	_	_	_
+2	a	_	_	DT	_	_	_	_	_
+3	moment	_	_	NN	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	please	_	_	UH	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00401.txt_96
+# text = So if you ca n't change , I would not tell anyone .
+1	So	_	_	RB	_	_	_	_	_
+2	if	_	_	IN	_	_	_	_	_
+3	you	_	_	PRP	_	_	_	_	_
+4	ca	_	_	MD	_	_	_	_	_
+5	n't	_	_	RB	_	_	_	_	_
+6	change	_	_	VB	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	I	_	_	PRP	_	_	_	_	_
+9	would	_	_	MD	_	_	_	_	_
+10	not	_	_	RB	_	_	_	_	_
+11	tell	_	_	VB	_	_	_	_	_
+12	anyone	_	_	NN	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00507.txt_32
+# text = And I like to walk every day for my university .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	like	_	_	VBP	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	walk	_	_	VB	_	_	_	_	_
+6	every	_	_	DT	_	_	_	_	_
+7	day	_	_	NN	_	_	_	_	_
+8	for	_	_	IN	_	_	_	_	_
+9	my	_	_	PRP$	_	_	_	_	_
+10	university	_	_	NN	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file00351.txt_4
+# text = I 'm fine , thank you .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	fine	_	_	JJ	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	thank	_	_	VBP	_	_	_	_	_
+6	you	_	_	PRP	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00791.txt_132
+# text = so I do n't know what I should do .
+1	so	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	do	_	_	VBP	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	know	_	_	VB	_	_	_	_	_
+6	what	_	_	WP	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	should	_	_	MD	_	_	_	_	_
+9	do	_	_	VB	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01244.txt_22
+# text = So but I quite often go to Kyoto by train .
+1	So	_	_	RB	_	_	_	_	_
+2	but	_	_	CC	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	quite	_	_	RB	_	_	_	_	_
+5	often	_	_	RB	_	_	_	_	_
+6	go	_	_	VBP	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	Kyoto	_	_	NNP	_	_	_	_	_
+9	by	_	_	IN	_	_	_	_	_
+10	train	_	_	NN	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file00332.txt_70
+# text = But , can you call somebody to come to my house ? ?
+1	But	_	_	CC	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	can	_	_	MD	_	_	_	_	_
+4	you	_	_	PRP	_	_	_	_	_
+5	call	_	_	VB	_	_	_	_	_
+6	somebody	_	_	NN	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	come	_	_	VB	_	_	_	_	_
+9	to	_	_	TO	_	_	_	_	_
+10	my	_	_	PRP$	_	_	_	_	_
+11	house	_	_	NN	_	_	_	_	_
+12	?	_	_	.	_	_	_	_	_
+13	?	_	_	.	_	_	_	_	_
+
+# sentid = file00589.txt_72
+# text = I buy this suits .
+1	I	_	_	PRP	_	_	_	_	_
+2	buy	_	_	VBP	_	_	_	_	_
+3	this	_	_	DT	_	_	_	_	_
+4	suits	_	_	NNS	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00833.txt_1
+# text = good afternoon .
+1	good	_	_	JJ	_	_	_	_	_
+2	afternoon	_	_	NN	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00666.txt_138
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00258.txt_31
+# text = Not so special .
+1	Not	_	_	RB	_	_	_	_	_
+2	so	_	_	RB	_	_	_	_	_
+3	special	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00047.txt_29
+# text = and I like listening to music , especially rock music from overseas .
+1	and	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	like	_	_	VBP	_	_	_	_	_
+4	listening	_	_	VBG	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	music	_	_	NN	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	especially	_	_	RB	_	_	_	_	_
+9	rock	_	_	NN	_	_	_	_	_
+10	music	_	_	NN	_	_	_	_	_
+11	from	_	_	IN	_	_	_	_	_
+12	overseas	_	_	RB	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00603.txt_17
+# text = Once more .
+1	Once	_	_	RB	_	_	_	_	_
+2	more	_	_	RBR	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00945.txt_42
+# text = And it 's funny .
+1	And	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	funny	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00838.txt_186
+# text = And , at that time , one young boy is come across with his bike talking on his mobile phones with his girlfriends .
+1	And	_	_	CC	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	at	_	_	IN	_	_	_	_	_
+4	that	_	_	DT	_	_	_	_	_
+5	time	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	one	_	_	CD	_	_	_	_	_
+8	young	_	_	JJ	_	_	_	_	_
+9	boy	_	_	NN	_	_	_	_	_
+10	is	_	_	VBZ	_	_	_	_	_
+11	come	_	_	VB	_	_	_	_	_
+12	across	_	_	IN	_	_	_	_	_
+13	with	_	_	IN	_	_	_	_	_
+14	his	_	_	PRP$	_	_	_	_	_
+15	bike	_	_	NN	_	_	_	_	_
+16	talking	_	_	VBG	_	_	_	_	_
+17	on	_	_	IN	_	_	_	_	_
+18	his	_	_	PRP$	_	_	_	_	_
+19	mobile	_	_	JJ	_	_	_	_	_
+20	phones	_	_	NNS	_	_	_	_	_
+21	with	_	_	IN	_	_	_	_	_
+22	his	_	_	PRP$	_	_	_	_	_
+23	girlfriends	_	_	NNS	_	_	_	_	_
+24	.	_	_	.	_	_	_	_	_
+
+# sentid = file00802.txt_118
+# text = But anyway , I 'll wait , then .
+1	But	_	_	CC	_	_	_	_	_
+2	anyway	_	_	UH	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	'll	_	_	MD	_	_	_	_	_
+6	wait	_	_	VB	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	then	_	_	RB	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file01266.txt_21
+# text = he is a pretty independent boy .
+1	he	_	_	PRP	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	pretty	_	_	RB	_	_	_	_	_
+5	independent	_	_	JJ	_	_	_	_	_
+6	boy	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00171.txt_82
+# text = or I 'd like to change to another type of bag instead of this .
+1	or	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	'd	_	_	MD	_	_	_	_	_
+4	like	_	_	VB	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	change	_	_	VB	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	another	_	_	DT	_	_	_	_	_
+9	type	_	_	NN	_	_	_	_	_
+10	of	_	_	IN	_	_	_	_	_
+11	bag	_	_	NN	_	_	_	_	_
+12	instead	_	_	RB	_	_	_	_	_
+13	of	_	_	IN	_	_	_	_	_
+14	this	_	_	DT	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file00583.txt_37
+# text = So there are many child , there are skiing .
+1	So	_	_	RB	_	_	_	_	_
+2	there	_	_	EX	_	_	_	_	_
+3	are	_	_	VBP	_	_	_	_	_
+4	many	_	_	JJ	_	_	_	_	_
+5	child	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	there	_	_	EX	_	_	_	_	_
+8	are	_	_	VBP	_	_	_	_	_
+9	skiing	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00093.txt_61
+# text = and I have only brother
+1	and	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	have	_	_	VBP	_	_	_	_	_
+4	only	_	_	RB	_	_	_	_	_
+5	brother	_	_	NN	_	_	_	_	_
+
+# sentid = file01224.txt_38
+# text = It 's too busy .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	too	_	_	RB	_	_	_	_	_
+4	busy	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01220.txt_60
+# text = And she is looking at her cat and trying to make sure she can make a good presentation , probably for her homework or something for a class .
+1	And	_	_	CC	_	_	_	_	_
+2	she	_	_	PRP	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	looking	_	_	VBG	_	_	_	_	_
+5	at	_	_	IN	_	_	_	_	_
+6	her	_	_	PRP$	_	_	_	_	_
+7	cat	_	_	NN	_	_	_	_	_
+8	and	_	_	CC	_	_	_	_	_
+9	trying	_	_	VBG	_	_	_	_	_
+10	to	_	_	TO	_	_	_	_	_
+11	make	_	_	VB	_	_	_	_	_
+12	sure	_	_	JJ	_	_	_	_	_
+13	she	_	_	PRP	_	_	_	_	_
+14	can	_	_	MD	_	_	_	_	_
+15	make	_	_	VB	_	_	_	_	_
+16	a	_	_	DT	_	_	_	_	_
+17	good	_	_	JJ	_	_	_	_	_
+18	presentation	_	_	NN	_	_	_	_	_
+19	,	_	_	,	_	_	_	_	_
+20	probably	_	_	RB	_	_	_	_	_
+21	for	_	_	IN	_	_	_	_	_
+22	her	_	_	PRP$	_	_	_	_	_
+23	homework	_	_	NN	_	_	_	_	_
+24	or	_	_	CC	_	_	_	_	_
+25	something	_	_	NN	_	_	_	_	_
+26	for	_	_	IN	_	_	_	_	_
+27	a	_	_	DT	_	_	_	_	_
+28	class	_	_	NN	_	_	_	_	_
+29	.	_	_	.	_	_	_	_	_
+
+# sentid = file01243.txt_103
+# text = it was pretty big .
+1	it	_	_	PRP	_	_	_	_	_
+2	was	_	_	VBD	_	_	_	_	_
+3	pretty	_	_	RB	_	_	_	_	_
+4	big	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00376.txt_25
+# text = That 's it .
+1	That	_	_	DT	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01057.txt_94
+# text = How different ?
+1	How	_	_	WRB	_	_	_	_	_
+2	different	_	_	JJ	_	_	_	_	_
+3	?	_	_	.	_	_	_	_	_
+
+# sentid = file00600.txt_113
+# text = but he said , " This puppy is a little bit dirty , and you could n't take it to your home . "
+1	but	_	_	CC	_	_	_	_	_
+2	he	_	_	PRP	_	_	_	_	_
+3	said	_	_	VBD	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	"	_	_	"	_	_	_	_	_
+6	This	_	_	DT	_	_	_	_	_
+7	puppy	_	_	NN	_	_	_	_	_
+8	is	_	_	VBZ	_	_	_	_	_
+9	a	_	_	DT	_	_	_	_	_
+10	little	_	_	JJ	_	_	_	_	_
+11	bit	_	_	NN	_	_	_	_	_
+12	dirty	_	_	JJ	_	_	_	_	_
+13	,	_	_	,	_	_	_	_	_
+14	and	_	_	CC	_	_	_	_	_
+15	you	_	_	PRP	_	_	_	_	_
+16	could	_	_	MD	_	_	_	_	_
+17	n't	_	_	RB	_	_	_	_	_
+18	take	_	_	VB	_	_	_	_	_
+19	it	_	_	PRP	_	_	_	_	_
+20	to	_	_	TO	_	_	_	_	_
+21	your	_	_	PRP$	_	_	_	_	_
+22	home	_	_	NN	_	_	_	_	_
+23	.	_	_	.	_	_	_	_	_
+24	"	_	_	"	_	_	_	_	_
+
+# sentid = file00306.txt_81
+# text = " Pay It Forward " .
+1	"	_	_	"	_	_	_	_	_
+2	Pay	_	_	NNP	_	_	_	_	_
+3	It	_	_	NNP	_	_	_	_	_
+4	Forward	_	_	NNP	_	_	_	_	_
+5	"	_	_	"	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01224.txt_45
+# text = It 's nine o'clock .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	nine	_	_	CD	_	_	_	_	_
+4	o'clock	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00946.txt_4
+# text = Fine , thank you .
+1	Fine	_	_	JJ	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	thank	_	_	VBP	_	_	_	_	_
+4	you	_	_	PRP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00059.txt_84
+# text = So would you mind changing another shirts instead ?
+1	So	_	_	RB	_	_	_	_	_
+2	would	_	_	MD	_	_	_	_	_
+3	you	_	_	PRP	_	_	_	_	_
+4	mind	_	_	VB	_	_	_	_	_
+5	changing	_	_	VBG	_	_	_	_	_
+6	another	_	_	DT	_	_	_	_	_
+7	shirts	_	_	NNS	_	_	_	_	_
+8	instead	_	_	RB	_	_	_	_	_
+9	?	_	_	.	_	_	_	_	_
+
+# sentid = file00470.txt_69
+# text = Then , how much ?
+1	Then	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	how	_	_	WRB	_	_	_	_	_
+4	much	_	_	JJ	_	_	_	_	_
+5	?	_	_	.	_	_	_	_	_
+
+# sentid = file01279.txt_166
+# text = Let 's see .
+1	Let	_	_	VB	_	_	_	_	_
+2	's	_	_	PRP	_	_	_	_	_
+3	see	_	_	VB	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00442.txt_110
+# text = And we prepared the lunch , and we , yeah , prepared necessary gear for making a tent .
+1	And	_	_	CC	_	_	_	_	_
+2	we	_	_	PRP	_	_	_	_	_
+3	prepared	_	_	VBD	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	lunch	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	and	_	_	CC	_	_	_	_	_
+8	we	_	_	PRP	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	yeah	_	_	UH	_	_	_	_	_
+11	,	_	_	,	_	_	_	_	_
+12	prepared	_	_	VBD	_	_	_	_	_
+13	necessary	_	_	JJ	_	_	_	_	_
+14	gear	_	_	NN	_	_	_	_	_
+15	for	_	_	IN	_	_	_	_	_
+16	making	_	_	VBG	_	_	_	_	_
+17	a	_	_	DT	_	_	_	_	_
+18	tent	_	_	NN	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file01032.txt_154
+# text = And anyway I ca n't take the puppy to take walk every day .
+1	And	_	_	CC	_	_	_	_	_
+2	anyway	_	_	RB	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	ca	_	_	MD	_	_	_	_	_
+5	n't	_	_	RB	_	_	_	_	_
+6	take	_	_	VB	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	puppy	_	_	NN	_	_	_	_	_
+9	to	_	_	TO	_	_	_	_	_
+10	take	_	_	VB	_	_	_	_	_
+11	walk	_	_	NN	_	_	_	_	_
+12	every	_	_	DT	_	_	_	_	_
+13	day	_	_	NN	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00018.txt_43
+# text = this is Charlie speaking .
+1	this	_	_	DT	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	Charlie	_	_	NNP	_	_	_	_	_
+4	speaking	_	_	VBG	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00839.txt_37
+# text = I like it very much , but , as I said earlier , it 's a little hard to commute to here .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	very	_	_	RB	_	_	_	_	_
+5	much	_	_	RB	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	but	_	_	CC	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	as	_	_	IN	_	_	_	_	_
+10	I	_	_	PRP	_	_	_	_	_
+11	said	_	_	VBD	_	_	_	_	_
+12	earlier	_	_	RBR	_	_	_	_	_
+13	,	_	_	,	_	_	_	_	_
+14	it	_	_	PRP	_	_	_	_	_
+15	's	_	_	VBZ	_	_	_	_	_
+16	a	_	_	DT	_	_	_	_	_
+17	little	_	_	JJ	_	_	_	_	_
+18	hard	_	_	JJ	_	_	_	_	_
+19	to	_	_	TO	_	_	_	_	_
+20	commute	_	_	VB	_	_	_	_	_
+21	to	_	_	TO	_	_	_	_	_
+22	here	_	_	RB	_	_	_	_	_
+23	.	_	_	.	_	_	_	_	_
+
+# sentid = file01261.txt_119
+# text = I also have my grandma in Chiba .
+1	I	_	_	PRP	_	_	_	_	_
+2	also	_	_	RB	_	_	_	_	_
+3	have	_	_	VBP	_	_	_	_	_
+4	my	_	_	PRP$	_	_	_	_	_
+5	grandma	_	_	NN	_	_	_	_	_
+6	in	_	_	IN	_	_	_	_	_
+7	Chiba	_	_	NNP	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01101.txt_143
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00923.txt_59
+# text = how much does it cost ?
+1	how	_	_	WRB	_	_	_	_	_
+2	much	_	_	JJ	_	_	_	_	_
+3	does	_	_	VBZ	_	_	_	_	_
+4	it	_	_	PRP	_	_	_	_	_
+5	cost	_	_	VB	_	_	_	_	_
+6	?	_	_	.	_	_	_	_	_
+
+# sentid = file01276.txt_169
+# text = it worked .
+1	it	_	_	PRP	_	_	_	_	_
+2	worked	_	_	VBD	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00541.txt_11
+# text = Minami Boso .
+1	Minami	_	_	FW	_	_	_	_	_
+2	Boso	_	_	FW	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00256.txt_48
+# text = But I snowboard is very beginner .
+1	But	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	snowboard	_	_	NN	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	very	_	_	RB	_	_	_	_	_
+6	beginner	_	_	NN	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00034.txt_38
+# text = So maybe dinner .
+1	So	_	_	RB	_	_	_	_	_
+2	maybe	_	_	RB	_	_	_	_	_
+3	dinner	_	_	NN	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file01101.txt_44
+# text = So it was really lucky for me .
+1	So	_	_	RB	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	was	_	_	VBD	_	_	_	_	_
+4	really	_	_	RB	_	_	_	_	_
+5	lucky	_	_	JJ	_	_	_	_	_
+6	for	_	_	IN	_	_	_	_	_
+7	me	_	_	PRP	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01155.txt_53
+# text = please explain these two guitars .
+1	please	_	_	UH	_	_	_	_	_
+2	explain	_	_	VB	_	_	_	_	_
+3	these	_	_	DT	_	_	_	_	_
+4	two	_	_	CD	_	_	_	_	_
+5	guitars	_	_	NNS	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01018.txt_134
+# text = can I go to what recommend what is the most fastest way to go to New York ?
+1	can	_	_	MD	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	go	_	_	VB	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	what	_	_	WP	_	_	_	_	_
+6	recommend	_	_	VB	_	_	_	_	_
+7	what	_	_	WP	_	_	_	_	_
+8	is	_	_	VBZ	_	_	_	_	_
+9	the	_	_	DT	_	_	_	_	_
+10	most	_	_	RBS	_	_	_	_	_
+11	fastest	_	_	JJS	_	_	_	_	_
+12	way	_	_	NN	_	_	_	_	_
+13	to	_	_	TO	_	_	_	_	_
+14	go	_	_	VB	_	_	_	_	_
+15	to	_	_	TO	_	_	_	_	_
+16	New	_	_	NNP	_	_	_	_	_
+17	York	_	_	NNP	_	_	_	_	_
+18	?	_	_	.	_	_	_	_	_
+
+# sentid = file00428.txt_57
+# text = I have to go ...
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	go	_	_	VB	_	_	_	_	_
+5	...	_	_	:	_	_	_	_	_
+
+# sentid = file00201.txt_23
+# text = yes , maybe Central East .
+1	yes	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	maybe	_	_	RB	_	_	_	_	_
+4	Central	_	_	JJ	_	_	_	_	_
+5	East	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01033.txt_14
+# text = with my family and cat .
+1	with	_	_	IN	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	family	_	_	NN	_	_	_	_	_
+4	and	_	_	CC	_	_	_	_	_
+5	cat	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01188.txt_70
+# text = She has a mirror on the desk .
+1	She	_	_	PRP	_	_	_	_	_
+2	has	_	_	VBZ	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	mirror	_	_	NN	_	_	_	_	_
+5	on	_	_	IN	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	desk	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00831.txt_47
+# text = how was your weekend plan ?
+1	how	_	_	WRB	_	_	_	_	_
+2	was	_	_	VBD	_	_	_	_	_
+3	your	_	_	PRP$	_	_	_	_	_
+4	weekend	_	_	NN	_	_	_	_	_
+5	plan	_	_	NN	_	_	_	_	_
+6	?	_	_	.	_	_	_	_	_
+
+# sentid = file01254.txt_114
+# text = Then the train came and I was worried that my bag would get crushed under the train .
+1	Then	_	_	RB	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	train	_	_	NN	_	_	_	_	_
+4	came	_	_	VBD	_	_	_	_	_
+5	and	_	_	CC	_	_	_	_	_
+6	I	_	_	PRP	_	_	_	_	_
+7	was	_	_	VBD	_	_	_	_	_
+8	worried	_	_	JJ	_	_	_	_	_
+9	that	_	_	IN	_	_	_	_	_
+10	my	_	_	PRP$	_	_	_	_	_
+11	bag	_	_	NN	_	_	_	_	_
+12	would	_	_	MD	_	_	_	_	_
+13	get	_	_	VB	_	_	_	_	_
+14	crushed	_	_	VBN	_	_	_	_	_
+15	under	_	_	IN	_	_	_	_	_
+16	the	_	_	DT	_	_	_	_	_
+17	train	_	_	NN	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file00968.txt_249
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	very	_	_	RB	_	_	_	_	_
+4	much	_	_	RB	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00517.txt_130
+# text = So very differ
+1	So	_	_	RB	_	_	_	_	_
+2	very	_	_	RB	_	_	_	_	_
+3	differ	_	_	VB	_	_	_	_	_
+
+# sentid = file00897.txt_9
+# text = I sometimes go to walk with my dog , and feed my dog .
+1	I	_	_	PRP	_	_	_	_	_
+2	sometimes	_	_	RB	_	_	_	_	_
+3	go	_	_	VBP	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	walk	_	_	VB	_	_	_	_	_
+6	with	_	_	IN	_	_	_	_	_
+7	my	_	_	PRP$	_	_	_	_	_
+8	dog	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	and	_	_	CC	_	_	_	_	_
+11	feed	_	_	VB	_	_	_	_	_
+12	my	_	_	PRP$	_	_	_	_	_
+13	dog	_	_	NN	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file00155.txt_39
+# text = What 's happening ?
+1	What	_	_	WP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	happening	_	_	VBG	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file00165.txt_216
+# text = I eat . " .
+1	I	_	_	PRP	_	_	_	_	_
+2	eat	_	_	VBP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+4	"	_	_	''	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00072.txt_12
+# text = today lesson is Christmas party .
+1	today	_	_	NN	_	_	_	_	_
+2	lesson	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	Christmas	_	_	NNP	_	_	_	_	_
+5	party	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01186.txt_202
+# text = Because he broke the motorbikes and the portable phone .
+1	Because	_	_	IN	_	_	_	_	_
+2	he	_	_	PRP	_	_	_	_	_
+3	broke	_	_	VBD	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	motorbikes	_	_	NNS	_	_	_	_	_
+6	and	_	_	CC	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	portable	_	_	JJ	_	_	_	_	_
+9	phone	_	_	NN	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file00427.txt_8
+# text = I have a question about his statement .
+1	I	_	_	PRP	_	_	_	_	_
+2	have	_	_	VBP	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	question	_	_	NN	_	_	_	_	_
+5	about	_	_	IN	_	_	_	_	_
+6	his	_	_	PRP$	_	_	_	_	_
+7	statement	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01057.txt_148
+# text = so I prefer cats to dogs .
+1	so	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	prefer	_	_	VBP	_	_	_	_	_
+4	cats	_	_	NNS	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	dogs	_	_	NNS	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00480.txt_71
+# text = In Japan , is blue green , nan te iun daro
+1	In	_	_	IN	_	_	_	_	_
+2	Japan	_	_	NNP	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	is	_	_	VBZ	_	_	_	_	_
+5	blue	_	_	JJ	_	_	_	_	_
+6	green	_	_	JJ	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	nan	_	_	FW	_	_	_	_	_
+9	te	_	_	FW	_	_	_	_	_
+10	iun	_	_	FW	_	_	_	_	_
+11	daro	_	_	FW	_	_	_	_	_
+
+# sentid = file00015.txt_4
+# text = I 'm just kinda sleepy .
+1	I	_	_	PRP	_	_	_	_	_
+2	'm	_	_	VBP	_	_	_	_	_
+3	just	_	_	RB	_	_	_	_	_
+4	kinda	_	_	RB	_	_	_	_	_
+5	sleepy	_	_	JJ	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00984.txt_190
+# text = Since I move to Tokyo , I have n't drove a car .
+1	Since	_	_	IN	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	move	_	_	VBP	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	Tokyo	_	_	NNP	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	have	_	_	VBP	_	_	_	_	_
+9	n't	_	_	RB	_	_	_	_	_
+10	drove	_	_	VBD	_	_	_	_	_
+11	a	_	_	DT	_	_	_	_	_
+12	car	_	_	NN	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00968.txt_69
+# text = It 's OK .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	OK	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00825.txt_53
+# text = And two dishes are on the table .
+1	And	_	_	CC	_	_	_	_	_
+2	two	_	_	CD	_	_	_	_	_
+3	dishes	_	_	NNS	_	_	_	_	_
+4	are	_	_	VBP	_	_	_	_	_
+5	on	_	_	IN	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	table	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00057.txt_131
+# text = So if we have more time to stay there , we really enjoy what Grand Canyon is how beautiful it is .
+1	So	_	_	RB	_	_	_	_	_
+2	if	_	_	IN	_	_	_	_	_
+3	we	_	_	PRP	_	_	_	_	_
+4	have	_	_	VBP	_	_	_	_	_
+5	more	_	_	JJR	_	_	_	_	_
+6	time	_	_	NN	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	stay	_	_	VB	_	_	_	_	_
+9	there	_	_	RB	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	we	_	_	PRP	_	_	_	_	_
+12	really	_	_	RB	_	_	_	_	_
+13	enjoy	_	_	VBP	_	_	_	_	_
+14	what	_	_	WP	_	_	_	_	_
+15	Grand	_	_	NNP	_	_	_	_	_
+16	Canyon	_	_	NNP	_	_	_	_	_
+17	is	_	_	VBZ	_	_	_	_	_
+18	how	_	_	WRB	_	_	_	_	_
+19	beautiful	_	_	JJ	_	_	_	_	_
+20	it	_	_	PRP	_	_	_	_	_
+21	is	_	_	VBZ	_	_	_	_	_
+22	.	_	_	.	_	_	_	_	_
+
+# sentid = file00253.txt_38
+# text = and it 's sort of crowded .
+1	and	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	sort	_	_	RB	_	_	_	_	_
+5	of	_	_	RB	_	_	_	_	_
+6	crowded	_	_	JJ	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00800.txt_8
+# text = it is called Hokkaido area
+1	it	_	_	PRP	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	called	_	_	VBN	_	_	_	_	_
+4	Hokkaido	_	_	NNP	_	_	_	_	_
+5	area	_	_	NN	_	_	_	_	_
+
+# sentid = file00701.txt_51
+# text = And not so effective .
+1	And	_	_	CC	_	_	_	_	_
+2	not	_	_	RB	_	_	_	_	_
+3	so	_	_	RB	_	_	_	_	_
+4	effective	_	_	JJ	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00320.txt_161
+# text = But that was the boy 's fault because he was just ignored in the signal .
+1	But	_	_	CC	_	_	_	_	_
+2	that	_	_	DT	_	_	_	_	_
+3	was	_	_	VBD	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	boy	_	_	NN	_	_	_	_	_
+6	's	_	_	POS	_	_	_	_	_
+7	fault	_	_	NN	_	_	_	_	_
+8	because	_	_	IN	_	_	_	_	_
+9	he	_	_	PRP	_	_	_	_	_
+10	was	_	_	VBD	_	_	_	_	_
+11	just	_	_	RB	_	_	_	_	_
+12	ignored	_	_	VBN	_	_	_	_	_
+13	in	_	_	IN	_	_	_	_	_
+14	the	_	_	DT	_	_	_	_	_
+15	signal	_	_	NN	_	_	_	_	_
+16	.	_	_	.	_	_	_	_	_
+
+# sentid = file00022.txt_155
+# text = from six o'clock , I have two classes .
+1	from	_	_	IN	_	_	_	_	_
+2	six	_	_	CD	_	_	_	_	_
+3	o'clock	_	_	NN	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	have	_	_	VBP	_	_	_	_	_
+7	two	_	_	CD	_	_	_	_	_
+8	classes	_	_	NNS	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00231.txt_21
+# text = So , maybe next year , September .
+1	So	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	maybe	_	_	RB	_	_	_	_	_
+4	next	_	_	JJ	_	_	_	_	_
+5	year	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	September	_	_	NNP	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00292.txt_14
+# text = I was bring up at Hiroshima
+1	I	_	_	PRP	_	_	_	_	_
+2	was	_	_	VBD	_	_	_	_	_
+3	bring	_	_	VB	_	_	_	_	_
+4	up	_	_	RP	_	_	_	_	_
+5	at	_	_	IN	_	_	_	_	_
+6	Hiroshima	_	_	NNP	_	_	_	_	_
+
+# sentid = file00329.txt_118
+# text = First and second time , I homestayed .
+1	First	_	_	JJ	_	_	_	_	_
+2	and	_	_	CC	_	_	_	_	_
+3	second	_	_	JJ	_	_	_	_	_
+4	time	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	I	_	_	PRP	_	_	_	_	_
+7	homestayed	_	_	VBD	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file01273.txt_29
+# text = I try to go out by myself at least half a day while my husband is taking care of my daughter .
+1	I	_	_	PRP	_	_	_	_	_
+2	try	_	_	VBP	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	go	_	_	VB	_	_	_	_	_
+5	out	_	_	RP	_	_	_	_	_
+6	by	_	_	IN	_	_	_	_	_
+7	myself	_	_	PRP	_	_	_	_	_
+8	at	_	_	IN	_	_	_	_	_
+9	least	_	_	JJS	_	_	_	_	_
+10	half	_	_	PDT	_	_	_	_	_
+11	a	_	_	DT	_	_	_	_	_
+12	day	_	_	NN	_	_	_	_	_
+13	while	_	_	IN	_	_	_	_	_
+14	my	_	_	PRP$	_	_	_	_	_
+15	husband	_	_	NN	_	_	_	_	_
+16	is	_	_	VBZ	_	_	_	_	_
+17	taking	_	_	VBG	_	_	_	_	_
+18	care	_	_	NN	_	_	_	_	_
+19	of	_	_	IN	_	_	_	_	_
+20	my	_	_	PRP$	_	_	_	_	_
+21	daughter	_	_	NN	_	_	_	_	_
+22	.	_	_	.	_	_	_	_	_
+
+# sentid = file01157.txt_9
+# text = choosing the question and answer Is very very difficult .
+1	choosing	_	_	VBG	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	question	_	_	NN	_	_	_	_	_
+4	and	_	_	CC	_	_	_	_	_
+5	answer	_	_	NN	_	_	_	_	_
+6	Is	_	_	VBZ	_	_	_	_	_
+7	very	_	_	RB	_	_	_	_	_
+8	very	_	_	RB	_	_	_	_	_
+9	difficult	_	_	JJ	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01107.txt_100
+# text = May I have a discount , please ?
+1	May	_	_	MD	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	have	_	_	VB	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	discount	_	_	NN	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	please	_	_	UH	_	_	_	_	_
+8	?	_	_	.	_	_	_	_	_
+
+# sentid = file00448.txt_35
+# text = It 's as if I were a bird .
+1	It	_	_	PRP	_	_	_	_	_
+2	's	_	_	VBZ	_	_	_	_	_
+3	as	_	_	IN	_	_	_	_	_
+4	if	_	_	IN	_	_	_	_	_
+5	I	_	_	PRP	_	_	_	_	_
+6	were	_	_	VBD	_	_	_	_	_
+7	a	_	_	DT	_	_	_	_	_
+8	bird	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00670.txt_5
+# text = But a little bit tired .
+1	But	_	_	CC	_	_	_	_	_
+2	a	_	_	DT	_	_	_	_	_
+3	little	_	_	JJ	_	_	_	_	_
+4	bit	_	_	NN	_	_	_	_	_
+5	tired	_	_	JJ	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00346.txt_49
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01101.txt_33
+# text = And then he started teaching me , that was the first time we met .
+1	And	_	_	CC	_	_	_	_	_
+2	then	_	_	RB	_	_	_	_	_
+3	he	_	_	PRP	_	_	_	_	_
+4	started	_	_	VBD	_	_	_	_	_
+5	teaching	_	_	VBG	_	_	_	_	_
+6	me	_	_	PRP	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	that	_	_	DT	_	_	_	_	_
+9	was	_	_	VBD	_	_	_	_	_
+10	the	_	_	DT	_	_	_	_	_
+11	first	_	_	JJ	_	_	_	_	_
+12	time	_	_	NN	_	_	_	_	_
+13	we	_	_	PRP	_	_	_	_	_
+14	met	_	_	VBD	_	_	_	_	_
+15	.	_	_	.	_	_	_	_	_
+
+# sentid = file01238.txt_186
+# text = But here , although like your parents are sick , you can just take the train and meet your friends .
+1	But	_	_	CC	_	_	_	_	_
+2	here	_	_	RB	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	although	_	_	IN	_	_	_	_	_
+5	like	_	_	UH	_	_	_	_	_
+6	your	_	_	PRP$	_	_	_	_	_
+7	parents	_	_	NNS	_	_	_	_	_
+8	are	_	_	VBP	_	_	_	_	_
+9	sick	_	_	JJ	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	you	_	_	PRP	_	_	_	_	_
+12	can	_	_	MD	_	_	_	_	_
+13	just	_	_	RB	_	_	_	_	_
+14	take	_	_	VB	_	_	_	_	_
+15	the	_	_	DT	_	_	_	_	_
+16	train	_	_	NN	_	_	_	_	_
+17	and	_	_	CC	_	_	_	_	_
+18	meet	_	_	VB	_	_	_	_	_
+19	your	_	_	PRP$	_	_	_	_	_
+20	friends	_	_	NNS	_	_	_	_	_
+21	.	_	_	.	_	_	_	_	_
+
+# sentid = file00306.txt_8
+# text = I take off the train at Takaido Station .
+1	I	_	_	PRP	_	_	_	_	_
+2	take	_	_	VBP	_	_	_	_	_
+3	off	_	_	RP	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	train	_	_	NN	_	_	_	_	_
+6	at	_	_	IN	_	_	_	_	_
+7	Takaido	_	_	NNP	_	_	_	_	_
+8	Station	_	_	NNP	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00126.txt_95
+# text = I think so .
+1	I	_	_	PRP	_	_	_	_	_
+2	think	_	_	VBP	_	_	_	_	_
+3	so	_	_	RB	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00792.txt_70
+# text = Eat instant noodle everyday .
+1	Eat	_	_	VB	_	_	_	_	_
+2	instant	_	_	JJ	_	_	_	_	_
+3	noodle	_	_	NN	_	_	_	_	_
+4	everyday	_	_	NN	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00022.txt_95
+# text = she said she did n't have a red sweater at that time .
+1	she	_	_	PRP	_	_	_	_	_
+2	said	_	_	VBD	_	_	_	_	_
+3	she	_	_	PRP	_	_	_	_	_
+4	did	_	_	VBD	_	_	_	_	_
+5	n't	_	_	RB	_	_	_	_	_
+6	have	_	_	VB	_	_	_	_	_
+7	a	_	_	DT	_	_	_	_	_
+8	red	_	_	JJ	_	_	_	_	_
+9	sweater	_	_	NN	_	_	_	_	_
+10	at	_	_	IN	_	_	_	_	_
+11	that	_	_	DT	_	_	_	_	_
+12	time	_	_	NN	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file01176.txt_18
+# text = Actually , my boss sent me to San Diego to practice my English because my English was good enough to negotiate with manufacturers and paper agent .
+1	Actually	_	_	RB	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	my	_	_	PRP$	_	_	_	_	_
+4	boss	_	_	NN	_	_	_	_	_
+5	sent	_	_	VBD	_	_	_	_	_
+6	me	_	_	PRP	_	_	_	_	_
+7	to	_	_	TO	_	_	_	_	_
+8	San	_	_	NNP	_	_	_	_	_
+9	Diego	_	_	NNP	_	_	_	_	_
+10	to	_	_	TO	_	_	_	_	_
+11	practice	_	_	VB	_	_	_	_	_
+12	my	_	_	PRP$	_	_	_	_	_
+13	English	_	_	NNP	_	_	_	_	_
+14	because	_	_	IN	_	_	_	_	_
+15	my	_	_	PRP$	_	_	_	_	_
+16	English	_	_	NNP	_	_	_	_	_
+17	was	_	_	VBD	_	_	_	_	_
+18	good	_	_	JJ	_	_	_	_	_
+19	enough	_	_	RB	_	_	_	_	_
+20	to	_	_	TO	_	_	_	_	_
+21	negotiate	_	_	VB	_	_	_	_	_
+22	with	_	_	IN	_	_	_	_	_
+23	manufacturers	_	_	NNS	_	_	_	_	_
+24	and	_	_	CC	_	_	_	_	_
+25	paper	_	_	NN	_	_	_	_	_
+26	agent	_	_	NN	_	_	_	_	_
+27	.	_	_	.	_	_	_	_	_
+
+# sentid = file01219.txt_127
+# text = Last week .
+1	Last	_	_	JJ	_	_	_	_	_
+2	week	_	_	NN	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file01253.txt_179
+# text = Because it was really strict .
+1	Because	_	_	IN	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	was	_	_	VBD	_	_	_	_	_
+4	really	_	_	RB	_	_	_	_	_
+5	strict	_	_	JJ	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00480.txt_55
+# text = Which is cheap ?
+1	Which	_	_	WDT	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	cheap	_	_	JJ	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file00590.txt_126
+# text = and he drinked also beer or wine , I think .
+1	and	_	_	CC	_	_	_	_	_
+2	he	_	_	PRP	_	_	_	_	_
+3	drinked	_	_	VBD	_	_	_	_	_
+4	also	_	_	RB	_	_	_	_	_
+5	beer	_	_	NN	_	_	_	_	_
+6	or	_	_	CC	_	_	_	_	_
+7	wine	_	_	NN	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	I	_	_	PRP	_	_	_	_	_
+10	think	_	_	VBP	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file01223.txt_44
+# text = And some of them are studying and they 're listening to what the teacher is saying .
+1	And	_	_	CC	_	_	_	_	_
+2	some	_	_	DT	_	_	_	_	_
+3	of	_	_	IN	_	_	_	_	_
+4	them	_	_	PRP	_	_	_	_	_
+5	are	_	_	VBP	_	_	_	_	_
+6	studying	_	_	VBG	_	_	_	_	_
+7	and	_	_	CC	_	_	_	_	_
+8	they	_	_	PRP	_	_	_	_	_
+9	're	_	_	VBP	_	_	_	_	_
+10	listening	_	_	VBG	_	_	_	_	_
+11	to	_	_	TO	_	_	_	_	_
+12	what	_	_	WP	_	_	_	_	_
+13	the	_	_	DT	_	_	_	_	_
+14	teacher	_	_	NN	_	_	_	_	_
+15	is	_	_	VBZ	_	_	_	_	_
+16	saying	_	_	VBG	_	_	_	_	_
+17	.	_	_	.	_	_	_	_	_
+
+# sentid = file00089.txt_69
+# text = tokuninai Nothing .
+1	tokuninai	_	_	FW	_	_	_	_	_
+2	Nothing	_	_	NN	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00402.txt_47
+# text = So I could n't go to your party .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	could	_	_	MD	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	go	_	_	VB	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	your	_	_	PRP$	_	_	_	_	_
+8	party	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00009.txt_58
+# text = Maybe she is a very nice girl .
+1	Maybe	_	_	RB	_	_	_	_	_
+2	she	_	_	PRP	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	very	_	_	RB	_	_	_	_	_
+6	nice	_	_	JJ	_	_	_	_	_
+7	girl	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00374.txt_67
+# text = So my son and my daughter can understand what my husband and I are talking in Osaka dialect .
+1	So	_	_	RB	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	son	_	_	NN	_	_	_	_	_
+4	and	_	_	CC	_	_	_	_	_
+5	my	_	_	PRP$	_	_	_	_	_
+6	daughter	_	_	NN	_	_	_	_	_
+7	can	_	_	MD	_	_	_	_	_
+8	understand	_	_	VB	_	_	_	_	_
+9	what	_	_	WP	_	_	_	_	_
+10	my	_	_	PRP$	_	_	_	_	_
+11	husband	_	_	NN	_	_	_	_	_
+12	and	_	_	CC	_	_	_	_	_
+13	I	_	_	PRP	_	_	_	_	_
+14	are	_	_	VBP	_	_	_	_	_
+15	talking	_	_	VBG	_	_	_	_	_
+16	in	_	_	IN	_	_	_	_	_
+17	Osaka	_	_	NNP	_	_	_	_	_
+18	dialect	_	_	NN	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file00347.txt_64
+# text = I applied for the program called Osaka .
+1	I	_	_	PRP	_	_	_	_	_
+2	applied	_	_	VBD	_	_	_	_	_
+3	for	_	_	IN	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	program	_	_	NN	_	_	_	_	_
+6	called	_	_	VBN	_	_	_	_	_
+7	Osaka	_	_	NNP	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00980.txt_203
+# text = Happiest time ?
+1	Happiest	_	_	JJS	_	_	_	_	_
+2	time	_	_	NN	_	_	_	_	_
+3	?	_	_	.	_	_	_	_	_
+
+# sentid = file01205.txt_87
+# text = I tried it on at the store .
+1	I	_	_	PRP	_	_	_	_	_
+2	tried	_	_	VBD	_	_	_	_	_
+3	it	_	_	PRP	_	_	_	_	_
+4	on	_	_	IN	_	_	_	_	_
+5	at	_	_	IN	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	store	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00248.txt_33
+# text = Hi , hello .
+1	Hi	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	hello	_	_	UH	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00445.txt_23
+# text = I like sports .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	sports	_	_	NNS	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00255.txt_95
+# text = And there comes a train .
+1	And	_	_	CC	_	_	_	_	_
+2	there	_	_	RB	_	_	_	_	_
+3	comes	_	_	VBZ	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	train	_	_	NN	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00875.txt_38
+# text = And I can also see the snow mountain oversea .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	can	_	_	MD	_	_	_	_	_
+4	also	_	_	RB	_	_	_	_	_
+5	see	_	_	VB	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	snow	_	_	NN	_	_	_	_	_
+8	mountain	_	_	NN	_	_	_	_	_
+9	oversea	_	_	RB	_	_	_	_	_
+10	.	_	_	.	_	_	_	_	_
+
+# sentid = file01213.txt_39
+# text = And my brother and sisters too .
+1	And	_	_	CC	_	_	_	_	_
+2	my	_	_	PRP$	_	_	_	_	_
+3	brother	_	_	NN	_	_	_	_	_
+4	and	_	_	CC	_	_	_	_	_
+5	sisters	_	_	NNS	_	_	_	_	_
+6	too	_	_	RB	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file00806.txt_144
+# text = And I said , " No , I ca n't .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	said	_	_	VBD	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	"	_	_	''	_	_	_	_	_
+6	No	_	_	UH	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	I	_	_	PRP	_	_	_	_	_
+9	ca	_	_	MD	_	_	_	_	_
+10	n't	_	_	RB	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file00810.txt_171
+# text = I do n't like to write things .
+1	I	_	_	PRP	_	_	_	_	_
+2	do	_	_	VBP	_	_	_	_	_
+3	n't	_	_	RB	_	_	_	_	_
+4	like	_	_	VB	_	_	_	_	_
+5	to	_	_	TO	_	_	_	_	_
+6	write	_	_	VB	_	_	_	_	_
+7	things	_	_	NNS	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00341.txt_130
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	very	_	_	RB	_	_	_	_	_
+4	much	_	_	RB	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00871.txt_98
+# text = First class seat ?
+1	First	_	_	JJ	_	_	_	_	_
+2	class	_	_	NN	_	_	_	_	_
+3	seat	_	_	NN	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file01086.txt_61
+# text = The software is called The is the software which manages many computers with one machine .
+1	The	_	_	DT	_	_	_	_	_
+2	software	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	called	_	_	VBN	_	_	_	_	_
+5	The	_	_	DT	_	_	_	_	_
+6	is	_	_	VBZ	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	software	_	_	NN	_	_	_	_	_
+9	which	_	_	WDT	_	_	_	_	_
+10	manages	_	_	VBZ	_	_	_	_	_
+11	many	_	_	JJ	_	_	_	_	_
+12	computers	_	_	NNS	_	_	_	_	_
+13	with	_	_	IN	_	_	_	_	_
+14	one	_	_	CD	_	_	_	_	_
+15	machine	_	_	NN	_	_	_	_	_
+16	.	_	_	.	_	_	_	_	_
+
+# sentid = file01235.txt_71
+# text = He liked listening to opera music very loudly .
+1	He	_	_	PRP	_	_	_	_	_
+2	liked	_	_	VBD	_	_	_	_	_
+3	listening	_	_	VBG	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	opera	_	_	NN	_	_	_	_	_
+6	music	_	_	NN	_	_	_	_	_
+7	very	_	_	RB	_	_	_	_	_
+8	loudly	_	_	RB	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file01239.txt_57
+# text = And I like a lot of like sci - fi books .
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	like	_	_	VBP	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	lot	_	_	NN	_	_	_	_	_
+6	of	_	_	IN	_	_	_	_	_
+7	like	_	_	UH	_	_	_	_	_
+8	sci	_	_	NN	_	_	_	_	_
+9	-	_	_	:	_	_	_	_	_
+10	fi	_	_	NN	_	_	_	_	_
+11	books	_	_	NNS	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file01243.txt_273
+# text = But then like maybe ten , eleven , twelve years ago , I thought people who love to eat meat or eggs , that 's fine .
+1	But	_	_	CC	_	_	_	_	_
+2	then	_	_	RB	_	_	_	_	_
+3	like	_	_	UH	_	_	_	_	_
+4	maybe	_	_	RB	_	_	_	_	_
+5	ten	_	_	CD	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	eleven	_	_	CD	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	twelve	_	_	CD	_	_	_	_	_
+10	years	_	_	NNS	_	_	_	_	_
+11	ago	_	_	RB	_	_	_	_	_
+12	,	_	_	,	_	_	_	_	_
+13	I	_	_	PRP	_	_	_	_	_
+14	thought	_	_	VBD	_	_	_	_	_
+15	people	_	_	NNS	_	_	_	_	_
+16	who	_	_	WP	_	_	_	_	_
+17	love	_	_	VBP	_	_	_	_	_
+18	to	_	_	TO	_	_	_	_	_
+19	eat	_	_	VB	_	_	_	_	_
+20	meat	_	_	NN	_	_	_	_	_
+21	or	_	_	CC	_	_	_	_	_
+22	eggs	_	_	NNS	_	_	_	_	_
+23	,	_	_	,	_	_	_	_	_
+24	that	_	_	DT	_	_	_	_	_
+25	's	_	_	VBZ	_	_	_	_	_
+26	fine	_	_	JJ	_	_	_	_	_
+27	.	_	_	.	_	_	_	_	_
+
+# sentid = file00312.txt_117
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	very	_	_	RB	_	_	_	_	_
+4	much	_	_	RB	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01259.txt_148
+# text = So they decided to go to the car , get on the car , and they went to a nearest hotel .
+1	So	_	_	RB	_	_	_	_	_
+2	they	_	_	PRP	_	_	_	_	_
+3	decided	_	_	VBD	_	_	_	_	_
+4	to	_	_	TO	_	_	_	_	_
+5	go	_	_	VB	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	the	_	_	DT	_	_	_	_	_
+8	car	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	get	_	_	VB	_	_	_	_	_
+11	on	_	_	IN	_	_	_	_	_
+12	the	_	_	DT	_	_	_	_	_
+13	car	_	_	NN	_	_	_	_	_
+14	,	_	_	,	_	_	_	_	_
+15	and	_	_	CC	_	_	_	_	_
+16	they	_	_	PRP	_	_	_	_	_
+17	went	_	_	VBD	_	_	_	_	_
+18	to	_	_	TO	_	_	_	_	_
+19	a	_	_	DT	_	_	_	_	_
+20	nearest	_	_	JJS	_	_	_	_	_
+21	hotel	_	_	NN	_	_	_	_	_
+22	.	_	_	.	_	_	_	_	_
+
+# sentid = file00983.txt_49
+# text = And in front of the house , three childrens are playing .
+1	And	_	_	CC	_	_	_	_	_
+2	in	_	_	IN	_	_	_	_	_
+3	front	_	_	NN	_	_	_	_	_
+4	of	_	_	IN	_	_	_	_	_
+5	the	_	_	DT	_	_	_	_	_
+6	house	_	_	NN	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	three	_	_	CD	_	_	_	_	_
+9	childrens	_	_	NNS	_	_	_	_	_
+10	are	_	_	VBP	_	_	_	_	_
+11	playing	_	_	VBG	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00199.txt_98
+# text = it happened on December thirtieth , I think .
+1	it	_	_	PRP	_	_	_	_	_
+2	happened	_	_	VBD	_	_	_	_	_
+3	on	_	_	IN	_	_	_	_	_
+4	December	_	_	NNP	_	_	_	_	_
+5	thirtieth	_	_	JJ	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	I	_	_	PRP	_	_	_	_	_
+8	think	_	_	VBP	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00946.txt_61
+# text = He like a lion , too .
+1	He	_	_	PRP	_	_	_	_	_
+2	like	_	_	VB	_	_	_	_	_
+3	a	_	_	DT	_	_	_	_	_
+4	lion	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	too	_	_	RB	_	_	_	_	_
+7	.	_	_	.	_	_	_	_	_
+
+# sentid = file01191.txt_68
+# text = Let 's see .
+1	Let	_	_	VB	_	_	_	_	_
+2	's	_	_	PRP	_	_	_	_	_
+3	see	_	_	VB	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+
+# sentid = file00902.txt_72
+# text = when something is tight , I give it to my cousin who is living with me now .
+1	when	_	_	WRB	_	_	_	_	_
+2	something	_	_	NN	_	_	_	_	_
+3	is	_	_	VBZ	_	_	_	_	_
+4	tight	_	_	JJ	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	I	_	_	PRP	_	_	_	_	_
+7	give	_	_	VBP	_	_	_	_	_
+8	it	_	_	PRP	_	_	_	_	_
+9	to	_	_	TO	_	_	_	_	_
+10	my	_	_	PRP$	_	_	_	_	_
+11	cousin	_	_	NN	_	_	_	_	_
+12	who	_	_	WP	_	_	_	_	_
+13	is	_	_	VBZ	_	_	_	_	_
+14	living	_	_	VBG	_	_	_	_	_
+15	with	_	_	IN	_	_	_	_	_
+16	me	_	_	PRP	_	_	_	_	_
+17	now	_	_	RB	_	_	_	_	_
+18	.	_	_	.	_	_	_	_	_
+
+# sentid = file00699.txt_37
+# text = he is speaking about wine to waiter .
+1	he	_	_	PRP	_	_	_	_	_
+2	is	_	_	VBZ	_	_	_	_	_
+3	speaking	_	_	VBG	_	_	_	_	_
+4	about	_	_	IN	_	_	_	_	_
+5	wine	_	_	NN	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	waiter	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00749.txt_162
+# text = " very exciting . " .
+1	"	_	_	''	_	_	_	_	_
+2	very	_	_	RB	_	_	_	_	_
+3	exciting	_	_	JJ	_	_	_	_	_
+4	.	_	_	.	_	_	_	_	_
+5	"	_	_	''	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00313.txt_123
+# text = I like to eat out .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	eat	_	_	VB	_	_	_	_	_
+5	out	_	_	RP	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file01277.txt_98
+# text = And I even called from home two days ago and asked one of your staff that if I could exchange it
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	even	_	_	RB	_	_	_	_	_
+4	called	_	_	VBD	_	_	_	_	_
+5	from	_	_	IN	_	_	_	_	_
+6	home	_	_	NN	_	_	_	_	_
+7	two	_	_	CD	_	_	_	_	_
+8	days	_	_	NNS	_	_	_	_	_
+9	ago	_	_	RB	_	_	_	_	_
+10	and	_	_	CC	_	_	_	_	_
+11	asked	_	_	VBD	_	_	_	_	_
+12	one	_	_	CD	_	_	_	_	_
+13	of	_	_	IN	_	_	_	_	_
+14	your	_	_	PRP$	_	_	_	_	_
+15	staff	_	_	NN	_	_	_	_	_
+16	that	_	_	IN	_	_	_	_	_
+17	if	_	_	IN	_	_	_	_	_
+18	I	_	_	PRP	_	_	_	_	_
+19	could	_	_	MD	_	_	_	_	_
+20	exchange	_	_	VB	_	_	_	_	_
+21	it	_	_	PRP	_	_	_	_	_
+
+# sentid = file01207.txt_8
+# text = So I feel a little bit tired because of the flight .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	feel	_	_	VBP	_	_	_	_	_
+4	a	_	_	DT	_	_	_	_	_
+5	little	_	_	JJ	_	_	_	_	_
+6	bit	_	_	NN	_	_	_	_	_
+7	tired	_	_	JJ	_	_	_	_	_
+8	because	_	_	IN	_	_	_	_	_
+9	of	_	_	IN	_	_	_	_	_
+10	the	_	_	DT	_	_	_	_	_
+11	flight	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00861.txt_92
+# text = And I feel , you know , energy from them . ....
+1	And	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	feel	_	_	VBP	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	you	_	_	PRP	_	_	_	_	_
+6	know	_	_	VBP	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	energy	_	_	NN	_	_	_	_	_
+9	from	_	_	IN	_	_	_	_	_
+10	them	_	_	PRP	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+12	....	_	_	:	_	_	_	_	_
+
+# sentid = file00498.txt_73
+# text = I want to leave there by three .
+1	I	_	_	PRP	_	_	_	_	_
+2	want	_	_	VBP	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	leave	_	_	VB	_	_	_	_	_
+5	there	_	_	RB	_	_	_	_	_
+6	by	_	_	IN	_	_	_	_	_
+7	three	_	_	CD	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00688.txt_84
+# text = ehm ja
+1	ehm	_	_	FW	_	_	_	_	_
+2	ja	_	_	FW	_	_	_	_	_
+
+# sentid = file00973.txt_63
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00830.txt_85
+# text = I want to janai arrive at New York at fastest .
+1	I	_	_	PRP	_	_	_	_	_
+2	want	_	_	VBP	_	_	_	_	_
+3	to	_	_	TO	_	_	_	_	_
+4	janai	_	_	FW	_	_	_	_	_
+5	arrive	_	_	VB	_	_	_	_	_
+6	at	_	_	IN	_	_	_	_	_
+7	New	_	_	NNP	_	_	_	_	_
+8	York	_	_	NNP	_	_	_	_	_
+9	at	_	_	IN	_	_	_	_	_
+10	fastest	_	_	JJS	_	_	_	_	_
+11	.	_	_	.	_	_	_	_	_
+
+# sentid = file00589.txt_77
+# text = Please discount , please .
+1	Please	_	_	UH	_	_	_	_	_
+2	discount	_	_	NN	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	please	_	_	UH	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01192.txt_103
+# text = Generally speaking , the Wednesday is ladies day , So a fee is very cheap .
+1	Generally	_	_	RB	_	_	_	_	_
+2	speaking	_	_	VBG	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	Wednesday	_	_	NNP	_	_	_	_	_
+6	is	_	_	VBZ	_	_	_	_	_
+7	ladies	_	_	NNS	_	_	_	_	_
+8	day	_	_	NN	_	_	_	_	_
+9	,	_	_	,	_	_	_	_	_
+10	So	_	_	CC	_	_	_	_	_
+11	a	_	_	DT	_	_	_	_	_
+12	fee	_	_	NN	_	_	_	_	_
+13	is	_	_	VBZ	_	_	_	_	_
+14	very	_	_	RB	_	_	_	_	_
+15	cheap	_	_	JJ	_	_	_	_	_
+16	.	_	_	.	_	_	_	_	_
+
+# sentid = file00990.txt_30
+# text = And something like that .
+1	And	_	_	CC	_	_	_	_	_
+2	something	_	_	NN	_	_	_	_	_
+3	like	_	_	IN	_	_	_	_	_
+4	that	_	_	DT	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00882.txt_26
+# text = the most different thing is of course , the view of the floor .
+1	the	_	_	DT	_	_	_	_	_
+2	most	_	_	RBS	_	_	_	_	_
+3	different	_	_	JJ	_	_	_	_	_
+4	thing	_	_	NN	_	_	_	_	_
+5	is	_	_	VBZ	_	_	_	_	_
+6	of	_	_	RB	_	_	_	_	_
+7	course	_	_	RB	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	the	_	_	DT	_	_	_	_	_
+10	view	_	_	NN	_	_	_	_	_
+11	of	_	_	IN	_	_	_	_	_
+12	the	_	_	DT	_	_	_	_	_
+13	floor	_	_	NN	_	_	_	_	_
+14	.	_	_	.	_	_	_	_	_
+
+# sentid = file01252.txt_108
+# text = excuse me , I 've missed my train .
+1	excuse	_	_	VB	_	_	_	_	_
+2	me	_	_	PRP	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	I	_	_	PRP	_	_	_	_	_
+5	've	_	_	VBP	_	_	_	_	_
+6	missed	_	_	VBN	_	_	_	_	_
+7	my	_	_	PRP$	_	_	_	_	_
+8	train	_	_	NN	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file00757.txt_59
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00423.txt_36
+# text = do you have more tall boots ?
+1	do	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	have	_	_	VB	_	_	_	_	_
+4	more	_	_	RBR	_	_	_	_	_
+5	tall	_	_	JJ	_	_	_	_	_
+6	boots	_	_	NNS	_	_	_	_	_
+7	?	_	_	.	_	_	_	_	_
+
+# sentid = file00508.txt_104
+# text = But I have n't finished cooking yet .
+1	But	_	_	CC	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	have	_	_	VBP	_	_	_	_	_
+4	n't	_	_	RB	_	_	_	_	_
+5	finished	_	_	VBN	_	_	_	_	_
+6	cooking	_	_	VBG	_	_	_	_	_
+7	yet	_	_	RB	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00617.txt_69
+# text = By the way , do you have any appointment or an engagement tonight ?
+1	By	_	_	IN	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	way	_	_	NN	_	_	_	_	_
+4	,	_	_	,	_	_	_	_	_
+5	do	_	_	VBP	_	_	_	_	_
+6	you	_	_	PRP	_	_	_	_	_
+7	have	_	_	VB	_	_	_	_	_
+8	any	_	_	DT	_	_	_	_	_
+9	appointment	_	_	NN	_	_	_	_	_
+10	or	_	_	CC	_	_	_	_	_
+11	an	_	_	DT	_	_	_	_	_
+12	engagement	_	_	NN	_	_	_	_	_
+13	tonight	_	_	NN	_	_	_	_	_
+14	?	_	_	.	_	_	_	_	_
+
+# sentid = file01255.txt_23
+# text = And it 's really enjoyable to read .
+1	And	_	_	CC	_	_	_	_	_
+2	it	_	_	PRP	_	_	_	_	_
+3	's	_	_	VBZ	_	_	_	_	_
+4	really	_	_	RB	_	_	_	_	_
+5	enjoyable	_	_	JJ	_	_	_	_	_
+6	to	_	_	TO	_	_	_	_	_
+7	read	_	_	VB	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00838.txt_184
+# text = And then , although it was weekends , he need to work .
+1	And	_	_	CC	_	_	_	_	_
+2	then	_	_	RB	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	although	_	_	IN	_	_	_	_	_
+5	it	_	_	PRP	_	_	_	_	_
+6	was	_	_	VBD	_	_	_	_	_
+7	weekends	_	_	NNS	_	_	_	_	_
+8	,	_	_	,	_	_	_	_	_
+9	he	_	_	PRP	_	_	_	_	_
+10	need	_	_	VB	_	_	_	_	_
+11	to	_	_	TO	_	_	_	_	_
+12	work	_	_	VB	_	_	_	_	_
+13	.	_	_	.	_	_	_	_	_
+
+# sentid = file00493.txt_74
+# text = this test starts July .
+1	this	_	_	DT	_	_	_	_	_
+2	test	_	_	NN	_	_	_	_	_
+3	starts	_	_	VBZ	_	_	_	_	_
+4	July	_	_	NNP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file00715.txt_64
+# text = I will buy it .
+1	I	_	_	PRP	_	_	_	_	_
+2	will	_	_	MD	_	_	_	_	_
+3	buy	_	_	VB	_	_	_	_	_
+4	it	_	_	PRP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01260.txt_73
+# text = It depends on which classes , but a lot of classes are quite , not many people talk , but people sleep .
+1	It	_	_	PRP	_	_	_	_	_
+2	depends	_	_	VBZ	_	_	_	_	_
+3	on	_	_	IN	_	_	_	_	_
+4	which	_	_	WDT	_	_	_	_	_
+5	classes	_	_	NNS	_	_	_	_	_
+6	,	_	_	,	_	_	_	_	_
+7	but	_	_	CC	_	_	_	_	_
+8	a	_	_	DT	_	_	_	_	_
+9	lot	_	_	NN	_	_	_	_	_
+10	of	_	_	IN	_	_	_	_	_
+11	classes	_	_	NNS	_	_	_	_	_
+12	are	_	_	VBP	_	_	_	_	_
+13	quite	_	_	RB	_	_	_	_	_
+14	,	_	_	,	_	_	_	_	_
+15	not	_	_	RB	_	_	_	_	_
+16	many	_	_	JJ	_	_	_	_	_
+17	people	_	_	NNS	_	_	_	_	_
+18	talk	_	_	VBP	_	_	_	_	_
+19	,	_	_	,	_	_	_	_	_
+20	but	_	_	CC	_	_	_	_	_
+21	people	_	_	NNS	_	_	_	_	_
+22	sleep	_	_	VBP	_	_	_	_	_
+23	.	_	_	.	_	_	_	_	_
+
+# sentid = file01262.txt_120
+# text = I like hamburgers and all the pizza .
+1	I	_	_	PRP	_	_	_	_	_
+2	like	_	_	VBP	_	_	_	_	_
+3	hamburgers	_	_	NNS	_	_	_	_	_
+4	and	_	_	CC	_	_	_	_	_
+5	all	_	_	PDT	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	pizza	_	_	NN	_	_	_	_	_
+8	.	_	_	.	_	_	_	_	_
+
+# sentid = file00945.txt_70
+# text = After movie , we go .
+1	After	_	_	IN	_	_	_	_	_
+2	movie	_	_	NN	_	_	_	_	_
+3	,	_	_	,	_	_	_	_	_
+4	we	_	_	PRP	_	_	_	_	_
+5	go	_	_	VBP	_	_	_	_	_
+6	.	_	_	.	_	_	_	_	_
+
+# sentid = file00322.txt_73
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00676.txt_167
+# text = Now , I mean Steve should not have been talking with the cell phone when he was driving .
+1	Now	_	_	UH	_	_	_	_	_
+2	,	_	_	,	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	mean	_	_	VBP	_	_	_	_	_
+5	Steve	_	_	NNP	_	_	_	_	_
+6	should	_	_	MD	_	_	_	_	_
+7	not	_	_	RB	_	_	_	_	_
+8	have	_	_	VB	_	_	_	_	_
+9	been	_	_	VBN	_	_	_	_	_
+10	talking	_	_	VBG	_	_	_	_	_
+11	with	_	_	IN	_	_	_	_	_
+12	the	_	_	DT	_	_	_	_	_
+13	cell	_	_	NN	_	_	_	_	_
+14	phone	_	_	NN	_	_	_	_	_
+15	when	_	_	WRB	_	_	_	_	_
+16	he	_	_	PRP	_	_	_	_	_
+17	was	_	_	VBD	_	_	_	_	_
+18	driving	_	_	VBG	_	_	_	_	_
+19	.	_	_	.	_	_	_	_	_
+
+# sentid = file00435.txt_74
+# text = So let 's we enjoy the movies together .
+1	So	_	_	RB	_	_	_	_	_
+2	let	_	_	VB	_	_	_	_	_
+3	's	_	_	PRP	_	_	_	_	_
+4	we	_	_	PRP	_	_	_	_	_
+5	enjoy	_	_	VBP	_	_	_	_	_
+6	the	_	_	DT	_	_	_	_	_
+7	movies	_	_	NNS	_	_	_	_	_
+8	together	_	_	RB	_	_	_	_	_
+9	.	_	_	.	_	_	_	_	_
+
+# sentid = file01257.txt_80
+# text = and if I do n't go for one lesson , I ca n't keep up with the next one .
+1	and	_	_	CC	_	_	_	_	_
+2	if	_	_	IN	_	_	_	_	_
+3	I	_	_	PRP	_	_	_	_	_
+4	do	_	_	VBP	_	_	_	_	_
+5	n't	_	_	RB	_	_	_	_	_
+6	go	_	_	VB	_	_	_	_	_
+7	for	_	_	IN	_	_	_	_	_
+8	one	_	_	CD	_	_	_	_	_
+9	lesson	_	_	NN	_	_	_	_	_
+10	,	_	_	,	_	_	_	_	_
+11	I	_	_	PRP	_	_	_	_	_
+12	ca	_	_	MD	_	_	_	_	_
+13	n't	_	_	RB	_	_	_	_	_
+14	keep	_	_	VB	_	_	_	_	_
+15	up	_	_	RP	_	_	_	_	_
+16	with	_	_	IN	_	_	_	_	_
+17	the	_	_	DT	_	_	_	_	_
+18	next	_	_	JJ	_	_	_	_	_
+19	one	_	_	NN	_	_	_	_	_
+20	.	_	_	.	_	_	_	_	_
+
+# sentid = file00873.txt_53
+# text = So I thought it 's a very sad thing to happen .
+1	So	_	_	RB	_	_	_	_	_
+2	I	_	_	PRP	_	_	_	_	_
+3	thought	_	_	VBD	_	_	_	_	_
+4	it	_	_	PRP	_	_	_	_	_
+5	's	_	_	VBZ	_	_	_	_	_
+6	a	_	_	DT	_	_	_	_	_
+7	very	_	_	RB	_	_	_	_	_
+8	sad	_	_	JJ	_	_	_	_	_
+9	thing	_	_	NN	_	_	_	_	_
+10	to	_	_	TO	_	_	_	_	_
+11	happen	_	_	VB	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00753.txt_217
+# text = Thank you .
+1	Thank	_	_	VBP	_	_	_	_	_
+2	you	_	_	PRP	_	_	_	_	_
+3	.	_	_	.	_	_	_	_	_
+
+# sentid = file00840.txt_4
+# text = Nice to meet you .
+1	Nice	_	_	JJ	_	_	_	_	_
+2	to	_	_	TO	_	_	_	_	_
+3	meet	_	_	VB	_	_	_	_	_
+4	you	_	_	PRP	_	_	_	_	_
+5	.	_	_	.	_	_	_	_	_
+
+# sentid = file01263.txt_116
+# text = in the past ?
+1	in	_	_	IN	_	_	_	_	_
+2	the	_	_	DT	_	_	_	_	_
+3	past	_	_	NN	_	_	_	_	_
+4	?	_	_	.	_	_	_	_	_
+
+# sentid = file00990.txt_122
+# text = So just at the first floor , there is a cafeteria .
+1	So	_	_	RB	_	_	_	_	_
+2	just	_	_	RB	_	_	_	_	_
+3	at	_	_	IN	_	_	_	_	_
+4	the	_	_	DT	_	_	_	_	_
+5	first	_	_	JJ	_	_	_	_	_
+6	floor	_	_	NN	_	_	_	_	_
+7	,	_	_	,	_	_	_	_	_
+8	there	_	_	EX	_	_	_	_	_
+9	is	_	_	VBZ	_	_	_	_	_
+10	a	_	_	DT	_	_	_	_	_
+11	cafeteria	_	_	NN	_	_	_	_	_
+12	.	_	_	.	_	_	_	_	_
+
+# sentid = file00879.txt_13
+# text = And in this building , we have the doctor in this building
+1	And	_	_	CC	_	_	_	_	_
+2	in	_	_	IN	_	_	_	_	_
+3	this	_	_	DT	_	_	_	_	_
+4	building	_	_	NN	_	_	_	_	_
+5	,	_	_	,	_	_	_	_	_
+6	we	_	_	PRP	_	_	_	_	_
+7	have	_	_	VBP	_	_	_	_	_
+8	the	_	_	DT	_	_	_	_	_
+9	doctor	_	_	NN	_	_	_	_	_
+10	in	_	_	IN	_	_	_	_	_
+11	this	_	_	DT	_	_	_	_	_
+12	building	_	_	NN	_	_	_	_	_

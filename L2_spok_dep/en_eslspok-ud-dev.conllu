@@ -1,0 +1,2862 @@
+# sentid = file01218.txt_144
+# text = And so this accident became the man on the motorcycle 's fault .
+1	And	_	_	CC	_	5	cc	_	_
+2	so	_	_	CC	_	5	advmod	_	_
+3	this	_	_	DT	_	4	det	_	_
+4	accident	_	_	NN	_	5	nsubj	_	_
+5	became	_	_	VBD	_	0	root	_	_
+6	the	_	_	DT	_	7	det	_	_
+7	man	_	_	NN	_	12	nmod:poss	_	_
+8	on	_	_	IN	_	10	case	_	_
+9	the	_	_	DT	_	10	det	_	_
+10	motorcycle	_	_	NN	_	7	nmod	_	_
+11	's	_	_	POS	_	7	case	_	_
+12	fault	_	_	NN	_	5	obj	_	_
+13	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00874.txt_4
+# text = Yes , please .
+1	Yes	_	_	UH	_	0	root	_	_
+2	,	_	_	,	_	1	punct	_	_
+3	please	_	_	UH	_	1	discourse	_	_
+4	.	_	_	.	_	1	punct	_	_
+
+# sentid = file01262.txt_123
+# text = And then think about what we really wanna eat .
+1	And	_	_	CC	_	3	cc	_	_
+2	then	_	_	RB	_	3	advmod	_	_
+3	think	_	_	VB	_	0	root	_	_
+4	about	_	_	IN	_	9	mark	_	_
+5	what	_	_	WP	_	9	obj	_	_
+6	we	_	_	PRP	_	8	nsubj	_	_
+7	really	_	_	RB	_	8	advmod	_	_
+8	wanna	_	_	VBP	_	3	ccomp	_	_
+9	eat	_	_	VB	_	8	xcomp	_	_
+10	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01257.txt_61
+# text = the roads are n't this wide , first of all .
+1	the	_	_	DT	_	2	det	_	_
+2	roads	_	_	NNS	_	6	nsubj	_	_
+3	are	_	_	VBP	_	6	cop	_	_
+4	n't	_	_	RB	_	6	advmod	_	_
+5	this	_	_	DT	_	6	det	_	_
+6	wide	_	_	JJ	_	0	root	_	_
+7	,	_	_	,	_	8	punct	_	_
+8	first	_	_	RB	_	6	advmod	_	_
+9	of	_	_	IN	_	10	case	_	_
+10	all	_	_	DT	_	8	obl	_	_
+11	.	_	_	.	_	6	punct	_	_
+
+# sentid = file01204.txt_110
+# text = So yeah , I do n't know about others .
+1	So	_	_	RB	_	7	advmod	_	_
+2	yeah	_	_	UH	_	7	discourse	_	_
+3	,	_	_	,	_	7	punct	_	_
+4	I	_	_	PRP	_	7	nsubj	_	_
+5	do	_	_	VBP	_	7	aux	_	_
+6	n't	_	_	RB	_	7	advmod	_	_
+7	know	_	_	VB	_	0	root	_	_
+8	about	_	_	IN	_	9	case	_	_
+9	others	_	_	NNS	_	7	obl	_	_
+10	.	_	_	.	_	7	punct	_	_
+
+# sentid = file00207.txt_69
+# text = he runs every morning around here
+1	he	_	_	PRP	_	2	nsubj	_	_
+2	runs	_	_	VBZ	_	0	root	_	_
+3	every	_	_	DT	_	4	det	_	_
+4	morning	_	_	NN	_	2	obl:tmod	_	_
+5	around	_	_	IN	_	6	case	_	_
+6	here	_	_	RB	_	2	obl	_	_
+
+# sentid = file00972.txt_118
+# text = I like Tom Cruise .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	like	_	_	VBP	_	0	root	_	_
+3	Tom	_	_	NNP	_	2	obj	_	_
+4	Cruise	_	_	NNP	_	3	flat	_	_
+5	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00990.txt_169
+# text = And she was looking for a nice gift for him .
+1	And	_	_	CC	_	4	cc	_	_
+2	she	_	_	PRP	_	4	nsubj	_	_
+3	was	_	_	VBD	_	4	aux	_	_
+4	looking	_	_	VBG	_	0	root	_	_
+5	for	_	_	IN	_	8	case	_	_
+6	a	_	_	DT	_	8	det	_	_
+7	nice	_	_	JJ	_	8	amod	_	_
+8	gift	_	_	NN	_	4	obl	_	_
+9	for	_	_	IN	_	10	case	_	_
+10	him	_	_	PRP	_	8	nmod	_	_
+11	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00145.txt_34
+# text = One girl is sitting on the chair before the desk .
+1	One	_	_	CD	_	2	nummod	_	_
+2	girl	_	_	NN	_	4	nsubj	_	_
+3	is	_	_	VBZ	_	4	aux	_	_
+4	sitting	_	_	VBG	_	0	root	_	_
+5	on	_	_	IN	_	7	case	_	_
+6	the	_	_	DT	_	7	det	_	_
+7	chair	_	_	NN	_	4	obl	_	_
+8	before	_	_	IN	_	10	case	_	_
+9	the	_	_	DT	_	10	det	_	_
+10	desk	_	_	NN	_	7	nmod	_	_
+11	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00024.txt_146
+# text = But very interesting .
+1	But	_	_	CC	_	3	cc	_	_
+2	very	_	_	RB	_	3	advmod	_	_
+3	interesting	_	_	JJ	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00900.txt_65
+# text = in higher level of English or skills in the area .
+1	in	_	_	IN	_	3	case	_	_
+2	higher	_	_	JJR	_	3	amod	_	_
+3	level	_	_	NN	_	0	root	_	_
+4	of	_	_	IN	_	5	case	_	_
+5	English	_	_	NNP	_	3	nmod	_	_
+6	or	_	_	CC	_	7	cc	_	_
+7	skills	_	_	NNS	_	5	conj	_	_
+8	in	_	_	IN	_	10	case	_	_
+9	the	_	_	DT	_	10	det	_	_
+10	area	_	_	NN	_	7	nmod	_	_
+11	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00498.txt_23
+# text = And ballet is the decide to movement .
+1	And	_	_	CC	_	3	cc	_	_
+2	ballet	_	_	NN	_	3	nsubj	_	_
+3	is	_	_	VBZ	_	0	root	_	_
+4	the	_	_	DT	_	5	dep	_	_
+5	decide	_	_	VB	_	3	ccomp	_	_
+6	to	_	_	TO	_	7	case	_	_
+7	movement	_	_	NN	_	5	obl	_	_
+8	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00579.txt_38
+# text = because life .
+1	because	_	_	IN	_	2	mark	_	_
+2	life	_	_	NN	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00767.txt_19
+# text = My father , my mother , and two sisters .
+1	My	_	_	PRP$	_	2	nmod:poss	_	_
+2	father	_	_	NN	_	0	root	_	_
+3	,	_	_	,	_	5	punct	_	_
+4	my	_	_	PRP$	_	5	nmod:poss	_	_
+5	mother	_	_	NN	_	2	conj	_	_
+6	,	_	_	,	_	9	punct	_	_
+7	and	_	_	CC	_	9	cc	_	_
+8	two	_	_	CD	_	9	nummod	_	_
+9	sisters	_	_	NNS	_	2	conj	_	_
+10	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01087.txt_72
+# text = yes , yes .
+1	yes	_	_	UH	_	0	root	_	_
+2	,	_	_	,	_	1	punct	_	_
+3	yes	_	_	UH	_	1	discourse	_	_
+4	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00245.txt_32
+# text = so I 'm very worried about maybe he think to play good person or try to be good for adult .
+1	so	_	_	RB	_	5	advmod	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	'm	_	_	VBP	_	5	cop	_	_
+4	very	_	_	RB	_	5	advmod	_	_
+5	worried	_	_	JJ	_	0	root	_	_
+6	about	_	_	IN	_	9	mark	_	_
+7	maybe	_	_	RB	_	9	advmod	_	_
+8	he	_	_	PRP	_	9	nsubj	_	_
+9	think	_	_	VB	_	5	advcl	_	_
+10	to	_	_	TO	_	11	mark	_	_
+11	play	_	_	VB	_	9	xcomp	_	_
+12	good	_	_	JJ	_	13	amod	_	_
+13	person	_	_	NN	_	11	obj	_	_
+14	or	_	_	CC	_	15	cc	_	_
+15	try	_	_	VB	_	9	conj	_	_
+16	to	_	_	TO	_	18	mark	_	_
+17	be	_	_	VB	_	18	cop	_	_
+18	good	_	_	JJ	_	15	xcomp	_	_
+19	for	_	_	IN	_	20	case	_	_
+20	adult	_	_	NN	_	18	obl	_	_
+21	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00760.txt_69
+# text = I hope so .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	hope	_	_	VBP	_	0	root	_	_
+3	so	_	_	RB	_	2	advmod	_	_
+4	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01206.txt_70
+# text = And I just forgot about , you know , giving you the phone that I could n't come .
+1	And	_	_	CC	_	4	cc	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	just	_	_	RB	_	4	advmod	_	_
+4	forgot	_	_	VBD	_	0	root	_	_
+5	about	_	_	IN	_	10	case	_	_
+6	,	_	_	,	_	8	punct	_	_
+7	you	_	_	PRP	_	8	nsubj	_	_
+8	know	_	_	VBP	_	10	parataxis	_	_
+9	,	_	_	,	_	8	punct	_	_
+10	giving	_	_	VBG	_	4	advcl	_	_
+11	you	_	_	PRP	_	10	iobj	_	_
+12	the	_	_	DT	_	13	det	_	_
+13	phone	_	_	NN	_	10	obj	_	_
+14	that	_	_	IN	_	18	mark	_	_
+15	I	_	_	PRP	_	18	nsubj	_	_
+16	could	_	_	MD	_	18	aux	_	_
+17	n't	_	_	RB	_	18	advmod	_	_
+18	come	_	_	VB	_	4	ccomp	_	_
+19	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01070.txt_33
+# text = last weekend my best friend in Tokyo came to Osaka with his girlfriend to go to Universal Studios in Japan .
+1	last	_	_	JJ	_	2	amod	_	_
+2	weekend	_	_	NN	_	8	obl:tmod	_	_
+3	my	_	_	PRP$	_	5	nmod:poss	_	_
+4	best	_	_	JJS	_	5	amod	_	_
+5	friend	_	_	NN	_	8	nsubj	_	_
+6	in	_	_	IN	_	7	case	_	_
+7	Tokyo	_	_	NNP	_	5	nmod	_	_
+8	came	_	_	VBD	_	0	root	_	_
+9	to	_	_	TO	_	10	case	_	_
+10	Osaka	_	_	NNP	_	8	obl	_	_
+11	with	_	_	IN	_	13	case	_	_
+12	his	_	_	PRP$	_	13	nmod:poss	_	_
+13	girlfriend	_	_	NN	_	8	obl	_	_
+14	to	_	_	TO	_	15	mark	_	_
+15	go	_	_	VB	_	8	xcomp	_	_
+16	to	_	_	TO	_	18	case	_	_
+17	Universal	_	_	NNP	_	18	compound	_	_
+18	Studios	_	_	NNP	_	15	obl	_	_
+19	in	_	_	IN	_	20	case	_	_
+20	Japan	_	_	NNP	_	15	obl	_	_
+21	.	_	_	.	_	8	punct	_	_
+
+# sentid = file00982.txt_19
+# text = So I just sleep well .
+1	So	_	_	RB	_	4	advmod	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	just	_	_	RB	_	4	advmod	_	_
+4	sleep	_	_	VBP	_	0	root	_	_
+5	well	_	_	RB	_	4	advmod	_	_
+6	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01255.txt_60
+# text = But in here , like people are just like wanting to play around a little more .
+1	But	_	_	CC	_	10	cc	_	_
+2	in	_	_	IN	_	3	case	_	_
+3	here	_	_	RB	_	10	obl	_	_
+4	,	_	_	,	_	10	punct	_	_
+5	like	_	_	UH	_	10	discourse	_	_
+6	people	_	_	NNS	_	10	nsubj	_	_
+7	are	_	_	VBP	_	10	aux	_	_
+8	just	_	_	RB	_	10	advmod	_	_
+9	like	_	_	UH	_	10	discourse	_	_
+10	wanting	_	_	VBG	_	0	root	_	_
+11	to	_	_	TO	_	12	mark	_	_
+12	play	_	_	VB	_	10	xcomp	_	_
+13	around	_	_	RP	_	12	compound:prt	_	_
+14	a	_	_	DT	_	16	det	_	_
+15	little	_	_	JJ	_	16	amod	_	_
+16	more	_	_	JJR	_	12	obl:npmod	_	_
+17	.	_	_	.	_	10	punct	_	_
+
+# sentid = file00462.txt_13
+# text = Osaka City .
+1	Osaka	_	_	NNP	_	2	compound	_	_
+2	City	_	_	NNP	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00453.txt_80
+# text = something I ca n't do promise it .
+1	something	_	_	NN	_	0	root	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	ca	_	_	MD	_	5	aux	_	_
+4	n't	_	_	RB	_	5	advmod	_	_
+5	do	_	_	VB	_	1	acl:relcl	_	_
+6	promise	_	_	VB	_	5	xcomp	_	_
+7	it	_	_	PRP	_	6	obj	_	_
+8	.	_	_	.	_	1	punct	_	_
+
+# sentid = file01266.txt_37
+# text = And I 'm going on Sunday class because it 's the only available day for me .
+1	And	_	_	CC	_	4	cc	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	'm	_	_	VBP	_	4	aux	_	_
+4	going	_	_	VBG	_	0	root	_	_
+5	on	_	_	IN	_	7	case	_	_
+6	Sunday	_	_	NNP	_	7	compound	_	_
+7	class	_	_	NN	_	4	obl	_	_
+8	because	_	_	IN	_	14	mark	_	_
+9	it	_	_	PRP	_	14	nsubj	_	_
+10	's	_	_	VBZ	_	14	cop	_	_
+11	the	_	_	DT	_	14	det	_	_
+12	only	_	_	JJ	_	14	amod	_	_
+13	available	_	_	JJ	_	14	amod	_	_
+14	day	_	_	NN	_	4	advcl	_	_
+15	for	_	_	IN	_	16	case	_	_
+16	me	_	_	PRP	_	14	obl	_	_
+17	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00670.txt_101
+# text = In Japan ?
+1	In	_	_	IN	_	2	case	_	_
+2	Japan	_	_	NNP	_	0	root	_	_
+3	?	_	_	.	_	2	punct	_	_
+
+# sentid = file00231.txt_62
+# text = I 'm sorry .
+1	I	_	_	PRP	_	3	nsubj	_	_
+2	'm	_	_	VBP	_	3	cop	_	_
+3	sorry	_	_	JJ	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00701.txt_12
+# text = and after that , I moved to Okinawa in Ishikawa Prefecture to study structure engineering in my university .
+1	and	_	_	CC	_	6	cc	_	_
+2	after	_	_	IN	_	3	case	_	_
+3	that	_	_	DT	_	6	obl	_	_
+4	,	_	_	,	_	3	punct	_	_
+5	I	_	_	PRP	_	6	nsubj	_	_
+6	moved	_	_	VBD	_	0	root	_	_
+7	to	_	_	TO	_	8	case	_	_
+8	Okinawa	_	_	NNP	_	6	obl	_	_
+9	in	_	_	IN	_	11	case	_	_
+10	Ishikawa	_	_	NNP	_	11	compound	_	_
+11	Prefecture	_	_	NN	_	6	obl	_	_
+12	to	_	_	TO	_	13	mark	_	_
+13	study	_	_	VB	_	6	xcomp	_	_
+14	structure	_	_	NN	_	15	compound	_	_
+15	engineering	_	_	NN	_	13	obj	_	_
+16	in	_	_	IN	_	18	case	_	_
+17	my	_	_	PRP$	_	18	nmod:poss	_	_
+18	university	_	_	NN	_	13	obl	_	_
+19	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00388.txt_71
+# text = Thank you .
+1	Thank	_	_	VBP	_	0	root	_	_
+2	you	_	_	PRP	_	1	obj	_	_
+3	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00337.txt_107
+# text = I do n't know where to stay .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	do	_	_	VBP	_	4	aux	_	_
+3	n't	_	_	RB	_	4	advmod	_	_
+4	know	_	_	VB	_	0	root	_	_
+5	where	_	_	WRB	_	7	advmod	_	_
+6	to	_	_	TO	_	7	mark	_	_
+7	stay	_	_	VB	_	4	xcomp	_	_
+8	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00852.txt_8
+# text = Therefore , I have a bit spare time in the office .
+1	Therefore	_	_	RB	_	4	advmod	_	_
+2	,	_	_	,	_	4	punct	_	_
+3	I	_	_	PRP	_	4	nsubj	_	_
+4	have	_	_	VBP	_	0	root	_	_
+5	a	_	_	DT	_	6	det	_	_
+6	bit	_	_	NN	_	4	obj	_	_
+7	spare	_	_	JJ	_	8	amod	_	_
+8	time	_	_	NN	_	6	nmod	_	_
+9	in	_	_	IN	_	11	case	_	_
+10	the	_	_	DT	_	11	det	_	_
+11	office	_	_	NN	_	8	nmod	_	_
+12	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00341.txt_76
+# text = can not it be done earlier than tomorrow ?
+1	can	_	_	MD	_	5	aux	_	_
+2	not	_	_	RB	_	5	advmod	_	_
+3	it	_	_	PRP	_	5	nsubj:pass	_	_
+4	be	_	_	VB	_	5	aux:pass	_	_
+5	done	_	_	VBN	_	0	root	_	_
+6	earlier	_	_	RBR	_	8	advmod	_	_
+7	than	_	_	IN	_	8	case	_	_
+8	tomorrow	_	_	NN	_	5	obl:tmod	_	_
+9	?	_	_	.	_	5	punct	_	_
+
+# sentid = file00925.txt_100
+# text = And so on .
+1	And	_	_	CC	_	3	cc	_	_
+2	so	_	_	RB	_	3	advmod	_	_
+3	on	_	_	RB	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01267.txt_103
+# text = And this Japanese businessman was one of the person who was standing in front of the lines .
+1	And	_	_	CC	_	6	cc	_	_
+2	this	_	_	DT	_	4	det	_	_
+3	Japanese	_	_	JJ	_	4	amod	_	_
+4	businessman	_	_	NN	_	6	nsubj	_	_
+5	was	_	_	VBD	_	6	cop	_	_
+6	one	_	_	CD	_	0	root	_	_
+7	of	_	_	IN	_	9	case	_	_
+8	the	_	_	DT	_	9	det	_	_
+9	person	_	_	NN	_	6	nmod	_	_
+10	who	_	_	WP	_	12	nsubj	_	_
+11	was	_	_	VBD	_	12	aux	_	_
+12	standing	_	_	VBG	_	9	acl:relcl	_	_
+13	in	_	_	IN	_	14	case	_	_
+14	front	_	_	NN	_	12	obl	_	_
+15	of	_	_	IN	_	17	case	_	_
+16	the	_	_	DT	_	17	det	_	_
+17	lines	_	_	NNS	_	14	nmod	_	_
+18	.	_	_	.	_	6	punct	_	_
+
+# sentid = file01081.txt_10
+# text = And people are very kind to me , so I have a very good experience .
+1	And	_	_	CC	_	5	cc	_	_
+2	people	_	_	NNS	_	5	nsubj	_	_
+3	are	_	_	VBP	_	5	cop	_	_
+4	very	_	_	RB	_	5	advmod	_	_
+5	kind	_	_	JJ	_	0	root	_	_
+6	to	_	_	TO	_	7	case	_	_
+7	me	_	_	PRP	_	5	obl	_	_
+8	,	_	_	,	_	11	punct	_	_
+9	so	_	_	CC	_	11	cc	_	_
+10	I	_	_	PRP	_	11	nsubj	_	_
+11	have	_	_	VBP	_	5	conj	_	_
+12	a	_	_	DT	_	15	det	_	_
+13	very	_	_	RB	_	14	advmod	_	_
+14	good	_	_	JJ	_	15	amod	_	_
+15	experience	_	_	NN	_	11	obj	_	_
+16	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01163.txt_70
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	0	root	_	_
+2	you	_	_	PRP	_	1	obj	_	_
+3	very	_	_	RB	_	4	advmod	_	_
+4	much	_	_	RB	_	1	advmod	_	_
+5	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00777.txt_68
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	0	root	_	_
+2	you	_	_	PRP	_	1	obj	_	_
+3	very	_	_	RB	_	4	advmod	_	_
+4	much	_	_	RB	_	1	advmod	_	_
+5	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00657.txt_107
+# text = We were very fortunate escape the night from storm .
+1	We	_	_	PRP	_	4	nsubj	_	_
+2	were	_	_	VBD	_	4	cop	_	_
+3	very	_	_	RB	_	4	advmod	_	_
+4	fortunate	_	_	JJ	_	0	root	_	_
+5	escape	_	_	VB	_	4	xcomp	_	_
+6	the	_	_	DT	_	7	det	_	_
+7	night	_	_	NN	_	5	obj	_	_
+8	from	_	_	IN	_	9	case	_	_
+9	storm	_	_	NN	_	5	obl	_	_
+10	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01245.txt_20
+# text = Gifu stands for Kyoto .
+1	Gifu	_	_	NNP	_	2	nsubj	_	_
+2	stands	_	_	VBZ	_	0	root	_	_
+3	for	_	_	IN	_	4	case	_	_
+4	Kyoto	_	_	NNP	_	2	obl	_	_
+5	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00752.txt_40
+# text = What do he do ?
+1	What	_	_	WP	_	4	obj	_	_
+2	do	_	_	VB	_	4	aux	_	_
+3	he	_	_	PRP	_	4	nsubj	_	_
+4	do	_	_	VB	_	0	root	_	_
+5	?	_	_	.	_	4	punct	_	_
+
+# sentid = file01221.txt_34
+# text = I think it 's a math class .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	think	_	_	VBP	_	0	root	_	_
+3	it	_	_	PRP	_	7	nsubj	_	_
+4	's	_	_	VBZ	_	7	cop	_	_
+5	a	_	_	DT	_	7	det	_	_
+6	math	_	_	NN	_	7	compound	_	_
+7	class	_	_	NN	_	2	ccomp	_	_
+8	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00346.txt_144
+# text = And I do n't know , but they are really cute , I think .
+1	And	_	_	CC	_	5	cc	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	do	_	_	VBP	_	5	aux	_	_
+4	n't	_	_	RB	_	5	advmod	_	_
+5	know	_	_	VB	_	0	root	_	_
+6	,	_	_	,	_	11	punct	_	_
+7	but	_	_	CC	_	11	cc	_	_
+8	they	_	_	PRP	_	11	nsubj	_	_
+9	are	_	_	VBP	_	11	cop	_	_
+10	really	_	_	RB	_	11	advmod	_	_
+11	cute	_	_	JJ	_	5	conj	_	_
+12	,	_	_	,	_	14	punct	_	_
+13	I	_	_	PRP	_	14	nsubj	_	_
+14	think	_	_	VBP	_	5	parataxis	_	_
+15	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01264.txt_135
+# text = So I 'm going to find one shouchu for my father .
+1	So	_	_	RB	_	4	advmod	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	'm	_	_	VBP	_	4	aux	_	_
+4	going	_	_	VBG	_	0	root	_	_
+5	to	_	_	TO	_	6	mark	_	_
+6	find	_	_	VB	_	4	xcomp	_	_
+7	one	_	_	CD	_	8	nummod	_	_
+8	shouchu	_	_	FW	_	6	obj	_	_
+9	for	_	_	IN	_	11	case	_	_
+10	my	_	_	PRP$	_	11	nmod:poss	_	_
+11	father	_	_	NN	_	6	obl	_	_
+12	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00306.txt_41
+# text = I think she loves her computer .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	think	_	_	VBP	_	0	root	_	_
+3	she	_	_	PRP	_	4	nsubj	_	_
+4	loves	_	_	VBZ	_	2	ccomp	_	_
+5	her	_	_	PRP$	_	6	nmod:poss	_	_
+6	computer	_	_	NN	_	4	obj	_	_
+7	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00795.txt_9
+# text = And there , I copy .
+1	And	_	_	CC	_	5	cc	_	_
+2	there	_	_	RB	_	5	advmod	_	_
+3	,	_	_	,	_	5	punct	_	_
+4	I	_	_	PRP	_	5	nsubj	_	_
+5	copy	_	_	VBP	_	0	root	_	_
+6	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01082.txt_76
+# text = that 's a point , but you know , actually our favorites is almost same
+1	that	_	_	DT	_	4	nsubj	_	_
+2	's	_	_	VBZ	_	4	cop	_	_
+3	a	_	_	DT	_	4	det	_	_
+4	point	_	_	NN	_	0	root	_	_
+5	,	_	_	,	_	8	punct	_	_
+6	but	_	_	CC	_	8	cc	_	_
+7	you	_	_	PRP	_	8	nsubj	_	_
+8	know	_	_	VBP	_	4	conj	_	_
+9	,	_	_	,	_	15	punct	_	_
+10	actually	_	_	RB	_	15	advmod	_	_
+11	our	_	_	PRP$	_	12	nmod:poss	_	_
+12	favorites	_	_	NNS	_	15	nsubj	_	_
+13	is	_	_	VBZ	_	15	cop	_	_
+14	almost	_	_	RB	_	15	advmod	_	_
+15	same	_	_	JJ	_	8	ccomp	_	_
+
+# sentid = file00233.txt_7
+# text = reading books , sing , and part - time job .
+1	reading	_	_	VBG	_	0	root	_	_
+2	books	_	_	NNS	_	1	obj	_	_
+3	,	_	_	,	_	4	punct	_	_
+4	sing	_	_	VB	_	1	conj	_	_
+5	,	_	_	,	_	10	punct	_	_
+6	and	_	_	CC	_	10	cc	_	_
+7	part	_	_	JJ	_	9	compound	_	_
+8	-	_	_	:	_	9	punct	_	_
+9	time	_	_	NN	_	10	compound	_	_
+10	job	_	_	NN	_	1	conj	_	_
+11	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00378.txt_132
+# text = whatever happens to he or she , who are from Japan , just smile , do not complain , do not protest , just smile and say , " It 's OK , OK . " .
+1	whatever	_	_	WP	_	2	nsubj	_	_
+2	happens	_	_	VBZ	_	14	advcl	_	_
+3	to	_	_	TO	_	4	case	_	_
+4	he	_	_	PRP	_	2	obl	_	_
+5	or	_	_	CC	_	6	cc	_	_
+6	she	_	_	PRP	_	4	conj	_	_
+7	,	_	_	,	_	11	punct	_	_
+8	who	_	_	WP	_	11	nsubj	_	_
+9	are	_	_	VBP	_	11	cop	_	_
+10	from	_	_	IN	_	11	case	_	_
+11	Japan	_	_	NNP	_	4	acl:relcl	_	_
+12	,	_	_	,	_	2	punct	_	_
+13	just	_	_	RB	_	14	advmod	_	_
+14	smile	_	_	VB	_	0	root	_	_
+15	,	_	_	,	_	18	punct	_	_
+16	do	_	_	VB	_	18	aux	_	_
+17	not	_	_	RB	_	18	advmod	_	_
+18	complain	_	_	VB	_	14	conj	_	_
+19	,	_	_	,	_	22	punct	_	_
+20	do	_	_	VB	_	22	aux	_	_
+21	not	_	_	RB	_	22	advmod	_	_
+22	protest	_	_	VB	_	14	conj	_	_
+23	,	_	_	,	_	25	punct	_	_
+24	just	_	_	RB	_	25	advmod	_	_
+25	smile	_	_	VB	_	14	conj	_	_
+26	and	_	_	CC	_	27	cc	_	_
+27	say	_	_	VB	_	14	conj	_	_
+28	,	_	_	,	_	32	punct	_	_
+29	"	_	_	"	_	32	punct	_	_
+30	It	_	_	PRP	_	32	nsubj	_	_
+31	's	_	_	VBZ	_	32	cop	_	_
+32	OK	_	_	JJ	_	27	ccomp	_	_
+33	,	_	_	,	_	32	punct	_	_
+34	OK	_	_	JJ	_	32	discourse	_	_
+35	.	_	_	.	_	32	punct	_	_
+36	"	_	_	"	_	32	punct	_	_
+37	.	_	_	.	_	14	punct	_	_
+
+# sentid = file00259.txt_152
+# text = And unfortunately , the motorcyclist dropped the cell phone .
+1	And	_	_	CC	_	6	cc	_	_
+2	unfortunately	_	_	RB	_	6	advmod	_	_
+3	,	_	_	,	_	6	punct	_	_
+4	the	_	_	DT	_	5	det	_	_
+5	motorcyclist	_	_	NN	_	6	nsubj	_	_
+6	dropped	_	_	VBD	_	0	root	_	_
+7	the	_	_	DT	_	9	det	_	_
+8	cell	_	_	NN	_	9	compound	_	_
+9	phone	_	_	NN	_	6	obj	_	_
+10	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00564.txt_54
+# text = there are lot of old people .
+1	there	_	_	EX	_	2	expl	_	_
+2	are	_	_	VBP	_	0	root	_	_
+3	lot	_	_	NN	_	2	nsubj	_	_
+4	of	_	_	IN	_	6	case	_	_
+5	old	_	_	JJ	_	6	amod	_	_
+6	people	_	_	NNS	_	3	nmod	_	_
+7	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00599.txt_109
+# text = up of this floor , perhaps there are my two friend
+1	up	_	_	IN	_	4	case	_	_
+2	of	_	_	IN	_	4	case	_	_
+3	this	_	_	DT	_	4	det	_	_
+4	floor	_	_	NN	_	8	obl	_	_
+5	,	_	_	,	_	4	punct	_	_
+6	perhaps	_	_	RB	_	8	advmod	_	_
+7	there	_	_	EX	_	8	expl	_	_
+8	are	_	_	VBP	_	0	root	_	_
+9	my	_	_	PRP$	_	11	nmod:poss	_	_
+10	two	_	_	CD	_	11	nummod	_	_
+11	friend	_	_	NN	_	8	nsubj	_	_
+
+# sentid = file01030.txt_50
+# text = do you have another way to get to New York ?
+1	do	_	_	VBP	_	3	aux	_	_
+2	you	_	_	PRP	_	3	nsubj	_	_
+3	have	_	_	VB	_	0	root	_	_
+4	another	_	_	DT	_	5	det	_	_
+5	way	_	_	NN	_	3	obj	_	_
+6	to	_	_	TO	_	7	mark	_	_
+7	get	_	_	VB	_	5	acl	_	_
+8	to	_	_	TO	_	9	case	_	_
+9	New	_	_	NNP	_	7	obl	_	_
+10	York	_	_	NNP	_	9	flat	_	_
+11	?	_	_	.	_	3	punct	_	_
+
+# sentid = file00847.txt_87
+# text = how about your schedule ?
+1	how	_	_	WRB	_	0	root	_	_
+2	about	_	_	IN	_	4	case	_	_
+3	your	_	_	PRP$	_	4	nmod:poss	_	_
+4	schedule	_	_	NN	_	1	obl	_	_
+5	?	_	_	.	_	1	punct	_	_
+
+# sentid = file01093.txt_20
+# text = I live in Okinawa .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	live	_	_	VBP	_	0	root	_	_
+3	in	_	_	IN	_	4	case	_	_
+4	Okinawa	_	_	NNP	_	2	obl	_	_
+5	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00343.txt_4
+# text = Thank you .
+1	Thank	_	_	VBP	_	0	root	_	_
+2	you	_	_	PRP	_	1	obj	_	_
+3	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00397.txt_108
+# text = To help some disabled people ?
+1	To	_	_	TO	_	2	mark	_	_
+2	help	_	_	VB	_	0	root	_	_
+3	some	_	_	DT	_	5	det	_	_
+4	disabled	_	_	JJ	_	5	amod	_	_
+5	people	_	_	NNS	_	2	obj	_	_
+6	?	_	_	.	_	2	punct	_	_
+
+# sentid = file01258.txt_106
+# text = and I 'm not really familiar with them .
+1	and	_	_	CC	_	6	cc	_	_
+2	I	_	_	PRP	_	6	nsubj	_	_
+3	'm	_	_	VBP	_	6	cop	_	_
+4	not	_	_	RB	_	6	advmod	_	_
+5	really	_	_	RB	_	6	advmod	_	_
+6	familiar	_	_	JJ	_	0	root	_	_
+7	with	_	_	IN	_	8	case	_	_
+8	them	_	_	PRP	_	6	obl	_	_
+9	.	_	_	.	_	6	punct	_	_
+
+# sentid = file01231.txt_99
+# text = And I ran here .
+1	And	_	_	CC	_	3	cc	_	_
+2	I	_	_	PRP	_	3	nsubj	_	_
+3	ran	_	_	VBD	_	0	root	_	_
+4	here	_	_	RB	_	3	advmod	_	_
+5	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00089.txt_18
+# text = I forget they age .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	forget	_	_	VBP	_	0	root	_	_
+3	they	_	_	PRP	_	4	nsubj	_	_
+4	age	_	_	VBP	_	2	ccomp	_	_
+5	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01278.txt_131
+# text = And on the way back home in the department store , I found a final sale of shoes .
+1	And	_	_	CC	_	13	cc	_	_
+2	on	_	_	IN	_	4	case	_	_
+3	the	_	_	DT	_	4	det	_	_
+4	way	_	_	NN	_	13	obl	_	_
+5	back	_	_	RB	_	6	advmod	_	_
+6	home	_	_	RB	_	4	advmod	_	_
+7	in	_	_	IN	_	10	case	_	_
+8	the	_	_	DT	_	10	det	_	_
+9	department	_	_	NN	_	10	compound	_	_
+10	store	_	_	NN	_	13	obl	_	_
+11	,	_	_	,	_	10	punct	_	_
+12	I	_	_	PRP	_	13	nsubj	_	_
+13	found	_	_	VBD	_	0	root	_	_
+14	a	_	_	DT	_	16	det	_	_
+15	final	_	_	JJ	_	16	amod	_	_
+16	sale	_	_	NN	_	13	obj	_	_
+17	of	_	_	IN	_	18	case	_	_
+18	shoes	_	_	NNS	_	16	nmod	_	_
+19	.	_	_	.	_	13	punct	_	_
+
+# sentid = file01119.txt_87
+# text = On the Internet , it was very convenient , but we could n't speak to anyone .
+1	On	_	_	IN	_	3	case	_	_
+2	the	_	_	DT	_	3	det	_	_
+3	Internet	_	_	NN	_	8	obl	_	_
+4	,	_	_	,	_	3	punct	_	_
+5	it	_	_	PRP	_	8	nsubj	_	_
+6	was	_	_	VBD	_	8	cop	_	_
+7	very	_	_	RB	_	8	advmod	_	_
+8	convenient	_	_	JJ	_	0	root	_	_
+9	,	_	_	,	_	14	punct	_	_
+10	but	_	_	CC	_	14	cc	_	_
+11	we	_	_	PRP	_	14	nsubj	_	_
+12	could	_	_	MD	_	14	aux	_	_
+13	n't	_	_	RB	_	14	advmod	_	_
+14	speak	_	_	VB	_	8	conj	_	_
+15	to	_	_	TO	_	16	case	_	_
+16	anyone	_	_	NN	_	14	obl	_	_
+17	.	_	_	.	_	8	punct	_	_
+
+# sentid = file01051.txt_4
+# text = my name is Charlie .
+1	my	_	_	PRP$	_	2	nmod:poss	_	_
+2	name	_	_	NN	_	4	nsubj	_	_
+3	is	_	_	VBZ	_	4	cop	_	_
+4	Charlie	_	_	NNP	_	0	root	_	_
+5	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00327.txt_17
+# text = I like playing tennis .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	like	_	_	VBP	_	0	root	_	_
+3	playing	_	_	VBG	_	2	xcomp	_	_
+4	tennis	_	_	NN	_	3	obj	_	_
+5	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00676.txt_90
+# text = I do n't know what to say .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	do	_	_	VBP	_	4	aux	_	_
+3	n't	_	_	RB	_	4	advmod	_	_
+4	know	_	_	VB	_	0	root	_	_
+5	what	_	_	WP	_	7	obj	_	_
+6	to	_	_	TO	_	7	mark	_	_
+7	say	_	_	VB	_	4	xcomp	_	_
+8	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01224.txt_104
+# text = because nowadays , like , antique is only one in the world , most of them .
+1	because	_	_	IN	_	9	mark	_	_
+2	nowadays	_	_	RB	_	9	advmod	_	_
+3	,	_	_	,	_	9	punct	_	_
+4	like	_	_	UH	_	9	discourse	_	_
+5	,	_	_	,	_	9	punct	_	_
+6	antique	_	_	NN	_	9	nsubj	_	_
+7	is	_	_	VBZ	_	9	cop	_	_
+8	only	_	_	JJ	_	9	amod	_	_
+9	one	_	_	NN	_	0	root	_	_
+10	in	_	_	IN	_	12	case	_	_
+11	the	_	_	DT	_	12	det	_	_
+12	world	_	_	NN	_	9	nmod	_	_
+13	,	_	_	,	_	14	punct	_	_
+14	most	_	_	JJS	_	9	nmod	_	_
+15	of	_	_	IN	_	16	case	_	_
+16	them	_	_	PRP	_	14	nmod	_	_
+17	.	_	_	.	_	9	punct	_	_
+
+# sentid = file00714.txt_71
+# text = After this test , I get home .
+1	After	_	_	IN	_	3	case	_	_
+2	this	_	_	DT	_	3	det	_	_
+3	test	_	_	NN	_	6	obl	_	_
+4	,	_	_	,	_	3	punct	_	_
+5	I	_	_	PRP	_	6	nsubj	_	_
+6	get	_	_	VBP	_	0	root	_	_
+7	home	_	_	RB	_	6	advmod	_	_
+8	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00643.txt_96
+# text = But I could n't stop working .
+1	But	_	_	CC	_	5	cc	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	could	_	_	MD	_	5	aux	_	_
+4	n't	_	_	RB	_	5	advmod	_	_
+5	stop	_	_	VB	_	0	root	_	_
+6	working	_	_	VBG	_	5	xcomp	_	_
+7	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01272.txt_119
+# text = And unfortunately his tail lamp was broken from the accident .
+1	And	_	_	CC	_	7	cc	_	_
+2	unfortunately	_	_	RB	_	7	advmod	_	_
+3	his	_	_	PRP$	_	5	nmod:poss	_	_
+4	tail	_	_	NN	_	5	compound	_	_
+5	lamp	_	_	NN	_	7	nsubj:pass	_	_
+6	was	_	_	VBD	_	7	aux:pass	_	_
+7	broken	_	_	VBN	_	0	root	_	_
+8	from	_	_	IN	_	10	case	_	_
+9	the	_	_	DT	_	10	det	_	_
+10	accident	_	_	NN	_	7	obl	_	_
+11	.	_	_	.	_	7	punct	_	_
+
+# sentid = file00791.txt_14
+# text = I 'm interested in a testing .
+1	I	_	_	PRP	_	3	nsubj	_	_
+2	'm	_	_	VBP	_	3	cop	_	_
+3	interested	_	_	JJ	_	0	root	_	_
+4	in	_	_	IN	_	6	case	_	_
+5	a	_	_	DT	_	6	det	_	_
+6	testing	_	_	NN	_	3	obl	_	_
+7	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01023.txt_6
+# text = In morning ?
+1	In	_	_	IN	_	2	case	_	_
+2	morning	_	_	NN	_	0	root	_	_
+3	?	_	_	.	_	2	punct	_	_
+
+# sentid = file00150.txt_58
+# text = thank you .
+1	thank	_	_	VBP	_	0	root	_	_
+2	you	_	_	PRP	_	1	obj	_	_
+3	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00032.txt_74
+# text = Nice rings .
+1	Nice	_	_	JJ	_	2	amod	_	_
+2	rings	_	_	NNS	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01238.txt_83
+# text = I tried snowboarding but I did n't do .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	tried	_	_	VBD	_	0	root	_	_
+3	snowboarding	_	_	NN	_	2	obj	_	_
+4	but	_	_	CC	_	8	cc	_	_
+5	I	_	_	PRP	_	8	nsubj	_	_
+6	did	_	_	VBD	_	8	aux	_	_
+7	n't	_	_	RB	_	8	advmod	_	_
+8	do	_	_	VB	_	2	conj	_	_
+9	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00671.txt_7
+# text = just it takes fifteen minutes from my school , yeah .
+1	just	_	_	RB	_	3	advmod	_	_
+2	it	_	_	PRP	_	3	nsubj	_	_
+3	takes	_	_	VBZ	_	0	root	_	_
+4	fifteen	_	_	CD	_	5	nummod	_	_
+5	minutes	_	_	NNS	_	3	obj	_	_
+6	from	_	_	IN	_	8	case	_	_
+7	my	_	_	PRP$	_	8	nmod:poss	_	_
+8	school	_	_	NN	_	3	obl	_	_
+9	,	_	_	,	_	3	punct	_	_
+10	yeah	_	_	UH	_	3	discourse	_	_
+11	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00723.txt_27
+# text = but they have much experiences .
+1	but	_	_	CC	_	3	cc	_	_
+2	they	_	_	PRP	_	3	nsubj	_	_
+3	have	_	_	VBP	_	0	root	_	_
+4	much	_	_	JJ	_	5	amod	_	_
+5	experiences	_	_	NNS	_	3	obj	_	_
+6	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01203.txt_93
+# text = in terms of this my say , working room
+1	in	_	_	IN	_	2	case	_	_
+2	terms	_	_	NNS	_	0	root	_	_
+3	of	_	_	IN	_	4	case	_	_
+4	this	_	_	DT	_	2	nmod	_	_
+5	my	_	_	PRP$	_	9	nmod:poss	_	_
+6	say	_	_	VB	_	9	discourse	_	_
+7	,	_	_	,	_	9	punct	_	_
+8	working	_	_	VBG	_	9	amod	_	_
+9	room	_	_	NN	_	4	appos	_	_
+
+# sentid = file00273.txt_110
+# text = Next time , I really want to join your party .
+1	Next	_	_	JJ	_	2	amod	_	_
+2	time	_	_	NN	_	6	obl:tmod	_	_
+3	,	_	_	,	_	2	punct	_	_
+4	I	_	_	PRP	_	6	nsubj	_	_
+5	really	_	_	RB	_	6	advmod	_	_
+6	want	_	_	VBP	_	0	root	_	_
+7	to	_	_	TO	_	8	mark	_	_
+8	join	_	_	VB	_	6	xcomp	_	_
+9	your	_	_	PRP$	_	10	nmod:poss	_	_
+10	party	_	_	NN	_	8	obj	_	_
+11	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00341.txt_124
+# text = And the bike guy was left alone .
+1	And	_	_	CC	_	6	cc	_	_
+2	the	_	_	DT	_	4	det	_	_
+3	bike	_	_	NN	_	4	compound	_	_
+4	guy	_	_	NN	_	6	nsubj:pass	_	_
+5	was	_	_	VBD	_	6	aux:pass	_	_
+6	left	_	_	VBN	_	0	root	_	_
+7	alone	_	_	RB	_	6	advmod	_	_
+8	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00409.txt_80
+# text = After interview ?
+1	After	_	_	IN	_	2	case	_	_
+2	interview	_	_	NN	_	0	root	_	_
+3	?	_	_	.	_	2	punct	_	_
+
+# sentid = file00739.txt_11
+# text = So I was doing that .
+1	So	_	_	RB	_	4	advmod	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	was	_	_	VBD	_	4	aux	_	_
+4	doing	_	_	VBG	_	0	root	_	_
+5	that	_	_	DT	_	4	obj	_	_
+6	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01087.txt_85
+# text = So she choose a good neck tie
+1	So	_	_	RB	_	3	advmod	_	_
+2	she	_	_	PRP	_	3	nsubj	_	_
+3	choose	_	_	VB	_	0	root	_	_
+4	a	_	_	DT	_	7	det	_	_
+5	good	_	_	JJ	_	7	amod	_	_
+6	neck	_	_	NN	_	7	compound	_	_
+7	tie	_	_	NN	_	3	obj	_	_
+
+# sentid = file01186.txt_28
+# text = But I 'm get used to it already
+1	But	_	_	CC	_	4	cc	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	'm	_	_	VBP	_	4	aux	_	_
+4	get	_	_	VB	_	0	root	_	_
+5	used	_	_	JJ	_	4	xcomp	_	_
+6	to	_	_	TO	_	7	case	_	_
+7	it	_	_	PRP	_	5	obl	_	_
+8	already	_	_	RB	_	4	advmod	_	_
+
+# sentid = file01226.txt_129
+# text = " , stuff like that .
+1	"	_	_	"	_	3	punct	_	_
+2	,	_	_	,	_	3	punct	_	_
+3	stuff	_	_	NN	_	0	root	_	_
+4	like	_	_	IN	_	5	case	_	_
+5	that	_	_	DT	_	3	nmod	_	_
+6	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00689.txt_83
+# text = It 's very exciting .
+1	It	_	_	PRP	_	4	nsubj	_	_
+2	's	_	_	VBZ	_	4	cop	_	_
+3	very	_	_	RB	_	4	advmod	_	_
+4	exciting	_	_	JJ	_	0	root	_	_
+5	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00816.txt_138
+# text = no , I take subway to Ueno and then I take J R to the closest station .
+1	no	_	_	UH	_	4	discourse	_	_
+2	,	_	_	,	_	4	punct	_	_
+3	I	_	_	PRP	_	4	nsubj	_	_
+4	take	_	_	VBP	_	0	root	_	_
+5	subway	_	_	NN	_	4	obj	_	_
+6	to	_	_	TO	_	7	case	_	_
+7	Ueno	_	_	NNP	_	4	obl	_	_
+8	and	_	_	CC	_	11	cc	_	_
+9	then	_	_	RB	_	11	advmod	_	_
+10	I	_	_	PRP	_	11	nsubj	_	_
+11	take	_	_	VBP	_	4	conj	_	_
+12	J	_	_	NNP	_	13	compound	_	_
+13	R	_	_	NNP	_	11	obj	_	_
+14	to	_	_	TO	_	17	case	_	_
+15	the	_	_	DT	_	17	det	_	_
+16	closest	_	_	JJS	_	17	amod	_	_
+17	station	_	_	NN	_	11	obl	_	_
+18	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00946.txt_45
+# text = I like red one , please .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	like	_	_	VBP	_	0	root	_	_
+3	red	_	_	JJ	_	4	amod	_	_
+4	one	_	_	NN	_	2	obj	_	_
+5	,	_	_	,	_	2	punct	_	_
+6	please	_	_	UH	_	2	discourse	_	_
+7	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01264.txt_103
+# text = So we decided to stay at the hotel .
+1	So	_	_	RB	_	3	advmod	_	_
+2	we	_	_	PRP	_	3	nsubj	_	_
+3	decided	_	_	VBD	_	0	root	_	_
+4	to	_	_	TO	_	5	mark	_	_
+5	stay	_	_	VB	_	3	xcomp	_	_
+6	at	_	_	IN	_	8	case	_	_
+7	the	_	_	DT	_	8	det	_	_
+8	hotel	_	_	NN	_	5	obl	_	_
+9	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00633.txt_6
+# text = I have a sore throat
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	have	_	_	VBP	_	0	root	_	_
+3	a	_	_	DT	_	5	det	_	_
+4	sore	_	_	JJ	_	5	amod	_	_
+5	throat	_	_	NN	_	2	obj	_	_
+
+# sentid = file00259.txt_68
+# text = my days ?
+1	my	_	_	PRP$	_	2	nmod:poss	_	_
+2	days	_	_	NNS	_	0	root	_	_
+3	?	_	_	.	_	2	punct	_	_
+
+# sentid = file00605.txt_68
+# text = The monkey eat banana .
+1	The	_	_	DT	_	2	det	_	_
+2	monkey	_	_	NN	_	3	nsubj	_	_
+3	eat	_	_	VB	_	0	root	_	_
+4	banana	_	_	NN	_	3	obj	_	_
+5	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01219.txt_60
+# text = I 've never tried skiing .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	've	_	_	VBP	_	4	aux	_	_
+3	never	_	_	RB	_	4	advmod	_	_
+4	tried	_	_	VBN	_	0	root	_	_
+5	skiing	_	_	NN	_	4	obj	_	_
+6	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00452.txt_49
+# text = so please sell me your ticket .
+1	so	_	_	RB	_	3	advmod	_	_
+2	please	_	_	UH	_	3	discourse	_	_
+3	sell	_	_	VB	_	0	root	_	_
+4	me	_	_	PRP	_	3	iobj	_	_
+5	your	_	_	PRP$	_	6	nmod:poss	_	_
+6	ticket	_	_	NN	_	3	obj	_	_
+7	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00887.txt_55
+# text = Yes , I do .
+1	Yes	_	_	UH	_	4	discourse	_	_
+2	,	_	_	,	_	4	punct	_	_
+3	I	_	_	PRP	_	4	nsubj	_	_
+4	do	_	_	VBP	_	0	root	_	_
+5	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00926.txt_56
+# text = Do you know some action movie ?
+1	Do	_	_	VBP	_	3	aux	_	_
+2	you	_	_	PRP	_	3	nsubj	_	_
+3	know	_	_	VB	_	0	root	_	_
+4	some	_	_	DT	_	6	det	_	_
+5	action	_	_	NN	_	6	compound	_	_
+6	movie	_	_	NN	_	3	obj	_	_
+7	?	_	_	.	_	3	punct	_	_
+
+# sentid = file01271.txt_130
+# text = Because I 'm not rich .
+1	Because	_	_	IN	_	5	mark	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	'm	_	_	VBP	_	5	cop	_	_
+4	not	_	_	RB	_	5	advmod	_	_
+5	rich	_	_	JJ	_	0	root	_	_
+6	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00346.txt_129
+# text = but I thought I could ask my sisters they help me take care of the cat .
+1	but	_	_	CC	_	3	cc	_	_
+2	I	_	_	PRP	_	3	nsubj	_	_
+3	thought	_	_	VBD	_	0	root	_	_
+4	I	_	_	PRP	_	6	nsubj	_	_
+5	could	_	_	MD	_	6	aux	_	_
+6	ask	_	_	VB	_	3	ccomp	_	_
+7	my	_	_	PRP$	_	8	nmod:poss	_	_
+8	sisters	_	_	NNS	_	6	obj	_	_
+9	they	_	_	PRP	_	10	nsubj	_	_
+10	help	_	_	VBP	_	3	parataxis	_	_
+11	me	_	_	PRP	_	10	obj	_	_
+12	take	_	_	VB	_	10	xcomp	_	_
+13	care	_	_	NN	_	12	obj	_	_
+14	of	_	_	IN	_	16	case	_	_
+15	the	_	_	DT	_	16	det	_	_
+16	cat	_	_	NN	_	13	nmod	_	_
+17	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00508.txt_118
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	0	root	_	_
+2	you	_	_	PRP	_	1	obj	_	_
+3	very	_	_	RB	_	4	advmod	_	_
+4	much	_	_	RB	_	1	advmod	_	_
+5	.	_	_	.	_	1	punct	_	_
+
+# sentid = file01247.txt_148
+# text = And I do n't know .
+1	And	_	_	CC	_	5	cc	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	do	_	_	VBP	_	5	aux	_	_
+4	n't	_	_	RB	_	5	advmod	_	_
+5	know	_	_	VB	_	0	root	_	_
+6	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01265.txt_105
+# text = So I just thought I try Osaka .
+1	So	_	_	RB	_	4	advmod	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	just	_	_	RB	_	4	advmod	_	_
+4	thought	_	_	VBD	_	0	root	_	_
+5	I	_	_	PRP	_	6	nsubj	_	_
+6	try	_	_	VBP	_	4	ccomp	_	_
+7	Osaka	_	_	NNP	_	6	obj	_	_
+8	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01272.txt_56
+# text = So I did n't really think of " OK , I 'm going to study , " but I wanted to see the different culture .
+1	So	_	_	RB	_	6	advmod	_	_
+2	I	_	_	PRP	_	6	nsubj	_	_
+3	did	_	_	VBD	_	6	aux	_	_
+4	n't	_	_	RB	_	6	advmod	_	_
+5	really	_	_	RB	_	6	advmod	_	_
+6	think	_	_	VB	_	0	root	_	_
+7	of	_	_	IN	_	13	mark	_	_
+8	"	_	_	"	_	13	punct	_	_
+9	OK	_	_	UH	_	13	discourse	_	_
+10	,	_	_	,	_	13	punct	_	_
+11	I	_	_	PRP	_	13	nsubj	_	_
+12	'm	_	_	VBP	_	13	aux	_	_
+13	going	_	_	VBG	_	6	ccomp	_	_
+14	to	_	_	TO	_	15	mark	_	_
+15	study	_	_	VB	_	13	xcomp	_	_
+16	,	_	_	,	_	13	punct	_	_
+17	"	_	_	"	_	13	punct	_	_
+18	but	_	_	CC	_	20	cc	_	_
+19	I	_	_	PRP	_	20	nsubj	_	_
+20	wanted	_	_	VBD	_	6	conj	_	_
+21	to	_	_	TO	_	22	mark	_	_
+22	see	_	_	VB	_	20	xcomp	_	_
+23	the	_	_	DT	_	25	det	_	_
+24	different	_	_	JJ	_	25	amod	_	_
+25	culture	_	_	NN	_	22	obj	_	_
+26	.	_	_	.	_	6	punct	_	_
+
+# sentid = file01139.txt_15
+# text = So I first watch the movie is ...
+1	So	_	_	RB	_	4	advmod	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	first	_	_	RB	_	4	advmod	_	_
+4	watch	_	_	VBP	_	0	root	_	_
+5	the	_	_	DT	_	6	det	_	_
+6	movie	_	_	NN	_	4	obj	_	_
+7	is	_	_	VBZ	_	4	dep	_	_
+8	...	_	_	:	_	4	punct	_	_
+
+# sentid = file00633.txt_76
+# text = Shinjuku is movie theater in ....
+1	Shinjuku	_	_	NNP	_	4	nsubj	_	_
+2	is	_	_	VBZ	_	4	cop	_	_
+3	movie	_	_	NN	_	4	compound	_	_
+4	theater	_	_	NN	_	0	root	_	_
+5	in	_	_	IN	_	6	case	_	_
+6	....	_	_	:	_	4	obl	_	_
+
+# sentid = file00991.txt_42
+# text = But they moved to Okinawa .
+1	But	_	_	CC	_	3	cc	_	_
+2	they	_	_	PRP	_	3	nsubj	_	_
+3	moved	_	_	VBD	_	0	root	_	_
+4	to	_	_	TO	_	5	case	_	_
+5	Okinawa	_	_	NNP	_	3	obl	_	_
+6	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00379.txt_117
+# text = Yes , sometimes .
+1	Yes	_	_	UH	_	3	discourse	_	_
+2	,	_	_	,	_	3	punct	_	_
+3	sometimes	_	_	RB	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00930.txt_63
+# text = how about you ?
+1	how	_	_	WRB	_	0	root	_	_
+2	about	_	_	IN	_	3	case	_	_
+3	you	_	_	PRP	_	1	obl	_	_
+4	?	_	_	.	_	1	punct	_	_
+
+# sentid = file00354.txt_92
+# text = Brazil and Guatemala .
+1	Brazil	_	_	NNP	_	0	root	_	_
+2	and	_	_	CC	_	3	cc	_	_
+3	Guatemala	_	_	NNP	_	1	conj	_	_
+4	.	_	_	.	_	1	punct	_	_
+
+# sentid = file01203.txt_199
+# text = no , no , no .
+1	no	_	_	UH	_	0	root	_	_
+2	,	_	_	,	_	1	punct	_	_
+3	no	_	_	UH	_	1	discourse	_	_
+4	,	_	_	,	_	1	punct	_	_
+5	no	_	_	UH	_	1	discourse	_	_
+6	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00578.txt_36
+# text = fishes , meats , vegetables , and something like that .
+1	fishes	_	_	NNS	_	0	root	_	_
+2	,	_	_	,	_	3	punct	_	_
+3	meats	_	_	NNS	_	1	conj	_	_
+4	,	_	_	,	_	5	punct	_	_
+5	vegetables	_	_	NNS	_	1	conj	_	_
+6	,	_	_	,	_	8	punct	_	_
+7	and	_	_	CC	_	8	cc	_	_
+8	something	_	_	NN	_	1	conj	_	_
+9	like	_	_	IN	_	10	case	_	_
+10	that	_	_	DT	_	8	nmod	_	_
+11	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00430.txt_117
+# text = maybe I will go to United States by job .
+1	maybe	_	_	RB	_	4	advmod	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	will	_	_	MD	_	4	aux	_	_
+4	go	_	_	VB	_	0	root	_	_
+5	to	_	_	TO	_	7	case	_	_
+6	United	_	_	NNP	_	7	compound	_	_
+7	States	_	_	NNP	_	4	obl	_	_
+8	by	_	_	IN	_	9	case	_	_
+9	job	_	_	NN	_	4	obl	_	_
+10	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00017.txt_73
+# text = So maybe it will be crowded , I guess .
+1	So	_	_	RB	_	6	advmod	_	_
+2	maybe	_	_	RB	_	6	advmod	_	_
+3	it	_	_	PRP	_	6	nsubj	_	_
+4	will	_	_	MD	_	6	aux	_	_
+5	be	_	_	VB	_	6	cop	_	_
+6	crowded	_	_	JJ	_	0	root	_	_
+7	,	_	_	,	_	9	punct	_	_
+8	I	_	_	PRP	_	9	nsubj	_	_
+9	guess	_	_	VBP	_	6	parataxis	_	_
+10	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00250.txt_87
+# text = And it blew away almost everything of our camping equipment .
+1	And	_	_	CC	_	3	cc	_	_
+2	it	_	_	PRP	_	3	nsubj	_	_
+3	blew	_	_	VBD	_	0	root	_	_
+4	away	_	_	RB	_	3	advmod	_	_
+5	almost	_	_	RB	_	6	advmod	_	_
+6	everything	_	_	NN	_	3	obj	_	_
+7	of	_	_	IN	_	10	case	_	_
+8	our	_	_	PRP$	_	10	nmod:poss	_	_
+9	camping	_	_	NN	_	10	compound	_	_
+10	equipment	_	_	NN	_	6	nmod	_	_
+11	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01251.txt_80
+# text = My mom fell off with the sickness .
+1	My	_	_	PRP$	_	2	nmod:poss	_	_
+2	mom	_	_	NN	_	3	nsubj	_	_
+3	fell	_	_	VBD	_	0	root	_	_
+4	off	_	_	RP	_	3	compound:prt	_	_
+5	with	_	_	IN	_	7	case	_	_
+6	the	_	_	DT	_	7	det	_	_
+7	sickness	_	_	NN	_	3	obl	_	_
+8	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01271.txt_175
+# text = So I 'm really nervous right now .
+1	So	_	_	RB	_	5	advmod	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	'm	_	_	VBP	_	5	cop	_	_
+4	really	_	_	RB	_	5	advmod	_	_
+5	nervous	_	_	JJ	_	0	root	_	_
+6	right	_	_	RB	_	7	advmod	_	_
+7	now	_	_	RB	_	5	advmod	_	_
+8	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01214.txt_75
+# text = So could you please exchange the ticket or could you give back the money for me ?
+1	So	_	_	RB	_	5	advmod	_	_
+2	could	_	_	MD	_	5	aux	_	_
+3	you	_	_	PRP	_	5	nsubj	_	_
+4	please	_	_	UH	_	5	discourse	_	_
+5	exchange	_	_	VB	_	0	root	_	_
+6	the	_	_	DT	_	7	det	_	_
+7	ticket	_	_	NN	_	5	obj	_	_
+8	or	_	_	CC	_	11	cc	_	_
+9	could	_	_	MD	_	11	aux	_	_
+10	you	_	_	PRP	_	11	nsubj	_	_
+11	give	_	_	VB	_	5	conj	_	_
+12	back	_	_	RB	_	11	advmod	_	_
+13	the	_	_	DT	_	14	det	_	_
+14	money	_	_	NN	_	11	obj	_	_
+15	for	_	_	IN	_	16	case	_	_
+16	me	_	_	PRP	_	11	obl	_	_
+17	?	_	_	.	_	5	punct	_	_
+
+# sentid = file01145.txt_29
+# text = And when I go to my grandmother house , she feel very happy , so she give me many money .
+1	And	_	_	CC	_	11	cc	_	_
+2	when	_	_	WRB	_	4	mark	_	_
+3	I	_	_	PRP	_	4	nsubj	_	_
+4	go	_	_	VBP	_	11	advcl	_	_
+5	to	_	_	TO	_	8	case	_	_
+6	my	_	_	PRP$	_	7	nmod:poss	_	_
+7	grandmother	_	_	NN	_	8	compound	_	_
+8	house	_	_	NN	_	4	obl	_	_
+9	,	_	_	,	_	4	punct	_	_
+10	she	_	_	PRP	_	11	nsubj	_	_
+11	feel	_	_	VB	_	0	root	_	_
+12	very	_	_	RB	_	13	advmod	_	_
+13	happy	_	_	JJ	_	11	xcomp	_	_
+14	,	_	_	,	_	17	punct	_	_
+15	so	_	_	CC	_	17	advmod	_	_
+16	she	_	_	PRP	_	17	nsubj	_	_
+17	give	_	_	VB	_	11	conj	_	_
+18	me	_	_	PRP	_	17	iobj	_	_
+19	many	_	_	JJ	_	20	amod	_	_
+20	money	_	_	NN	_	17	obj	_	_
+21	.	_	_	.	_	11	punct	_	_
+
+# sentid = file00054.txt_71
+# text = I can not tell you about what you can do after that .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	can	_	_	MD	_	4	aux	_	_
+3	not	_	_	RB	_	4	advmod	_	_
+4	tell	_	_	VB	_	0	root	_	_
+5	you	_	_	PRP	_	4	iobj	_	_
+6	about	_	_	IN	_	10	mark	_	_
+7	what	_	_	WP	_	10	obj	_	_
+8	you	_	_	PRP	_	10	nsubj	_	_
+9	can	_	_	MD	_	10	aux	_	_
+10	do	_	_	VB	_	4	ccomp	_	_
+11	after	_	_	IN	_	12	case	_	_
+12	that	_	_	DT	_	10	obl	_	_
+13	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00710.txt_14
+# text = It 's very far from here .
+1	It	_	_	PRP	_	4	nsubj	_	_
+2	's	_	_	VBZ	_	4	cop	_	_
+3	very	_	_	RB	_	4	advmod	_	_
+4	far	_	_	JJ	_	0	root	_	_
+5	from	_	_	IN	_	6	case	_	_
+6	here	_	_	RB	_	4	obl	_	_
+7	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00429.txt_32
+# text = that was last , maybe .
+1	that	_	_	DT	_	3	nsubj	_	_
+2	was	_	_	VBD	_	3	cop	_	_
+3	last	_	_	JJ	_	0	root	_	_
+4	,	_	_	,	_	3	punct	_	_
+5	maybe	_	_	RB	_	3	advmod	_	_
+6	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00028.txt_52
+# text = It 's OK .
+1	It	_	_	PRP	_	3	nsubj	_	_
+2	's	_	_	VBZ	_	3	cop	_	_
+3	OK	_	_	JJ	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01251.txt_98
+# text = we were too sleepy .
+1	we	_	_	PRP	_	4	nsubj	_	_
+2	were	_	_	VBD	_	4	cop	_	_
+3	too	_	_	RB	_	4	advmod	_	_
+4	sleepy	_	_	JJ	_	0	root	_	_
+5	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00640.txt_91
+# text = Because actually , the place I was living was Indianapolis .
+1	Because	_	_	IN	_	10	mark	_	_
+2	actually	_	_	RB	_	10	advmod	_	_
+3	,	_	_	,	_	10	punct	_	_
+4	the	_	_	DT	_	5	det	_	_
+5	place	_	_	NN	_	10	nsubj	_	_
+6	I	_	_	PRP	_	8	nsubj	_	_
+7	was	_	_	VBD	_	8	aux	_	_
+8	living	_	_	VBG	_	5	acl:relcl	_	_
+9	was	_	_	VBD	_	10	cop	_	_
+10	Indianapolis	_	_	NNP	_	0	root	_	_
+11	.	_	_	.	_	10	punct	_	_
+
+# sentid = file00285.txt_152
+# text = now , I 'm learning English .
+1	now	_	_	RB	_	5	advmod	_	_
+2	,	_	_	,	_	5	punct	_	_
+3	I	_	_	PRP	_	5	nsubj	_	_
+4	'm	_	_	VBP	_	5	aux	_	_
+5	learning	_	_	VBG	_	0	root	_	_
+6	English	_	_	NNP	_	5	obj	_	_
+7	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00547.txt_105
+# text = I do n't have special plans .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	do	_	_	VBP	_	4	aux	_	_
+3	n't	_	_	RB	_	4	advmod	_	_
+4	have	_	_	VB	_	0	root	_	_
+5	special	_	_	JJ	_	6	amod	_	_
+6	plans	_	_	NNS	_	4	obj	_	_
+7	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01261.txt_24
+# text = They live slowly and gently in there .
+1	They	_	_	PRP	_	2	nsubj	_	_
+2	live	_	_	VBP	_	0	root	_	_
+3	slowly	_	_	RB	_	2	advmod	_	_
+4	and	_	_	CC	_	5	cc	_	_
+5	gently	_	_	RB	_	3	conj	_	_
+6	in	_	_	IN	_	7	case	_	_
+7	there	_	_	RB	_	2	obl	_	_
+8	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00816.txt_94
+# text = but if there 's another chance , it would be nice that you could invite me again .
+1	but	_	_	CC	_	11	cc	_	_
+2	if	_	_	IN	_	4	mark	_	_
+3	there	_	_	EX	_	4	expl	_	_
+4	's	_	_	VBZ	_	11	advcl	_	_
+5	another	_	_	DT	_	6	det	_	_
+6	chance	_	_	NN	_	4	nsubj	_	_
+7	,	_	_	,	_	4	punct	_	_
+8	it	_	_	PRP	_	11	nsubj	_	_
+9	would	_	_	MD	_	11	aux	_	_
+10	be	_	_	VB	_	11	cop	_	_
+11	nice	_	_	JJ	_	0	root	_	_
+12	that	_	_	IN	_	15	mark	_	_
+13	you	_	_	PRP	_	15	nsubj	_	_
+14	could	_	_	MD	_	15	aux	_	_
+15	invite	_	_	VB	_	11	ccomp	_	_
+16	me	_	_	PRP	_	15	obj	_	_
+17	again	_	_	RB	_	15	advmod	_	_
+18	.	_	_	.	_	11	punct	_	_
+
+# sentid = file00978.txt_72
+# text = And before the war , teachers are very prestigious job .
+1	And	_	_	CC	_	10	cc	_	_
+2	before	_	_	IN	_	4	case	_	_
+3	the	_	_	DT	_	4	det	_	_
+4	war	_	_	NN	_	10	obl	_	_
+5	,	_	_	,	_	4	punct	_	_
+6	teachers	_	_	NNS	_	10	nsubj	_	_
+7	are	_	_	VBP	_	10	cop	_	_
+8	very	_	_	RB	_	9	advmod	_	_
+9	prestigious	_	_	JJ	_	10	amod	_	_
+10	job	_	_	NN	_	0	root	_	_
+11	.	_	_	.	_	10	punct	_	_
+
+# sentid = file00249.txt_9
+# text = And it 's very peaceful and quiet place .
+1	And	_	_	CC	_	8	cc	_	_
+2	it	_	_	PRP	_	8	nsubj	_	_
+3	's	_	_	VBZ	_	8	cop	_	_
+4	very	_	_	RB	_	5	advmod	_	_
+5	peaceful	_	_	JJ	_	8	amod	_	_
+6	and	_	_	CC	_	7	cc	_	_
+7	quiet	_	_	JJ	_	5	conj	_	_
+8	place	_	_	NN	_	0	root	_	_
+9	.	_	_	.	_	8	punct	_	_
+
+# sentid = file00380.txt_82
+# text = I really appreciate what you doed for me , but , frankly speaking , I can not make it today .
+1	I	_	_	PRP	_	3	nsubj	_	_
+2	really	_	_	RB	_	3	advmod	_	_
+3	appreciate	_	_	VBP	_	0	root	_	_
+4	what	_	_	WP	_	6	obj	_	_
+5	you	_	_	PRP	_	6	nsubj	_	_
+6	doed	_	_	VBD	_	3	ccomp	_	_
+7	for	_	_	IN	_	8	case	_	_
+8	me	_	_	PRP	_	6	obl	_	_
+9	,	_	_	,	_	18	punct	_	_
+10	but	_	_	CC	_	18	cc	_	_
+11	,	_	_	,	_	13	punct	_	_
+12	frankly	_	_	RB	_	13	advmod	_	_
+13	speaking	_	_	VBG	_	18	parataxis	_	_
+14	,	_	_	,	_	18	punct	_	_
+15	I	_	_	PRP	_	18	nsubj	_	_
+16	can	_	_	MD	_	18	aux	_	_
+17	not	_	_	RB	_	18	advmod	_	_
+18	make	_	_	VB	_	3	conj	_	_
+19	it	_	_	PRP	_	18	obj	_	_
+20	today	_	_	NN	_	18	obl:tmod	_	_
+21	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00015.txt_119
+# text = And from the right , there came a motor cycle .
+1	And	_	_	CC	_	7	cc	_	_
+2	from	_	_	IN	_	4	case	_	_
+3	the	_	_	DT	_	4	det	_	_
+4	right	_	_	NN	_	7	obl	_	_
+5	,	_	_	,	_	4	punct	_	_
+6	there	_	_	RB	_	7	expl	_	_
+7	came	_	_	VBD	_	0	root	_	_
+8	a	_	_	DT	_	9	det	_	_
+9	motor	_	_	NN	_	7	nsubj	_	_
+10	cycle	_	_	NN	_	9	goeswith	_	_
+11	.	_	_	.	_	7	punct	_	_
+
+# sentid = file01105.txt_107
+# text = number three , we looked menu , and told waitress to my favorite hamburg .
+1	number	_	_	NN	_	5	dep	_	_
+2	three	_	_	CD	_	1	nummod	_	_
+3	,	_	_	,	_	5	punct	_	_
+4	we	_	_	PRP	_	5	nsubj	_	_
+5	looked	_	_	VBD	_	0	root	_	_
+6	menu	_	_	NN	_	5	obj	_	_
+7	,	_	_	,	_	9	punct	_	_
+8	and	_	_	CC	_	9	cc	_	_
+9	told	_	_	VBD	_	5	conj	_	_
+10	waitress	_	_	NN	_	9	obj	_	_
+11	to	_	_	TO	_	14	case	_	_
+12	my	_	_	PRP$	_	14	nmod:poss	_	_
+13	favorite	_	_	JJ	_	14	amod	_	_
+14	hamburg	_	_	NNP	_	9	obl	_	_
+15	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00663.txt_55
+# text = So I think I can find out now .
+1	So	_	_	RB	_	3	advmod	_	_
+2	I	_	_	PRP	_	3	nsubj	_	_
+3	think	_	_	VBP	_	0	root	_	_
+4	I	_	_	PRP	_	6	nsubj	_	_
+5	can	_	_	MD	_	6	aux	_	_
+6	find	_	_	VB	_	3	ccomp	_	_
+7	out	_	_	RP	_	6	compound:prt	_	_
+8	now	_	_	RB	_	6	advmod	_	_
+9	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00810.txt_128
+# text = And she always ask me to join them .
+1	And	_	_	CC	_	4	cc	_	_
+2	she	_	_	PRP	_	4	nsubj	_	_
+3	always	_	_	RB	_	4	advmod	_	_
+4	ask	_	_	VB	_	0	root	_	_
+5	me	_	_	PRP	_	4	obj	_	_
+6	to	_	_	TO	_	7	mark	_	_
+7	join	_	_	VB	_	4	xcomp	_	_
+8	them	_	_	PRP	_	7	obj	_	_
+9	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00958.txt_61
+# text = How often watch the movie ?
+1	How	_	_	WRB	_	2	advmod	_	_
+2	often	_	_	RB	_	3	advmod	_	_
+3	watch	_	_	VB	_	0	root	_	_
+4	the	_	_	DT	_	5	det	_	_
+5	movie	_	_	NN	_	3	obj	_	_
+6	?	_	_	.	_	3	punct	_	_
+
+# sentid = file00170.txt_99
+# text = But I wanted to buy just tie
+1	But	_	_	CC	_	3	cc	_	_
+2	I	_	_	PRP	_	3	nsubj	_	_
+3	wanted	_	_	VBD	_	0	root	_	_
+4	to	_	_	TO	_	5	mark	_	_
+5	buy	_	_	VB	_	3	xcomp	_	_
+6	just	_	_	RB	_	7	advmod	_	_
+7	tie	_	_	NN	_	5	obj	_	_
+
+# sentid = file00151.txt_221
+# text = I did n't have any injure .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	did	_	_	VBD	_	4	aux	_	_
+3	n't	_	_	RB	_	4	advmod	_	_
+4	have	_	_	VB	_	0	root	_	_
+5	any	_	_	DT	_	6	det	_	_
+6	injure	_	_	VB	_	4	obj	_	_
+7	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00893.txt_134
+# text = That was great .
+1	That	_	_	DT	_	3	nsubj	_	_
+2	was	_	_	VBD	_	3	cop	_	_
+3	great	_	_	JJ	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01127.txt_55
+# text = Local train .
+1	Local	_	_	JJ	_	2	amod	_	_
+2	train	_	_	NN	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01096.txt_38
+# text = the girl using her cell phone .
+1	the	_	_	DT	_	2	det	_	_
+2	girl	_	_	NN	_	3	nsubj	_	_
+3	using	_	_	VBG	_	0	root	_	_
+4	her	_	_	PRP$	_	6	nmod:poss	_	_
+5	cell	_	_	NN	_	6	compound	_	_
+6	phone	_	_	NN	_	3	obj	_	_
+7	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01221.txt_116
+# text = But an hour later , it got worse and everything started to blow and we could n't stay here any more .
+1	But	_	_	CC	_	7	cc	_	_
+2	an	_	_	DT	_	3	det	_	_
+3	hour	_	_	NN	_	4	obl:npmod	_	_
+4	later	_	_	RB	_	7	advmod	_	_
+5	,	_	_	,	_	7	punct	_	_
+6	it	_	_	PRP	_	7	nsubj	_	_
+7	got	_	_	VBD	_	0	root	_	_
+8	worse	_	_	JJR	_	7	xcomp	_	_
+9	and	_	_	CC	_	11	cc	_	_
+10	everything	_	_	NN	_	11	nsubj	_	_
+11	started	_	_	VBD	_	7	conj	_	_
+12	to	_	_	TO	_	13	mark	_	_
+13	blow	_	_	VB	_	11	xcomp	_	_
+14	and	_	_	CC	_	18	cc	_	_
+15	we	_	_	PRP	_	18	nsubj	_	_
+16	could	_	_	MD	_	18	aux	_	_
+17	n't	_	_	RB	_	18	advmod	_	_
+18	stay	_	_	VB	_	7	conj	_	_
+19	here	_	_	RB	_	18	advmod	_	_
+20	any	_	_	RB	_	21	advmod	_	_
+21	more	_	_	RBR	_	18	advmod	_	_
+22	.	_	_	.	_	7	punct	_	_
+
+# sentid = file00902.txt_97
+# text = And mister policeman came to ... , and they were explaining what happened there .
+1	And	_	_	CC	_	4	cc	_	_
+2	mister	_	_	NN	_	3	compound	_	_
+3	policeman	_	_	NN	_	4	nsubj	_	_
+4	came	_	_	VBD	_	0	root	_	_
+5	to	_	_	TO	_	6	case	_	_
+6	...	_	_	:	_	4	obl	_	_
+7	,	_	_	,	_	11	punct	_	_
+8	and	_	_	CC	_	11	cc	_	_
+9	they	_	_	PRP	_	11	nsubj	_	_
+10	were	_	_	VBD	_	11	aux	_	_
+11	explaining	_	_	VBG	_	4	conj	_	_
+12	what	_	_	WP	_	13	nsubj	_	_
+13	happened	_	_	VBD	_	11	ccomp	_	_
+14	there	_	_	RB	_	13	advmod	_	_
+15	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01233.txt_69
+# text = Then I decide the flight .
+1	Then	_	_	RB	_	3	advmod	_	_
+2	I	_	_	PRP	_	3	nsubj	_	_
+3	decide	_	_	VBP	_	0	root	_	_
+4	the	_	_	DT	_	5	det	_	_
+5	flight	_	_	NN	_	3	obj	_	_
+6	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00488.txt_67
+# text = And she was eating and seeing a monkey .
+1	And	_	_	CC	_	4	cc	_	_
+2	she	_	_	PRP	_	4	nsubj	_	_
+3	was	_	_	VBD	_	4	aux	_	_
+4	eating	_	_	VBG	_	0	root	_	_
+5	and	_	_	CC	_	6	cc	_	_
+6	seeing	_	_	VBG	_	4	conj	_	_
+7	a	_	_	DT	_	8	det	_	_
+8	monkey	_	_	NN	_	6	obj	_	_
+9	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01003.txt_78
+# text = One day last week , that day was raining .
+1	One	_	_	CD	_	2	nummod	_	_
+2	day	_	_	NN	_	9	obl:tmod	_	_
+3	last	_	_	JJ	_	4	amod	_	_
+4	week	_	_	NN	_	2	nmod:tmod	_	_
+5	,	_	_	,	_	2	punct	_	_
+6	that	_	_	DT	_	7	det	_	_
+7	day	_	_	NN	_	9	nsubj	_	_
+8	was	_	_	VBD	_	9	aux	_	_
+9	raining	_	_	VBG	_	0	root	_	_
+10	.	_	_	.	_	9	punct	_	_
+
+# sentid = file00641.txt_139
+# text = In comparison with the transportation in Tokyo , for example , the time schedule of bus is not correct .
+1	In	_	_	IN	_	2	case	_	_
+2	comparison	_	_	NN	_	19	obl	_	_
+3	with	_	_	IN	_	5	case	_	_
+4	the	_	_	DT	_	5	det	_	_
+5	transportation	_	_	NN	_	2	nmod	_	_
+6	in	_	_	IN	_	7	case	_	_
+7	Tokyo	_	_	NNP	_	5	nmod	_	_
+8	,	_	_	,	_	10	punct	_	_
+9	for	_	_	IN	_	10	case	_	_
+10	example	_	_	NN	_	19	obl	_	_
+11	,	_	_	,	_	10	punct	_	_
+12	the	_	_	DT	_	14	det	_	_
+13	time	_	_	NN	_	14	compound	_	_
+14	schedule	_	_	NN	_	19	nsubj	_	_
+15	of	_	_	IN	_	16	case	_	_
+16	bus	_	_	NN	_	14	nmod	_	_
+17	is	_	_	VBZ	_	19	cop	_	_
+18	not	_	_	RB	_	19	advmod	_	_
+19	correct	_	_	JJ	_	0	root	_	_
+20	.	_	_	.	_	19	punct	_	_
+
+# sentid = file00208.txt_50
+# text = I went back to my home town with my wife .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	went	_	_	VBD	_	0	root	_	_
+3	back	_	_	RB	_	2	advmod	_	_
+4	to	_	_	TO	_	7	case	_	_
+5	my	_	_	PRP$	_	7	nmod:poss	_	_
+6	home	_	_	NN	_	7	compound	_	_
+7	town	_	_	NN	_	2	obl	_	_
+8	with	_	_	IN	_	10	case	_	_
+9	my	_	_	PRP$	_	10	nmod:poss	_	_
+10	wife	_	_	NN	_	2	obl	_	_
+11	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01227.txt_128
+# text = But recently , we do n't do much .
+1	But	_	_	CC	_	7	cc	_	_
+2	recently	_	_	RB	_	7	advmod	_	_
+3	,	_	_	,	_	7	punct	_	_
+4	we	_	_	PRP	_	7	nsubj	_	_
+5	do	_	_	VBP	_	7	aux	_	_
+6	n't	_	_	RB	_	7	advmod	_	_
+7	do	_	_	VB	_	0	root	_	_
+8	much	_	_	RB	_	7	advmod	_	_
+9	.	_	_	.	_	7	punct	_	_
+
+# sentid = file00286.txt_108
+# text = I was very hungry , so I immediately ran to the supermarket to buy some foods .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	was	_	_	VBD	_	4	cop	_	_
+3	very	_	_	RB	_	4	advmod	_	_
+4	hungry	_	_	JJ	_	0	root	_	_
+5	,	_	_	,	_	9	punct	_	_
+6	so	_	_	CC	_	9	cc	_	_
+7	I	_	_	PRP	_	9	nsubj	_	_
+8	immediately	_	_	RB	_	9	advmod	_	_
+9	ran	_	_	VBD	_	4	conj	_	_
+10	to	_	_	TO	_	12	case	_	_
+11	the	_	_	DT	_	12	det	_	_
+12	supermarket	_	_	NN	_	9	obl	_	_
+13	to	_	_	TO	_	14	mark	_	_
+14	buy	_	_	VB	_	9	xcomp	_	_
+15	some	_	_	DT	_	16	det	_	_
+16	foods	_	_	NNS	_	14	obj	_	_
+17	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00332.txt_17
+# text = Because I do n't have to wake up very early in the morning .
+1	Because	_	_	IN	_	5	mark	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	do	_	_	VBP	_	5	aux	_	_
+4	n't	_	_	RB	_	5	advmod	_	_
+5	have	_	_	VB	_	0	root	_	_
+6	to	_	_	TO	_	7	mark	_	_
+7	wake	_	_	VB	_	5	xcomp	_	_
+8	up	_	_	RP	_	7	compound:prt	_	_
+9	very	_	_	RB	_	10	advmod	_	_
+10	early	_	_	RB	_	7	advmod	_	_
+11	in	_	_	IN	_	13	case	_	_
+12	the	_	_	DT	_	13	det	_	_
+13	morning	_	_	NN	_	7	obl	_	_
+14	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00785.txt_51
+# text = But the waitresses are older lady .
+1	But	_	_	CC	_	6	cc	_	_
+2	the	_	_	DT	_	3	det	_	_
+3	waitresses	_	_	NNS	_	6	nsubj	_	_
+4	are	_	_	VBP	_	6	cop	_	_
+5	older	_	_	JJR	_	6	amod	_	_
+6	lady	_	_	NN	_	0	root	_	_
+7	.	_	_	.	_	6	punct	_	_
+
+# sentid = file01188.txt_103
+# text = when wondering a shop , they may assume that this item is what they think they are , but when they bring it home and look through it , sometimes people find out that the quality of that item is not what they had in mind .
+1	when	_	_	WRB	_	2	mark	_	_
+2	wondering	_	_	VBG	_	8	advcl	_	_
+3	a	_	_	DT	_	4	det	_	_
+4	shop	_	_	NN	_	2	obj	_	_
+5	,	_	_	,	_	2	punct	_	_
+6	they	_	_	PRP	_	8	nsubj	_	_
+7	may	_	_	MD	_	8	aux	_	_
+8	assume	_	_	VB	_	0	root	_	_
+9	that	_	_	IN	_	13	mark	_	_
+10	this	_	_	DT	_	11	det	_	_
+11	item	_	_	NN	_	13	nsubj	_	_
+12	is	_	_	VBZ	_	13	cop	_	_
+13	what	_	_	WP	_	8	ccomp	_	_
+14	they	_	_	PRP	_	15	nsubj	_	_
+15	think	_	_	VBP	_	13	acl:relcl	_	_
+16	they	_	_	PRP	_	17	nsubj	_	_
+17	are	_	_	VBP	_	15	ccomp	_	_
+18	,	_	_	,	_	32	punct	_	_
+19	but	_	_	CC	_	32	cc	_	_
+20	when	_	_	WRB	_	22	mark	_	_
+21	they	_	_	PRP	_	22	nsubj	_	_
+22	bring	_	_	VBP	_	32	advcl	_	_
+23	it	_	_	PRP	_	22	obj	_	_
+24	home	_	_	RB	_	22	advmod	_	_
+25	and	_	_	CC	_	26	cc	_	_
+26	look	_	_	VB	_	22	conj	_	_
+27	through	_	_	IN	_	28	case	_	_
+28	it	_	_	PRP	_	26	obl	_	_
+29	,	_	_	,	_	32	punct	_	_
+30	sometimes	_	_	RB	_	32	advmod	_	_
+31	people	_	_	NNS	_	32	nsubj	_	_
+32	find	_	_	VBP	_	8	conj	_	_
+33	out	_	_	RP	_	32	compound:prt	_	_
+34	that	_	_	IN	_	42	mark	_	_
+35	the	_	_	DT	_	36	det	_	_
+36	quality	_	_	NN	_	42	nsubj	_	_
+37	of	_	_	IN	_	39	case	_	_
+38	that	_	_	DT	_	39	det	_	_
+39	item	_	_	NN	_	36	nmod	_	_
+40	is	_	_	VBZ	_	42	nsubj	_	_
+41	not	_	_	RB	_	42	advmod	_	_
+42	what	_	_	WP	_	32	ccomp	_	_
+43	they	_	_	PRP	_	44	nsubj	_	_
+44	had	_	_	VBD	_	42	acl:relcl	_	_
+45	in	_	_	IN	_	46	case	_	_
+46	mind	_	_	NN	_	44	obl	_	_
+47	.	_	_	.	_	8	punct	_	_
+
+# sentid = file01101.txt_21
+# text = I really like it .
+1	I	_	_	PRP	_	3	nsubj	_	_
+2	really	_	_	RB	_	3	advmod	_	_
+3	like	_	_	VBP	_	0	root	_	_
+4	it	_	_	PRP	_	3	obj	_	_
+5	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00939.txt_104
+# text = And it is fifty percent .
+1	And	_	_	CC	_	5	cc	_	_
+2	it	_	_	PRP	_	5	nsubj	_	_
+3	is	_	_	VBZ	_	5	cop	_	_
+4	fifty	_	_	CD	_	5	nummod	_	_
+5	percent	_	_	NN	_	0	root	_	_
+6	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00078.txt_5
+# text = I think so .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	think	_	_	VBP	_	0	root	_	_
+3	so	_	_	RB	_	2	advmod	_	_
+4	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00018.txt_106
+# text = Year , I guess so .
+1	Year	_	_	NN	_	4	dep	_	_
+2	,	_	_	,	_	4	punct	_	_
+3	I	_	_	PRP	_	4	nsubj	_	_
+4	guess	_	_	VBP	_	0	root	_	_
+5	so	_	_	RB	_	4	advmod	_	_
+6	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00442.txt_113
+# text = And the wind got so strong that our tent was blown off .
+1	And	_	_	CC	_	4	cc	_	_
+2	the	_	_	DT	_	3	det	_	_
+3	wind	_	_	NN	_	4	nsubj	_	_
+4	got	_	_	VBD	_	0	root	_	_
+5	so	_	_	RB	_	6	advmod	_	_
+6	strong	_	_	JJ	_	4	xcomp	_	_
+7	that	_	_	IN	_	11	mark	_	_
+8	our	_	_	PRP$	_	9	nmod:poss	_	_
+9	tent	_	_	NN	_	11	nsubj:pass	_	_
+10	was	_	_	VBD	_	11	aux:pass	_	_
+11	blown	_	_	VBN	_	4	advcl	_	_
+12	off	_	_	RP	_	11	compound:prt	_	_
+13	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01243.txt_239
+# text = And looking at the bright side of it , the whole story , we ended up in a nice hotel room , bright sunshine the next morning with comfortable environment , enjoying tea .
+1	And	_	_	CC	_	2	cc	_	_
+2	looking	_	_	VBG	_	0	root	_	_
+3	at	_	_	IN	_	6	case	_	_
+4	the	_	_	DT	_	6	det	_	_
+5	bright	_	_	JJ	_	6	amod	_	_
+6	side	_	_	NN	_	2	obl	_	_
+7	of	_	_	IN	_	8	case	_	_
+8	it	_	_	PRP	_	6	nmod	_	_
+9	,	_	_	,	_	12	punct	_	_
+10	the	_	_	DT	_	12	det	_	_
+11	whole	_	_	JJ	_	12	amod	_	_
+12	story	_	_	NN	_	6	dislocated	_	_
+13	,	_	_	,	_	15	punct	_	_
+14	we	_	_	PRP	_	15	nsubj	_	_
+15	ended	_	_	VBD	_	6	parataxis	_	_
+16	up	_	_	RP	_	15	compound:prt	_	_
+17	in	_	_	IN	_	21	case	_	_
+18	a	_	_	DT	_	21	det	_	_
+19	nice	_	_	JJ	_	21	amod	_	_
+20	hotel	_	_	NN	_	21	compound	_	_
+21	room	_	_	NN	_	15	obl	_	_
+22	,	_	_	,	_	24	punct	_	_
+23	bright	_	_	JJ	_	24	amod	_	_
+24	sunshine	_	_	NN	_	21	nmod	_	_
+25	the	_	_	DT	_	27	det	_	_
+26	next	_	_	JJ	_	27	amod	_	_
+27	morning	_	_	NN	_	24	obl:tmod	_	_
+28	with	_	_	IN	_	30	case	_	_
+29	comfortable	_	_	JJ	_	30	amod	_	_
+30	environment	_	_	NN	_	21	nmod	_	_
+31	,	_	_	,	_	32	punct	_	_
+32	enjoying	_	_	VBG	_	15	xcomp	_	_
+33	tea	_	_	NN	_	32	obj	_	_
+34	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01263.txt_112
+# text = if my sister is fine because I have no idea in what kind of state she is in right now .
+1	if	_	_	IN	_	5	mark	_	_
+2	my	_	_	PRP$	_	3	nmod:poss	_	_
+3	sister	_	_	NN	_	5	nsubj	_	_
+4	is	_	_	VBZ	_	5	cop	_	_
+5	fine	_	_	JJ	_	0	root	_	_
+6	because	_	_	IN	_	8	mark	_	_
+7	I	_	_	PRP	_	8	nsubj	_	_
+8	have	_	_	VBP	_	5	advcl	_	_
+9	no	_	_	DT	_	10	det	_	_
+10	idea	_	_	NN	_	8	obj	_	_
+11	in	_	_	IN	_	13	case	_	_
+12	what	_	_	WDT	_	13	det	_	_
+13	kind	_	_	NN	_	5	obl	_	_
+14	of	_	_	IN	_	15	case	_	_
+15	state	_	_	NN	_	13	nmod	_	_
+16	she	_	_	PRP	_	18	nsubj	_	_
+17	is	_	_	VBZ	_	18	cop	_	_
+18	in	_	_	IN	_	15	acl:relcl	_	_
+19	right	_	_	RB	_	20	advmod	_	_
+20	now	_	_	RB	_	18	advmod	_	_
+21	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01174.txt_52
+# text = The door is half open .
+1	The	_	_	DT	_	2	det	_	_
+2	door	_	_	NN	_	5	nsubj	_	_
+3	is	_	_	VBZ	_	5	cop	_	_
+4	half	_	_	JJ	_	5	amod	_	_
+5	open	_	_	JJ	_	0	root	_	_
+6	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00666.txt_129
+# text = The police man understood the situation .
+1	The	_	_	DT	_	4	det	_	_
+2	police	_	_	NN	_	3	compound	_	_
+3	man	_	_	NN	_	4	nsubj	_	_
+4	understood	_	_	VBD	_	0	root	_	_
+5	the	_	_	DT	_	6	det	_	_
+6	situation	_	_	NN	_	4	obj	_	_
+7	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00908.txt_61
+# text = Because dog is more honestly than cat do .
+1	Because	_	_	IN	_	5	mark	_	_
+2	dog	_	_	NN	_	5	nsubj	_	_
+3	is	_	_	VBZ	_	5	cop	_	_
+4	more	_	_	RBR	_	5	advmod	_	_
+5	honestly	_	_	RB	_	0	root	_	_
+6	than	_	_	IN	_	8	mark	_	_
+7	cat	_	_	NN	_	8	nsubj	_	_
+8	do	_	_	VB	_	5	advcl	_	_
+9	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00343.txt_51
+# text = And repetition , you know .
+1	And	_	_	CC	_	2	cc	_	_
+2	repetition	_	_	NN	_	0	root	_	_
+3	,	_	_	,	_	5	punct	_	_
+4	you	_	_	PRP	_	5	nsubj	_	_
+5	know	_	_	VBP	_	2	parataxis	_	_
+6	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00577.txt_70
+# text = And , do you know Yurakucho Marion ?
+1	And	_	_	CC	_	5	cc	_	_
+2	,	_	_	,	_	5	punct	_	_
+3	do	_	_	VBP	_	5	aux	_	_
+4	you	_	_	PRP	_	5	nsubj	_	_
+5	know	_	_	VB	_	0	root	_	_
+6	Yurakucho	_	_	NNP	_	5	obj	_	_
+7	Marion	_	_	NNP	_	6	flat	_	_
+8	?	_	_	.	_	5	punct	_	_
+
+# sentid = file00209.txt_123
+# text = Thank you very much .
+1	Thank	_	_	VBP	_	0	root	_	_
+2	you	_	_	PRP	_	1	obj	_	_
+3	very	_	_	RB	_	4	advmod	_	_
+4	much	_	_	RB	_	1	advmod	_	_
+5	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00554.txt_125
+# text = So I do n't really like buy stuff like I ... something ....
+1	So	_	_	RB	_	7	advmod	_	_
+2	I	_	_	PRP	_	7	nsubj	_	_
+3	do	_	_	VBP	_	7	aux	_	_
+4	n't	_	_	RB	_	7	advmod	_	_
+5	really	_	_	RB	_	7	advmod	_	_
+6	like	_	_	UH	_	7	discourse	_	_
+7	buy	_	_	VB	_	0	root	_	_
+8	stuff	_	_	NN	_	7	obj	_	_
+9	like	_	_	UH	_	7	discourse	_	_
+10	I	_	_	PRP	_	11	nsubj	_	_
+11	...	_	_	:	_	7	parataxis	_	_
+12	something	_	_	NN	_	11	obj	_	_
+13	....	_	_	:	_	7	punct	_	_
+
+# sentid = file00075.txt_92
+# text = or no .
+1	or	_	_	CC	_	2	cc	_	_
+2	no	_	_	UH	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00996.txt_9
+# text = I like suits .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	like	_	_	VBP	_	0	root	_	_
+3	suits	_	_	NNS	_	2	obj	_	_
+4	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00380.txt_129
+# text = And I was told not to have driver 's license .
+1	And	_	_	CC	_	4	cc	_	_
+2	I	_	_	PRP	_	4	nsubj:pass	_	_
+3	was	_	_	VBD	_	4	aux:pass	_	_
+4	told	_	_	VBN	_	0	root	_	_
+5	not	_	_	RB	_	7	advmod	_	_
+6	to	_	_	TO	_	7	mark	_	_
+7	have	_	_	VB	_	4	xcomp	_	_
+8	driver	_	_	NN	_	10	nmod:poss	_	_
+9	's	_	_	POS	_	8	case	_	_
+10	license	_	_	NN	_	7	obj	_	_
+11	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00615.txt_95
+# text = This is the famous Italian restaurant .
+1	This	_	_	DT	_	6	det	_	_
+2	is	_	_	VBZ	_	6	cop	_	_
+3	the	_	_	DT	_	6	det	_	_
+4	famous	_	_	JJ	_	6	amod	_	_
+5	Italian	_	_	JJ	_	6	amod	_	_
+6	restaurant	_	_	NN	_	0	root	_	_
+7	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00987.txt_122
+# text = But it was very good .
+1	But	_	_	CC	_	5	cc	_	_
+2	it	_	_	PRP	_	5	nsubj	_	_
+3	was	_	_	VBD	_	5	cop	_	_
+4	very	_	_	RB	_	5	advmod	_	_
+5	good	_	_	JJ	_	0	root	_	_
+6	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01101.txt_190
+# text = Then of course the other person is supposed to be around my car .
+1	Then	_	_	RB	_	8	advmod	_	_
+2	of	_	_	RB	_	8	advmod	_	_
+3	course	_	_	RB	_	2	fixed	_	_
+4	the	_	_	DT	_	6	det	_	_
+5	other	_	_	JJ	_	6	amod	_	_
+6	person	_	_	NN	_	8	nsubj:pass	_	_
+7	is	_	_	VBZ	_	8	aux:pass	_	_
+8	supposed	_	_	VBN	_	0	root	_	_
+9	to	_	_	TO	_	13	mark	_	_
+10	be	_	_	VB	_	13	cop	_	_
+11	around	_	_	IN	_	13	case	_	_
+12	my	_	_	PRP$	_	13	nmod:poss	_	_
+13	car	_	_	NN	_	8	xcomp	_	_
+14	.	_	_	.	_	8	punct	_	_
+
+# sentid = file00303.txt_20
+# text = I 'm living there with my wife and my one son .
+1	I	_	_	PRP	_	3	nsubj	_	_
+2	'm	_	_	VBP	_	3	aux	_	_
+3	living	_	_	VBG	_	0	root	_	_
+4	there	_	_	RB	_	3	advmod	_	_
+5	with	_	_	IN	_	7	case	_	_
+6	my	_	_	PRP$	_	7	nmod:poss	_	_
+7	wife	_	_	NN	_	3	obl	_	_
+8	and	_	_	CC	_	11	cc	_	_
+9	my	_	_	PRP$	_	11	nmod:poss	_	_
+10	one	_	_	CD	_	11	nummod	_	_
+11	son	_	_	NN	_	7	conj	_	_
+12	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00574.txt_154
+# text = So , and I also had to prepare for this test .
+1	So	_	_	RB	_	6	advmod	_	_
+2	,	_	_	,	_	6	punct	_	_
+3	and	_	_	CC	_	6	cc	_	_
+4	I	_	_	PRP	_	6	nsubj	_	_
+5	also	_	_	RB	_	6	advmod	_	_
+6	had	_	_	VBD	_	0	root	_	_
+7	to	_	_	TO	_	8	mark	_	_
+8	prepare	_	_	VB	_	6	xcomp	_	_
+9	for	_	_	IN	_	11	case	_	_
+10	this	_	_	DT	_	11	det	_	_
+11	test	_	_	NN	_	8	obl	_	_
+12	.	_	_	.	_	6	punct	_	_
+
+# sentid = file01231.txt_110
+# text = so I can stand there .
+1	so	_	_	RB	_	4	advmod	_	_
+2	I	_	_	PRP	_	4	nsubj	_	_
+3	can	_	_	MD	_	4	aux	_	_
+4	stand	_	_	VB	_	0	root	_	_
+5	there	_	_	RB	_	4	advmod	_	_
+6	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00482.txt_60
+# text = You Charlie ?
+1	You	_	_	PRP	_	2	nsubj	_	_
+2	Charlie	_	_	NNP	_	0	root	_	_
+3	?	_	_	.	_	2	punct	_	_
+
+# sentid = file00093.txt_80
+# text = Yeah , it 's very hard to walk around at the zoo , I think .
+1	Yeah	_	_	UH	_	6	discourse	_	_
+2	,	_	_	,	_	6	punct	_	_
+3	it	_	_	PRP	_	6	nsubj	_	_
+4	's	_	_	VBZ	_	6	cop	_	_
+5	very	_	_	RB	_	6	advmod	_	_
+6	hard	_	_	JJ	_	0	root	_	_
+7	to	_	_	TO	_	8	mark	_	_
+8	walk	_	_	VB	_	6	xcomp	_	_
+9	around	_	_	RB	_	8	advmod	_	_
+10	at	_	_	IN	_	12	case	_	_
+11	the	_	_	DT	_	12	det	_	_
+12	zoo	_	_	NN	_	8	obl	_	_
+13	,	_	_	,	_	15	punct	_	_
+14	I	_	_	PRP	_	15	nsubj	_	_
+15	think	_	_	VBP	_	6	parataxis	_	_
+16	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00705.txt_65
+# text = And they 're very quick .
+1	And	_	_	CC	_	5	cc	_	_
+2	they	_	_	PRP	_	5	nsubj	_	_
+3	're	_	_	VBP	_	5	cop	_	_
+4	very	_	_	RB	_	5	advmod	_	_
+5	quick	_	_	JJ	_	0	root	_	_
+6	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00495.txt_28
+# text = And my daughter .
+1	And	_	_	CC	_	3	cc	_	_
+2	my	_	_	PRP$	_	3	nmod:poss	_	_
+3	daughter	_	_	NN	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00811.txt_11
+# text = because not so cold , not so hot .
+1	because	_	_	IN	_	4	mark	_	_
+2	not	_	_	RB	_	4	advmod	_	_
+3	so	_	_	RB	_	4	advmod	_	_
+4	cold	_	_	JJ	_	0	root	_	_
+5	,	_	_	,	_	4	punct	_	_
+6	not	_	_	RB	_	8	advmod	_	_
+7	so	_	_	RB	_	8	advmod	_	_
+8	hot	_	_	JJ	_	4	conj	_	_
+9	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01277.txt_99
+# text = and they said yes ,
+1	and	_	_	CC	_	3	cc	_	_
+2	they	_	_	PRP	_	3	nsubj	_	_
+3	said	_	_	VBD	_	0	root	_	_
+4	yes	_	_	UH	_	3	obj	_	_
+5	,	_	_	,	_	3	punct	_	_
+
+# sentid = file00574.txt_132
+# text = and her persistence has paid off .
+1	and	_	_	CC	_	5	cc	_	_
+2	her	_	_	PRP$	_	3	nmod:poss	_	_
+3	persistence	_	_	NN	_	5	nsubj	_	_
+4	has	_	_	VBZ	_	5	aux	_	_
+5	paid	_	_	VBN	_	0	root	_	_
+6	off	_	_	RP	_	5	compound:prt	_	_
+7	.	_	_	.	_	5	punct	_	_
+
+# sentid = file01223.txt_54
+# text = There are students who do n't really pay attention because they do n't really care .
+1	There	_	_	EX	_	2	expl	_	_
+2	are	_	_	VBP	_	0	root	_	_
+3	students	_	_	NNS	_	2	nsubj	_	_
+4	who	_	_	WP	_	8	nsubj	_	_
+5	do	_	_	VBP	_	8	aux	_	_
+6	n't	_	_	RB	_	8	advmod	_	_
+7	really	_	_	RB	_	8	advmod	_	_
+8	pay	_	_	VB	_	3	acl:relcl	_	_
+9	attention	_	_	NN	_	8	obj	_	_
+10	because	_	_	IN	_	15	mark	_	_
+11	they	_	_	PRP	_	15	nsubj	_	_
+12	do	_	_	VBP	_	15	aux	_	_
+13	n't	_	_	RB	_	15	advmod	_	_
+14	really	_	_	RB	_	15	advmod	_	_
+15	care	_	_	VB	_	8	advcl	_	_
+16	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00991.txt_116
+# text = It 's hard negotiation .
+1	It	_	_	PRP	_	4	nsubj	_	_
+2	's	_	_	VBZ	_	4	cop	_	_
+3	hard	_	_	JJ	_	4	amod	_	_
+4	negotiation	_	_	NN	_	0	root	_	_
+5	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00997.txt_12
+# text = And smoking .
+1	And	_	_	CC	_	2	cc	_	_
+2	smoking	_	_	VBG	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01269.txt_69
+# text = and ethnically also it 's really interesting place .
+1	and	_	_	CC	_	8	cc	_	_
+2	ethnically	_	_	RB	_	8	advmod	_	_
+3	also	_	_	RB	_	8	advmod	_	_
+4	it	_	_	PRP	_	8	nsubj	_	_
+5	's	_	_	VBZ	_	8	cop	_	_
+6	really	_	_	RB	_	7	advmod	_	_
+7	interesting	_	_	JJ	_	8	amod	_	_
+8	place	_	_	NN	_	0	root	_	_
+9	.	_	_	.	_	8	punct	_	_
+
+# sentid = file01230.txt_83
+# text = They just read the textbook and follow the textbook .
+1	They	_	_	PRP	_	3	nsubj	_	_
+2	just	_	_	RB	_	3	advmod	_	_
+3	read	_	_	VBP	_	0	root	_	_
+4	the	_	_	DT	_	5	det	_	_
+5	textbook	_	_	NN	_	3	obj	_	_
+6	and	_	_	CC	_	7	cc	_	_
+7	follow	_	_	VBP	_	3	conj	_	_
+8	the	_	_	DT	_	9	det	_	_
+9	textbook	_	_	NN	_	7	obj	_	_
+10	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00611.txt_123
+# text = But , when I need time , always holidays come .
+1	But	_	_	CC	_	10	cc	_	_
+2	,	_	_	,	_	5	punct	_	_
+3	when	_	_	WRB	_	5	mark	_	_
+4	I	_	_	PRP	_	5	nsubj	_	_
+5	need	_	_	VBP	_	10	advcl	_	_
+6	time	_	_	NN	_	5	obj	_	_
+7	,	_	_	,	_	5	punct	_	_
+8	always	_	_	RB	_	10	advmod	_	_
+9	holidays	_	_	NNS	_	10	nsubj	_	_
+10	come	_	_	VB	_	0	root	_	_
+11	.	_	_	.	_	10	punct	_	_
+
+# sentid = file01256.txt_106
+# text = And when they got there , they built a tent and built a fire and started to cook .
+1	And	_	_	CC	_	8	cc	_	_
+2	when	_	_	WRB	_	4	mark	_	_
+3	they	_	_	PRP	_	4	nsubj	_	_
+4	got	_	_	VBD	_	8	advcl	_	_
+5	there	_	_	RB	_	4	advmod	_	_
+6	,	_	_	,	_	4	punct	_	_
+7	they	_	_	PRP	_	8	nsubj	_	_
+8	built	_	_	VBD	_	0	root	_	_
+9	a	_	_	DT	_	10	det	_	_
+10	tent	_	_	NN	_	8	obj	_	_
+11	and	_	_	CC	_	12	cc	_	_
+12	built	_	_	VBD	_	8	conj	_	_
+13	a	_	_	DT	_	14	det	_	_
+14	fire	_	_	NN	_	12	obj	_	_
+15	and	_	_	CC	_	16	cc	_	_
+16	started	_	_	VBD	_	8	conj	_	_
+17	to	_	_	TO	_	18	mark	_	_
+18	cook	_	_	VB	_	16	xcomp	_	_
+19	.	_	_	.	_	8	punct	_	_
+
+# sentid = file01254.txt_62
+# text = And it was ....
+1	And	_	_	CC	_	4	cc	_	_
+2	it	_	_	PRP	_	4	nsubj	_	_
+3	was	_	_	VBD	_	4	cop	_	_
+4	....	_	_	:	_	0	root	_	_
+
+# sentid = file00155.txt_127
+# text = I will go to the supermarket .
+1	I	_	_	PRP	_	3	nsubj	_	_
+2	will	_	_	MD	_	3	aux	_	_
+3	go	_	_	VB	_	0	root	_	_
+4	to	_	_	TO	_	6	case	_	_
+5	the	_	_	DT	_	6	det	_	_
+6	supermarket	_	_	NN	_	3	obl	_	_
+7	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00600.txt_6
+# text = And my dog .
+1	And	_	_	CC	_	3	cc	_	_
+2	my	_	_	PRP$	_	3	nmod:poss	_	_
+3	dog	_	_	NN	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01156.txt_43
+# text = I 'd like to take interesting book .
+1	I	_	_	PRP	_	3	nsubj	_	_
+2	'd	_	_	MD	_	3	aux	_	_
+3	like	_	_	VB	_	0	root	_	_
+4	to	_	_	TO	_	5	mark	_	_
+5	take	_	_	VB	_	3	xcomp	_	_
+6	interesting	_	_	JJ	_	7	amod	_	_
+7	book	_	_	NN	_	5	obj	_	_
+8	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01188.txt_80
+# text = this is high school , so I do n't think many high school students enjoy math , so I do n't know .
+1	this	_	_	DT	_	4	nsubj	_	_
+2	is	_	_	VBZ	_	4	cop	_	_
+3	high	_	_	JJ	_	4	amod	_	_
+4	school	_	_	NN	_	0	root	_	_
+5	,	_	_	,	_	10	punct	_	_
+6	so	_	_	CC	_	10	cc	_	_
+7	I	_	_	PRP	_	10	nsubj	_	_
+8	do	_	_	VBP	_	10	aux	_	_
+9	n't	_	_	RB	_	10	advmod	_	_
+10	think	_	_	VB	_	4	conj	_	_
+11	many	_	_	JJ	_	14	amod	_	_
+12	high	_	_	JJ	_	13	amod	_	_
+13	school	_	_	NN	_	14	compound	_	_
+14	students	_	_	NNS	_	15	nsubj	_	_
+15	enjoy	_	_	VBP	_	10	ccomp	_	_
+16	math	_	_	NN	_	15	obj	_	_
+17	,	_	_	,	_	22	punct	_	_
+18	so	_	_	CC	_	22	cc	_	_
+19	I	_	_	PRP	_	22	nsubj	_	_
+20	do	_	_	VBP	_	22	aux	_	_
+21	n't	_	_	RB	_	22	advmod	_	_
+22	know	_	_	VB	_	4	conj	_	_
+23	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01218.txt_7
+# text = I have a class right now
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	have	_	_	VBP	_	0	root	_	_
+3	a	_	_	DT	_	4	det	_	_
+4	class	_	_	NN	_	2	obj	_	_
+5	right	_	_	RB	_	6	advmod	_	_
+6	now	_	_	RB	_	2	advmod	_	_
+
+# sentid = file00310.txt_74
+# text = Economy class , OK .
+1	Economy	_	_	NN	_	2	compound	_	_
+2	class	_	_	NN	_	0	root	_	_
+3	,	_	_	,	_	2	punct	_	_
+4	OK	_	_	UH	_	2	discourse	_	_
+5	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00889.txt_63
+# text = I have only a ten dollars .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	have	_	_	VBP	_	0	root	_	_
+3	only	_	_	RB	_	2	advmod	_	_
+4	a	_	_	DT	_	6	det	_	_
+5	ten	_	_	CD	_	6	nummod	_	_
+6	dollars	_	_	NNS	_	2	obj	_	_
+7	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00695.txt_108
+# text = He was enjoying his drive .
+1	He	_	_	PRP	_	3	nsubj	_	_
+2	was	_	_	VBD	_	3	aux	_	_
+3	enjoying	_	_	VBG	_	0	root	_	_
+4	his	_	_	PRP$	_	5	nmod:poss	_	_
+5	drive	_	_	NN	_	3	obj	_	_
+6	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00213.txt_64
+# text = he is sitting and he is working on a personal computer .
+1	he	_	_	PRP	_	3	nsubj	_	_
+2	is	_	_	VBZ	_	3	aux	_	_
+3	sitting	_	_	VBG	_	0	root	_	_
+4	and	_	_	CC	_	7	cc	_	_
+5	he	_	_	PRP	_	7	nsubj	_	_
+6	is	_	_	VBZ	_	7	aux	_	_
+7	working	_	_	VBG	_	3	conj	_	_
+8	on	_	_	IN	_	11	case	_	_
+9	a	_	_	DT	_	11	det	_	_
+10	personal	_	_	JJ	_	11	amod	_	_
+11	computer	_	_	NN	_	7	obl	_	_
+12	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01146.txt_67
+# text = So it is hard to me to communicate with native people .
+1	So	_	_	RB	_	4	advmod	_	_
+2	it	_	_	PRP	_	4	nsubj	_	_
+3	is	_	_	VBZ	_	4	cop	_	_
+4	hard	_	_	JJ	_	0	root	_	_
+5	to	_	_	TO	_	6	case	_	_
+6	me	_	_	PRP	_	4	obl	_	_
+7	to	_	_	TO	_	8	mark	_	_
+8	communicate	_	_	VB	_	4	xcomp	_	_
+9	with	_	_	IN	_	11	case	_	_
+10	native	_	_	JJ	_	11	amod	_	_
+11	people	_	_	NNS	_	8	obl	_	_
+12	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01270.txt_156
+# text = just to the accident so it can not be helped .
+1	just	_	_	RB	_	10	advmod	_	_
+2	to	_	_	TO	_	4	case	_	_
+3	the	_	_	DT	_	4	det	_	_
+4	accident	_	_	NN	_	10	obl	_	_
+5	so	_	_	CC	_	10	cc	_	_
+6	it	_	_	PRP	_	10	nsubj:pass	_	_
+7	can	_	_	MD	_	10	aux	_	_
+8	not	_	_	RB	_	10	advmod	_	_
+9	be	_	_	VB	_	10	aux:pass	_	_
+10	helped	_	_	VBN	_	0	root	_	_
+11	.	_	_	.	_	10	punct	_	_
+
+# sentid = file00564.txt_77
+# text = Australia and Beijing and Korea and Moscow and Belgium .
+1	Australia	_	_	NNP	_	0	root	_	_
+2	and	_	_	CC	_	3	cc	_	_
+3	Beijing	_	_	NNP	_	1	conj	_	_
+4	and	_	_	CC	_	5	cc	_	_
+5	Korea	_	_	NNP	_	1	conj	_	_
+6	and	_	_	CC	_	7	cc	_	_
+7	Moscow	_	_	NNP	_	1	conj	_	_
+8	and	_	_	CC	_	9	cc	_	_
+9	Belgium	_	_	NNP	_	1	conj	_	_
+10	.	_	_	.	_	1	punct	_	_
+
+# sentid = file00322.txt_86
+# text = One day last week , woman in her kitchen looked at her refrigerator to see it was empty .
+1	One	_	_	CD	_	2	nummod	_	_
+2	day	_	_	NN	_	10	obl:tmod	_	_
+3	last	_	_	JJ	_	4	amod	_	_
+4	week	_	_	NN	_	2	nmod:tmod	_	_
+5	,	_	_	,	_	2	punct	_	_
+6	woman	_	_	NN	_	10	nsubj	_	_
+7	in	_	_	IN	_	9	case	_	_
+8	her	_	_	PRP$	_	9	nmod:poss	_	_
+9	kitchen	_	_	NN	_	6	nmod	_	_
+10	looked	_	_	VBD	_	0	root	_	_
+11	at	_	_	IN	_	13	case	_	_
+12	her	_	_	PRP$	_	13	nmod:poss	_	_
+13	refrigerator	_	_	NN	_	10	obl	_	_
+14	to	_	_	TO	_	15	mark	_	_
+15	see	_	_	VB	_	10	xcomp	_	_
+16	it	_	_	PRP	_	18	nsubj	_	_
+17	was	_	_	VBD	_	18	cop	_	_
+18	empty	_	_	JJ	_	15	ccomp	_	_
+19	.	_	_	.	_	10	punct	_	_
+
+# sentid = file01191.txt_125
+# text = And , yes , I think you have scale about for eighty percent to go pass through it .
+1	And	_	_	CC	_	6	cc	_	_
+2	,	_	_	,	_	6	punct	_	_
+3	yes	_	_	UH	_	6	discourse	_	_
+4	,	_	_	,	_	6	punct	_	_
+5	I	_	_	PRP	_	6	nsubj	_	_
+6	think	_	_	VBP	_	0	root	_	_
+7	you	_	_	PRP	_	8	nsubj	_	_
+8	have	_	_	VBP	_	6	ccomp	_	_
+9	scale	_	_	NN	_	8	obj	_	_
+10	about	_	_	RB	_	12	advmod	_	_
+11	for	_	_	IN	_	13	case	_	_
+12	eighty	_	_	CD	_	13	nummod	_	_
+13	percent	_	_	NN	_	8	obl	_	_
+14	to	_	_	TO	_	15	mark	_	_
+15	go	_	_	VB	_	13	acl	_	_
+16	pass	_	_	VB	_	15	xcomp	_	_
+17	through	_	_	IN	_	18	case	_	_
+18	it	_	_	PRP	_	16	obl	_	_
+19	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00909.txt_19
+# text = So on fine days like this ?
+1	So	_	_	RB	_	4	advmod	_	_
+2	on	_	_	IN	_	4	case	_	_
+3	fine	_	_	JJ	_	4	amod	_	_
+4	days	_	_	NNS	_	0	root	_	_
+5	like	_	_	IN	_	6	case	_	_
+6	this	_	_	DT	_	4	nmod	_	_
+7	?	_	_	.	_	4	punct	_	_
+
+# sentid = file01211.txt_5
+# text = I just got out of a class in Arabic , and it was kind of difficult
+1	I	_	_	PRP	_	3	nsubj	_	_
+2	just	_	_	RB	_	3	advmod	_	_
+3	got	_	_	VBD	_	0	root	_	_
+4	out	_	_	IN	_	7	case	_	_
+5	of	_	_	IN	_	7	case	_	_
+6	a	_	_	DT	_	7	det	_	_
+7	class	_	_	NN	_	3	obl	_	_
+8	in	_	_	IN	_	9	case	_	_
+9	Arabic	_	_	NNP	_	7	nmod	_	_
+10	,	_	_	,	_	16	punct	_	_
+11	and	_	_	CC	_	16	cc	_	_
+12	it	_	_	PRP	_	16	nsubj	_	_
+13	was	_	_	VBD	_	16	cop	_	_
+14	kind	_	_	RB	_	16	advmod	_	_
+15	of	_	_	RB	_	14	fixed	_	_
+16	difficult	_	_	JJ	_	3	conj	_	_
+
+# sentid = file01224.txt_112
+# text = it depends .
+1	it	_	_	PRP	_	2	nsubj	_	_
+2	depends	_	_	VBZ	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file01277.txt_170
+# text = So might be a good day to go shopping , maybe .
+1	So	_	_	RB	_	6	advmod	_	_
+2	might	_	_	MD	_	6	aux	_	_
+3	be	_	_	VB	_	6	cop	_	_
+4	a	_	_	DT	_	6	det	_	_
+5	good	_	_	JJ	_	6	amod	_	_
+6	day	_	_	NN	_	0	root	_	_
+7	to	_	_	TO	_	8	mark	_	_
+8	go	_	_	VB	_	6	acl	_	_
+9	shopping	_	_	VBG	_	8	xcomp	_	_
+10	,	_	_	,	_	6	punct	_	_
+11	maybe	_	_	RB	_	6	advmod	_	_
+12	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00270.txt_98
+# text = But expensive ... ,
+1	But	_	_	CC	_	2	cc	_	_
+2	expensive	_	_	JJ	_	0	root	_	_
+3	...	_	_	:	_	2	punct	_	_
+4	,	_	_	,	_	2	punct	_	_
+
+# sentid = file00250.txt_31
+# text = not at all .
+1	not	_	_	RB	_	3	advmod	_	_
+2	at	_	_	IN	_	3	case	_	_
+3	all	_	_	DT	_	0	root	_	_
+4	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01265.txt_130
+# text = you can keep the cat . " .
+1	you	_	_	PRP	_	3	nsubj	_	_
+2	can	_	_	MD	_	3	aux	_	_
+3	keep	_	_	VB	_	0	root	_	_
+4	the	_	_	DT	_	5	det	_	_
+5	cat	_	_	NN	_	3	obj	_	_
+6	.	_	_	.	_	3	punct	_	_
+7	"	_	_	''	_	3	punct	_	_
+8	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00357.txt_108
+# text = what 's the point ?
+1	what	_	_	WP	_	0	root	_	_
+2	's	_	_	VBZ	_	1	cop	_	_
+3	the	_	_	DT	_	4	det	_	_
+4	point	_	_	NN	_	1	nsubj	_	_
+5	?	_	_	.	_	1	punct	_	_
+
+# sentid = file00378.txt_152
+# text = And I stopped the car .
+1	And	_	_	CC	_	3	cc	_	_
+2	I	_	_	PRP	_	3	nsubj	_	_
+3	stopped	_	_	VBD	_	0	root	_	_
+4	the	_	_	DT	_	5	det	_	_
+5	car	_	_	NN	_	3	obj	_	_
+6	.	_	_	.	_	3	punct	_	_
+
+# sentid = file01174.txt_100
+# text = But they did n't .
+1	But	_	_	CC	_	3	cc	_	_
+2	they	_	_	PRP	_	3	nsubj	_	_
+3	did	_	_	VBD	_	0	root	_	_
+4	n't	_	_	RB	_	3	advmod	_	_
+5	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00676.txt_57
+# text = one , I think because students are n't interested in mathematics .
+1	one	_	_	CD	_	4	discourse	_	_
+2	,	_	_	,	_	4	punct	_	_
+3	I	_	_	PRP	_	4	nsubj	_	_
+4	think	_	_	VBP	_	0	root	_	_
+5	because	_	_	IN	_	9	mark	_	_
+6	students	_	_	NNS	_	9	nsubj	_	_
+7	are	_	_	VBP	_	9	cop	_	_
+8	n't	_	_	RB	_	9	advmod	_	_
+9	interested	_	_	JJ	_	4	ccomp	_	_
+10	in	_	_	IN	_	11	case	_	_
+11	mathematics	_	_	NN	_	9	obl	_	_
+12	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01252.txt_140
+# text = And it was like the ticket I bought was five hundred eighty yen .
+1	And	_	_	CC	_	13	cc	_	_
+2	it	_	_	PRP	_	6	nsubj	_	_
+3	was	_	_	VBD	_	6	cop	_	_
+4	like	_	_	IN	_	6	case	_	_
+5	the	_	_	DT	_	6	det	_	_
+6	ticket	_	_	NN	_	13	csubj	_	_
+7	I	_	_	PRP	_	8	nsubj	_	_
+8	bought	_	_	VBD	_	6	acl:relcl	_	_
+9	was	_	_	VBD	_	13	cop	_	_
+10	five	_	_	CD	_	11	compound	_	_
+11	hundred	_	_	CD	_	12	compound	_	_
+12	eighty	_	_	CD	_	13	nummod	_	_
+13	yen	_	_	NNS	_	0	root	_	_
+14	.	_	_	.	_	13	punct	_	_
+
+# sentid = file00008.txt_6
+# text = Nice meet you .
+1	Nice	_	_	JJ	_	0	root	_	_
+2	meet	_	_	VB	_	1	xcomp	_	_
+3	you	_	_	PRP	_	2	obj	_	_
+4	.	_	_	.	_	1	punct	_	_
+
+# sentid = file01225.txt_179
+# text = Like it 's like a drugstore in Osaka .
+1	Like	_	_	UH	_	6	discourse	_	_
+2	it	_	_	PRP	_	6	nsubj	_	_
+3	's	_	_	VBZ	_	6	cop	_	_
+4	like	_	_	IN	_	6	case	_	_
+5	a	_	_	DT	_	6	det	_	_
+6	drugstore	_	_	NN	_	0	root	_	_
+7	in	_	_	IN	_	8	case	_	_
+8	Osaka	_	_	NNP	_	6	nmod	_	_
+9	.	_	_	.	_	6	punct	_	_
+
+# sentid = file00584.txt_13
+# text = Makuhari city .
+1	Makuhari	_	_	NNP	_	2	compound	_	_
+2	city	_	_	NN	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00109.txt_164
+# text = I think that is one of the procedure .
+1	I	_	_	PRP	_	2	nsubj	_	_
+2	think	_	_	VBP	_	0	root	_	_
+3	that	_	_	DT	_	5	nsubj	_	_
+4	is	_	_	VBZ	_	5	cop	_	_
+5	one	_	_	CD	_	2	ccomp	_	_
+6	of	_	_	IN	_	8	case	_	_
+7	the	_	_	DT	_	8	det	_	_
+8	procedure	_	_	NN	_	5	nmod	_	_
+9	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00449.txt_38
+# text = By subway .
+1	By	_	_	IN	_	2	case	_	_
+2	subway	_	_	NN	_	0	root	_	_
+3	.	_	_	.	_	2	punct	_	_
+
+# sentid = file00821.txt_19
+# text = my family is five , but I have two young sisters .
+1	my	_	_	PRP$	_	2	nmod:poss	_	_
+2	family	_	_	NN	_	4	nsubj	_	_
+3	is	_	_	VBZ	_	4	cop	_	_
+4	five	_	_	CD	_	0	root	_	_
+5	,	_	_	,	_	8	punct	_	_
+6	but	_	_	CC	_	8	cc	_	_
+7	I	_	_	PRP	_	8	nsubj	_	_
+8	have	_	_	VBP	_	4	conj	_	_
+9	two	_	_	CD	_	11	nummod	_	_
+10	young	_	_	JJ	_	11	amod	_	_
+11	sisters	_	_	NNS	_	8	obj	_	_
+12	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01214.txt_127
+# text = that 's the solution .
+1	that	_	_	DT	_	4	nsubj	_	_
+2	's	_	_	VBZ	_	4	cop	_	_
+3	the	_	_	DT	_	4	det	_	_
+4	solution	_	_	NN	_	0	root	_	_
+5	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01268.txt_88
+# text = Yes , I will .
+1	Yes	_	_	UH	_	4	discourse	_	_
+2	,	_	_	,	_	4	punct	_	_
+3	I	_	_	PRP	_	4	nsubj	_	_
+4	will	_	_	MD	_	0	root	_	_
+5	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01250.txt_50
+# text = ... describe the picture ?
+1	...	_	_	:	_	2	punct	_	_
+2	describe	_	_	VB	_	0	root	_	_
+3	the	_	_	DT	_	4	det	_	_
+4	picture	_	_	NN	_	2	obj	_	_
+5	?	_	_	.	_	2	punct	_	_
+
+# sentid = file01240.txt_65
+# text = I could n't help it because it was the train 's problem .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	could	_	_	MD	_	4	aux	_	_
+3	n't	_	_	RB	_	4	advmod	_	_
+4	help	_	_	VB	_	0	root	_	_
+5	it	_	_	PRP	_	4	obj	_	_
+6	because	_	_	IN	_	12	mark	_	_
+7	it	_	_	PRP	_	12	nsubj	_	_
+8	was	_	_	VBD	_	12	cop	_	_
+9	the	_	_	DT	_	10	det	_	_
+10	train	_	_	NN	_	12	nmod:poss	_	_
+11	's	_	_	POS	_	10	case	_	_
+12	problem	_	_	NN	_	4	advcl	_	_
+13	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00665.txt_50
+# text = I do n't like it .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	do	_	_	VBP	_	4	aux	_	_
+3	n't	_	_	RB	_	4	advmod	_	_
+4	like	_	_	VB	_	0	root	_	_
+5	it	_	_	PRP	_	4	obj	_	_
+6	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00397.txt_3
+# text = I a bit nervous because a lot of people are here .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	a	_	_	DT	_	3	det	_	_
+3	bit	_	_	NN	_	4	obl:npmod	_	_
+4	nervous	_	_	JJ	_	0	root	_	_
+5	because	_	_	IN	_	11	mark	_	_
+6	a	_	_	DT	_	7	det	_	_
+7	lot	_	_	NN	_	11	nsubj	_	_
+8	of	_	_	IN	_	9	case	_	_
+9	people	_	_	NNS	_	7	nmod	_	_
+10	are	_	_	VBP	_	11	cop	_	_
+11	here	_	_	RB	_	4	advcl	_	_
+12	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01268.txt_9
+# text = my major is Shakespeare .
+1	my	_	_	PRP$	_	2	nmod:poss	_	_
+2	major	_	_	NN	_	4	nsubj	_	_
+3	is	_	_	VBZ	_	4	cop	_	_
+4	Shakespeare	_	_	NNP	_	0	root	_	_
+5	.	_	_	.	_	4	punct	_	_
+
+# sentid = file01188.txt_63
+# text = In the second row , in the middle , a student is listening to his , I think , a Walkman .
+1	In	_	_	IN	_	4	case	_	_
+2	the	_	_	DT	_	4	det	_	_
+3	second	_	_	JJ	_	4	amod	_	_
+4	row	_	_	NN	_	13	obl	_	_
+5	,	_	_	,	_	4	punct	_	_
+6	in	_	_	IN	_	8	case	_	_
+7	the	_	_	DT	_	8	det	_	_
+8	middle	_	_	NN	_	4	nmod	_	_
+9	,	_	_	,	_	4	punct	_	_
+10	a	_	_	DT	_	11	det	_	_
+11	student	_	_	NN	_	13	nsubj	_	_
+12	is	_	_	VBZ	_	13	aux	_	_
+13	listening	_	_	VBG	_	0	root	_	_
+14	to	_	_	TO	_	21	case	_	_
+15	his	_	_	PRP$	_	21	nmod:poss	_	_
+16	,	_	_	,	_	18	punct	_	_
+17	I	_	_	PRP	_	18	nsubj	_	_
+18	think	_	_	VBP	_	21	parataxis	_	_
+19	,	_	_	,	_	18	punct	_	_
+20	a	_	_	DT	_	21	det	_	_
+21	Walkman	_	_	NNP	_	13	obl	_	_
+22	.	_	_	.	_	13	punct	_	_
+
+# sentid = file00509.txt_27
+# text = it 's cooler than in Tokyo .
+1	it	_	_	PRP	_	3	nsubj	_	_
+2	's	_	_	VBZ	_	3	cop	_	_
+3	cooler	_	_	JJR	_	0	root	_	_
+4	than	_	_	IN	_	6	case	_	_
+5	in	_	_	IN	_	6	case	_	_
+6	Tokyo	_	_	NNP	_	3	obl	_	_
+7	.	_	_	.	_	3	punct	_	_
+
+# sentid = file00231.txt_97
+# text = And if we do n't know each other , but we are talking each other .
+1	And	_	_	CC	_	6	cc	_	_
+2	if	_	_	IN	_	6	mark	_	_
+3	we	_	_	PRP	_	6	nsubj	_	_
+4	do	_	_	VBP	_	6	aux	_	_
+5	n't	_	_	RB	_	6	advmod	_	_
+6	know	_	_	VB	_	0	root	_	_
+7	each	_	_	DT	_	8	det	_	_
+8	other	_	_	JJ	_	6	obj	_	_
+9	,	_	_	,	_	13	punct	_	_
+10	but	_	_	CC	_	13	cc	_	_
+11	we	_	_	PRP	_	13	nsubj	_	_
+12	are	_	_	VBP	_	13	aux	_	_
+13	talking	_	_	VBG	_	6	conj	_	_
+14	each	_	_	DT	_	15	det	_	_
+15	other	_	_	JJ	_	13	obj	_	_
+16	.	_	_	.	_	6	punct	_	_
+
+# sentid = file01228.txt_128
+# text = but I do n't think it 's bad maybe .
+1	but	_	_	CC	_	5	cc	_	_
+2	I	_	_	PRP	_	5	nsubj	_	_
+3	do	_	_	VBP	_	5	aux	_	_
+4	n't	_	_	RB	_	5	advmod	_	_
+5	think	_	_	VB	_	0	root	_	_
+6	it	_	_	PRP	_	8	nsubj	_	_
+7	's	_	_	VBZ	_	8	cop	_	_
+8	bad	_	_	JJ	_	5	ccomp	_	_
+9	maybe	_	_	RB	_	5	advmod	_	_
+10	.	_	_	.	_	5	punct	_	_
+
+# sentid = file00577.txt_21
+# text = I 'm Ishikawa City , Saitama .
+1	I	_	_	PRP	_	4	nsubj	_	_
+2	'm	_	_	VBP	_	4	cop	_	_
+3	Ishikawa	_	_	NNP	_	4	compound	_	_
+4	City	_	_	NN	_	0	root	_	_
+5	,	_	_	,	_	6	punct	_	_
+6	Saitama	_	_	NNP	_	4	appos	_	_
+7	.	_	_	.	_	4	punct	_	_
+
+# sentid = file00980.txt_140
+# text = This is just one time
+1	This	_	_	DT	_	5	nsubj	_	_
+2	is	_	_	VBZ	_	5	cop	_	_
+3	just	_	_	RB	_	5	advmod	_	_
+4	one	_	_	CD	_	5	nummod	_	_
+5	time	_	_	NN	_	0	root	_	_
