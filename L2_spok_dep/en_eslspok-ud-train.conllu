@@ -796,8 +796,8 @@
 # sent_id = file00808.txt_194
 # text = more nante iundaro whipped it or .
 1	more	_	ADV	RBR	_	4	advmod	_	_
-2	nante	_	ADV	FW	_	4	dep	_	_
-3	iundaro	_	ADV	FW	_	2	flat:foreign	_	_
+2	nante	_	X	FW	_	4	dep	_	_
+3	iundaro	_	X	FW	_	2	flat:foreign	_	_
 4	whipped	_	VERB	VBD	_	0	root	_	_
 5	it	_	PRON	PRP	_	4	obj	_	_
 6	or	_	CCONJ	CC	_	4	cc	_	_
@@ -939,7 +939,7 @@
 3	Star	_	PROPN	NNP	_	4	compound	_	_
 4	Wars	_	PROPN	NNPS	_	0	root	_	_
 5	"	_	PUNCT	"	_	4	punct	_	_
-6	joei	_	ADV	FW	_	4	dep	_	_
+6	joei	_	X	FW	_	4	dep	_	_
 7	.	_	PUNCT	.	_	4	punct	_	_
 
 # sent_id = file01102.txt_14
@@ -1384,7 +1384,7 @@
 3	from	_	ADP	IN	_	4	case	_	_
 4	Saitama	_	PROPN	NNP	_	0	root	_	_
 5	-	_	PUNCT	:	_	4	punct	_	_
-6	ku	_	ADV	FW	_	4	dep	_	_
+6	ku	_	X	FW	_	4	dep	_	_
 7	.	_	PUNCT	.	_	4	punct	_	_
 
 # sent_id = file00397.txt_81
@@ -1589,9 +1589,9 @@
 10	soft	_	ADJ	JJ	_	11	amod	_	_
 11	cream	_	NOUN	NN	_	9	obj	_	_
 12	and	_	CCONJ	CC	_	13	cc	_	_
-13	nandattakana	_	ADV	FW	_	4	conj	_	_
-14	koreha	_	ADV	FW	_	13	flat:foreign	_	_
-15	osarusanha	_	ADV	FW	_	13	flat:foreign	_	_
+13	nandattakana	_	X	FW	_	4	conj	_	_
+14	koreha	_	X	FW	_	13	flat:foreign	_	_
+15	osarusanha	_	X	FW	_	13	flat:foreign	_	_
 16	.	_	PUNCT	.	_	4	punct	_	_
 
 # sent_id = file01188.txt_79
@@ -3400,7 +3400,7 @@
 4	to	_	PART	TO	_	5	mark	_	_
 5	meet	_	VERB	VB	_	3	xcomp	_	_
 6	Hachikou	_	PROPN	NNP	_	5	obj	_	_
-7	mae	_	ADV	FW	_	6	dep	_	_
+7	mae	_	X	FW	_	6	dep	_	_
 8	.	_	PUNCT	.	_	3	punct	_	_
 
 # sent_id = file00879.txt_40
@@ -3573,7 +3573,7 @@
 # sent_id = file00528.txt_12
 # text = Pardon atto Watch home pages or do chat or something .
 1	Pardon	_	VERB	VB	_	3	parataxis	_	_
-2	atto	_	ADV	FW	_	3	dep	_	_
+2	atto	_	X	FW	_	3	dep	_	_
 3	Watch	_	VERB	VB	_	0	root	_	_
 4	home	_	NOUN	NN	_	5	compound	_	_
 5	pages	_	NOUN	NNS	_	3	obj	_	_
@@ -4332,7 +4332,7 @@
 6	in	_	ADP	IN	_	7	case	_	_
 7	Hiroshima	_	PROPN	NNP	_	4	nmod	_	_
 8	-	_	PUNCT	:	_	7	punct	_	_
-9	ku	_	ADV	FW	_	7	flat:foreign	_	_
+9	ku	_	X	FW	_	7	flat:foreign	_	_
 10	.	_	PUNCT	.	_	2	punct	_	_
 
 # sent_id = file01269.txt_219
@@ -4879,13 +4879,13 @@
 17	.	_	PUNCT	.	_	7	punct	_	_
 
 # sent_id = file00752.txt_72
-# text = Thank you very much . .... because I study tutorial for twenty hours , ja
+# text = Thank you very much . — because I study tutorial for twenty hours , ja
 1	Thank	_	VERB	VBP	_	0	root	_	_
 2	you	_	PRON	PRP	_	1	obj	_	_
 3	very	_	ADV	RB	_	4	advmod	_	_
 4	much	_	ADV	RB	_	1	advmod	_	_
 5	.	_	PUNCT	.	_	1	punct	_	_
-6	....	_	PUNCT	:	_	9	punct	_	_
+6	—	_	PUNCT	:	_	9	punct	_	_
 7	because	_	SCONJ	IN	_	9	mark	_	_
 8	I	_	PRON	PRP	_	9	nsubj	_	_
 9	study	_	VERB	VBP	_	1	advcl	_	_
@@ -4894,7 +4894,7 @@
 12	twenty	_	NUM	CD	_	13	nummod	_	_
 13	hours	_	NOUN	NNS	_	9	obl	_	_
 14	,	_	PUNCT	,	_	9	punct	_	_
-15	ja	_	ADV	FW	_	1	dep	_	_
+15	ja	_	X	FW	_	1	dep	_	_
 
 # sent_id = file00851.txt_168
 # text = And I was driving with my mobile phone in my ears .
@@ -5053,7 +5053,7 @@
 10	,	_	PUNCT	,	_	12	punct	_	_
 11	we	_	PRON	PRP	_	12	nsubj	_	_
 12	use	_	VERB	VBP	_	5	parataxis	_	_
-13	manshon	_	ADV	FW	_	12	obj	_	_
+13	manshon	_	NOUN	FW	_	12	obj	_	_
 14	.	_	PUNCT	.	_	5	punct	_	_
 
 # sent_id = file00729.txt_65
@@ -5090,7 +5090,7 @@
 1	my	_	PRON	PRP$	_	2	nmod:poss	_	_
 2	restaurant	_	NOUN	NN	_	6	nsubj	_	_
 3	is	_	AUX	VBZ	_	6	cop	_	_
-4	nandakke	_	ADV	FW	_	6	dep	_	_
+4	nandakke	_	X	FW	_	6	dep	_	_
 5	not	_	PART	RB	_	6	advmod	_	_
 6	expensive	_	ADJ	JJ	_	0	root	_	_
 7	.	_	PUNCT	.	_	6	punct	_	_
@@ -5484,7 +5484,7 @@
 # text = So , hai only .
 1	So	_	ADV	RB	_	4	advmod	_	_
 2	,	_	PUNCT	,	_	4	punct	_	_
-3	hai	_	ADV	FW	_	4	dep	_	_
+3	hai	_	X	FW	_	4	dep	_	_
 4	only	_	ADV	RB	_	0	root	_	_
 5	.	_	PUNCT	.	_	4	punct	_	_
 
@@ -6445,7 +6445,7 @@
 2	will	_	AUX	MD	_	3	aux	_	_
 3	give	_	VERB	VB	_	0	root	_	_
 4	you	_	PRON	PRP	_	3	iobj	_	_
-5	janaina	_	ADV	FW	_	3	obj	_	_
+5	janaina	_	NOUN	FW	_	3	obj	_	_
 
 # sent_id = file01219.txt_41
 # text = And my father is an architect .
@@ -7217,7 +7217,7 @@
 5	n't	_	PART	RB	_	6	advmod	_	_
 6	know	_	VERB	VB	_	0	root	_	_
 7	what	_	PRON	WP	_	11	obj	_	_
-8	shonenhanzai	_	ADV	FW	_	11	nsubj	_	_
+8	shonenhanzai	_	NOUN	FW	_	11	nsubj	_	_
 9	is	_	AUX	VBZ	_	11	cop	_	_
 10	serious	_	ADJ	JJ	_	11	amod	_	_
 11	problem	_	NOUN	NN	_	6	ccomp	_	_
@@ -7746,7 +7746,7 @@
 # text = They have tatami rooms .
 1	They	_	PRON	PRP	_	2	nsubj	_	_
 2	have	_	VERB	VBP	_	0	root	_	_
-3	tatami	_	ADV	FW	_	2	dep	_	_
+3	tatami	_	NOUN	FW	_	4	nmod	_	_
 4	rooms	_	NOUN	NNS	_	2	obj	_	_
 5	.	_	PUNCT	.	_	2	punct	_	_
 
@@ -8686,7 +8686,7 @@
 8	like	_	INTJ	UH	_	9	discourse	_	_
 9	Kami	_	PROPN	NNP	_	6	obl	_	_
 10	-	_	PUNCT	:	_	9	punct	_	_
-11	igusa	_	ADV	FW	_	9	dep	_	_
+11	igusa	_	X	FW	_	9	dep	_	_
 12	.	_	PUNCT	.	_	4	punct	_	_
 
 # sent_id = file00897.txt_51
@@ -9424,8 +9424,8 @@
 
 # sent_id = file00155.txt_97
 # text = nandakke wakannaissune .
-1	nandakke	_	ADV	FW	_	0	root	_	_
-2	wakannaissune	_	ADV	FW	_	1	flat:foreign	_	_
+1	nandakke	_	X	FW	_	0	root	_	_
+2	wakannaissune	_	X	FW	_	1	flat:foreign	_	_
 3	.	_	PUNCT	.	_	1	punct	_	_
 
 # sent_id = file01215.txt_128
@@ -10014,8 +10014,8 @@
 15	based	_	VERB	VBN	_	13	acl	_	_
 16	on	_	ADP	IN	_	20	case	_	_
 17	the	_	DET	DT	_	20	det	_	_
-18	nante	_	ADV	FW	_	20	dep	_	_
-19	iukana	_	ADV	FW	_	18	flat:foreign	_	_
+18	nante	_	X	FW	_	20	dep	_	_
+19	iukana	_	X	FW	_	18	flat:foreign	_	_
 20	trend	_	NOUN	NN	_	15	obl	_	_
 21	.	_	PUNCT	.	_	10	punct	_	_
 
@@ -10317,7 +10317,7 @@
 9	restaurant	_	NOUN	NN	_	5	obj	_	_
 10	,	_	PUNCT	,	_	13	punct	_	_
 11	or	_	CCONJ	CC	_	13	cc	_	_
-12	yakiniku	_	ADV	FW	_	13	dep	_	_
+12	yakiniku	_	X	FW	_	13	dep	_	_
 13	restaurant	_	NOUN	NN	_	9	conj	_	_
 14	,	_	PUNCT	,	_	16	punct	_	_
 15	or	_	CCONJ	CC	_	16	cc	_	_
@@ -10777,9 +10777,9 @@
 5	catch	_	NOUN	NN	_	6	compound	_	_
 6	ball	_	NOUN	NN	_	4	obj	_	_
 7	and	_	CCONJ	CC	_	9	cc	_	_
-8	ma	_	ADV	FW	_	9	dep	_	_
+8	ma	_	X	FW	_	9	dep	_	_
 9	play	_	VERB	VB	_	1	conj	_	_
-10	telebi	_	ADV	FW	_	9	dep	_	_
+10	telebi	_	X	FW	_	9	dep	_	_
 11	games	_	NOUN	NNS	_	9	obj	_	_
 12	,	_	PUNCT	,	_	15	punct	_	_
 13	with	_	ADP	IN	_	15	case	_	_
@@ -11212,7 +11212,7 @@
 11	lion	_	NOUN	NN	_	7	conj	_	_
 12	and	_	CCONJ	CC	_	13	cc	_	_
 13	cats	_	NOUN	NNS	_	7	conj	_	_
-14	rui	_	ADV	FW	_	4	dep	_	_
+14	rui	_	X	FW	_	4	dep	_	_
 
 # sent_id = file00468.txt_14
 # text = and I like it very much .
@@ -12859,13 +12859,13 @@
 
 # sent_id = file00361.txt_97
 # text = tyotto matte nan daro is chotto wakan
-1	tyotto	_	ADV	FW	_	5	dep	_	_
-2	matte	_	ADV	FW	_	1	flat:foreign	_	_
-3	nan	_	ADV	FW	_	1	flat:foreign	_	_
-4	daro	_	ADV	FW	_	1	flat:foreign	_	_
+1	tyotto	_	X	FW	_	5	dep	_	_
+2	matte	_	X	FW	_	1	flat:foreign	_	_
+3	nan	_	ADV	X	_	1	flat:foreign	_	_
+4	daro	_	X	FW	_	1	flat:foreign	_	_
 5	is	_	VERB	VBZ	_	0	root	_	_
-6	chotto	_	ADV	FW	_	5	dep	_	_
-7	wakan	_	ADV	FW	_	6	flat:foreign	_	_
+6	chotto	_	X	FW	_	5	dep	_	_
+7	wakan	_	X	FW	_	6	flat:foreign	_	_
 
 # sent_id = file00398.txt_36
 # text = Credit analyst .
@@ -12971,7 +12971,7 @@
 # text = And small nandaro
 1	And	_	CCONJ	CC	_	2	cc	_	_
 2	small	_	ADJ	JJ	_	0	root	_	_
-3	nandaro	_	ADV	FW	_	2	dep	_	_
+3	nandaro	_	X	FW	_	2	dep	_	_
 
 # sent_id = file01209.txt_1
 # text = my name is Charlie .
@@ -13091,7 +13091,7 @@
 # text = in Tokyo ku .
 1	in	_	ADP	IN	_	2	case	_	_
 2	Tokyo	_	PROPN	NNP	_	0	root	_	_
-3	ku	_	ADV	FW	_	2	dep	_	_
+3	ku	_	X	FW	_	2	dep	_	_
 4	.	_	PUNCT	.	_	2	punct	_	_
 
 # sent_id = file01245.txt_77
@@ -13607,7 +13607,7 @@
 2	go	_	VERB	VBP	_	0	root	_	_
 3	to	_	PART	TO	_	8	case	_	_
 4	,	_	PUNCT	,	_	8	punct	_	_
-5	ka	_	ADV	FW	_	8	dep	_	_
+5	ka	_	X	FW	_	8	dep	_	_
 6	,	_	PUNCT	,	_	8	punct	_	_
 7	a	_	DET	DT	_	8	det	_	_
 8	zoo	_	NOUN	NN	_	2	obl	_	_
@@ -14527,10 +14527,10 @@
 5	.	_	PUNCT	.	_	4	punct	_	_
 
 # sent_id = file00752.txt_96
-# text = So ... sorekara saw the monkey .
+# text = So — sorekara saw the monkey .
 1	So	_	ADV	RB	_	4	advmod	_	_
-2	...	_	PUNCT	:	_	4	punct	_	_
-3	sorekara	_	ADV	FW	_	4	dep	_	_
+2	—	_	PUNCT	:	_	4	punct	_	_
+3	sorekara	_	X	FW	_	4	dep	_	_
 4	saw	_	VERB	VBD	_	0	root	_	_
 5	the	_	DET	DT	_	6	det	_	_
 6	monkey	_	NOUN	NN	_	4	obj	_	_
@@ -15026,8 +15026,8 @@
 
 # sent_id = file00089.txt_59
 # text = nnto nan
-1	nnto	_	ADV	FW	_	0	root	_	_
-2	nan	_	ADV	FW	_	1	flat:foreign	_	_
+1	nnto	_	X	FW	_	0	root	_	_
+2	nan	_	X	FW	_	1	flat:foreign	_	_
 
 # sent_id = file00447.txt_28
 # text = I often listen to the music and watching T V , so on .
@@ -15310,7 +15310,7 @@
 4	it	_	PRON	PRP	_	6	nsubj	_	_
 5	is	_	AUX	VBZ	_	6	aux:pass	_	_
 6	called	_	VERB	VBN	_	0	root	_	_
-7	sandan	_	ADV	FW	_	6	xcomp	_	_
+7	sandan	_	X	FW	_	6	xcomp	_	_
 8	.	_	PUNCT	.	_	6	punct	_	_
 
 # sent_id = file00030.txt_88
@@ -15669,15 +15669,15 @@
 
 # sent_id = file00195.txt_78
 # text = yami - nabe is a kind of strange nabe , I think because —
-1	yami	_	ADV	FW	_	3	dep	_	_
+1	yami	_	X	FW	_	3	dep	_	_
 2	-	_	PUNCT	:	_	3	punct	_	_
-3	nabe	_	ADV	FW	_	6	nsubj	_	_
+3	nabe	_	X	FW	_	6	nsubj	_	_
 4	is	_	AUX	VBZ	_	6	cop	_	_
 5	a	_	DET	DT	_	6	det	_	_
 6	kind	_	NOUN	NN	_	0	root	_	_
 7	of	_	ADP	IN	_	9	case	_	_
 8	strange	_	ADJ	JJ	_	9	amod	_	_
-9	nabe	_	ADV	FW	_	6	nmod	_	_
+9	nabe	_	X	FW	_	6	nmod	_	_
 10	,	_	PUNCT	,	_	12	punct	_	_
 11	I	_	PRON	PRP	_	12	nsubj	_	_
 12	think	_	VERB	VBP	_	6	parataxis	_	_
@@ -16119,8 +16119,8 @@
 1	this	_	PRON	DT	_	4	nsubj	_	_
 2	is	_	AUX	VBZ	_	4	cop	_	_
 3	a	_	DET	DT	_	4	det	_	_
-4	nante	_	ADV	FW	_	0	root	_	_
-5	iu	_	ADV	FW	_	4	flat:foreign	_	_
+4	nante	_	X	FW	_	0	root	_	_
+5	iu	_	X	FW	_	4	flat:foreign	_	_
 
 # sent_id = file00491.txt_15
 # text = Doing my job ?
@@ -16616,7 +16616,7 @@
 3	's	_	AUX	VBZ	_	5	cop	_	_
 4	six	_	NUM	CD	_	5	nummod	_	_
 5	time	_	NOUN	NN	_	0	root	_	_
-6	dattakana	_	ADV	FW	_	5	dep	_	_
+6	dattakana	_	X	FW	_	5	dep	_	_
 
 # sent_id = file01273.txt_5
 # text = I 'm a little bit nervous .
@@ -17068,7 +17068,7 @@
 # sent_id = file00504.txt_71
 # text = And nandarou .
 1	And	_	CCONJ	CC	_	2	cc	_	_
-2	nandarou	_	ADV	FW	_	0	root	_	_
+2	nandarou	_	X	FW	_	0	root	_	_
 3	.	_	PUNCT	.	_	2	punct	_	_
 
 # sent_id = file00623.txt_11
@@ -17904,7 +17904,7 @@
 9	get	_	VERB	VB	_	19	advcl	_	_
 10	on	_	ADP	IN	_	13	case	_	_
 11	the	_	DET	DT	_	13	det	_	_
-12	shinkansen	_	ADV	FW	_	13	compound	_	_
+12	shinkansen	_	X	FW	_	13	compound	_	_
 13	train	_	NOUN	NN	_	9	obl	_	_
 14	,	_	PUNCT	,	_	9	punct	_	_
 15	her	_	PRON	PRP$	_	16	nmod:poss	_	_
@@ -18344,7 +18344,7 @@
 1	And	_	CCONJ	CC	_	3	cc	_	_
 2	she	_	PRON	PRP	_	3	nsubj	_	_
 3	pay	_	VERB	VB	_	0	root	_	_
-4	regi	_	ADV	FW	_	3	dep	_	_
+4	regi	_	X	FW	_	3	dep	_	_
 5	counter	_	NOUN	NN	_	3	obj	_	_
 6	.	_	PUNCT	.	_	3	punct	_	_
 
@@ -18453,7 +18453,7 @@
 # text = so , nandarou , good combination calorie and vitamin .
 1	so	_	ADV	RB	_	6	advmod	_	_
 2	,	_	PUNCT	,	_	6	punct	_	_
-3	nandarou	_	ADV	FW	_	6	dep	_	_
+3	nandarou	_	X	FW	_	6	dep	_	_
 4	,	_	PUNCT	,	_	6	punct	_	_
 5	good	_	ADJ	JJ	_	6	amod	_	_
 6	combination	_	NOUN	NN	_	0	root	_	_
@@ -19560,10 +19560,10 @@
 
 # sent_id = file00089.txt_22
 # text = kaishain work in zenekon . ?
-1	kaishain	_	ADV	FW	_	2	dep	_	_
+1	kaishain	_	X	FW	_	2	dep	_	_
 2	work	_	VERB	VB	_	0	root	_	_
 3	in	_	ADP	IN	_	4	case	_	_
-4	zenekon	_	ADV	FW	_	2	obl	_	_
+4	zenekon	_	X	FW	_	2	obl	_	_
 5	.	_	PUNCT	.	_	2	punct	_	_
 6	?	_	PUNCT	.	_	2	punct	_	_
 
@@ -19875,8 +19875,8 @@
 7	,	_	PUNCT	,	_	9	punct	_	_
 8	we	_	PRON	PRP	_	9	nsubj	_	_
 9	say	_	VERB	VBP	_	2	parataxis	_	_
-10	juni	_	ADV	FW	_	9	obj	_	_
-11	hitoe	_	ADV	FW	_	10	flat:foreign	_	_
+10	juni	_	X	FW	_	9	obj	_	_
+11	hitoe	_	X	FW	_	10	flat:foreign	_	_
 12	.	_	PUNCT	.	_	2	punct	_	_
 
 # sent_id = file00968.txt_13
@@ -21582,7 +21582,7 @@
 9	I	_	PRON	PRP	_	10	nsubj	_	_
 10	enjoy	_	VERB	VBP	_	8	ccomp	_	_
 11	playing	_	VERB	VBG	_	10	xcomp	_	_
-12	kyudo	_	ADV	FW	_	11	obj	_	_
+12	kyudo	_	NOUN	FW	_	11	obj	_	_
 13	here	_	ADV	RB	_	11	advmod	_	_
 14	.	_	PUNCT	.	_	2	punct	_	_
 

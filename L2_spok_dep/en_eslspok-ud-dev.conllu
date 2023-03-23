@@ -516,7 +516,7 @@
 5	to	_	PART	TO	_	6	mark	_	_
 6	find	_	VERB	VB	_	4	xcomp	_	_
 7	one	_	NUM	CD	_	8	nummod	_	_
-8	shouchu	_	ADV	FW	_	6	obj	_	_
+8	shouchu	_	NOUN	FW	_	6	obj	_	_
 9	for	_	ADP	IN	_	11	case	_	_
 10	my	_	PRON	PRP$	_	11	nmod:poss	_	_
 11	father	_	NOUN	NN	_	6	obl	_	_

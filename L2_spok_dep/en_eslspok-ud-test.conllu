@@ -174,7 +174,7 @@
 # sent_id = file00833.txt_30
 # text = She nawatobi
 1	She	_	PRON	PRP	_	0	root	_	_
-2	nawatobi	_	ADV	FW	_	1	dep	_	_
+2	nawatobi	_	X	FW	_	1	dep	_	_
 
 # sent_id = file00109.txt_130
 # text = I explained about the total stories ?
@@ -1136,7 +1136,7 @@
 1	I	_	PRON	PRP	_	2	nsubj	_	_
 2	work	_	VERB	VBP	_	0	root	_	_
 3	in	_	ADP	IN	_	4	case	_	_
-4	honsha	_	ADV	FW	_	2	obl	_	_
+4	honsha	_	NOUN	FW	_	2	obl	_	_
 5	.	_	PUNCT	.	_	2	punct	_	_
 
 # sent_id = file01220.txt_130
@@ -2134,7 +2134,7 @@
 2	do	_	AUX	VBP	_	4	aux	_	_
 3	n't	_	PART	RB	_	4	advmod	_	_
 4	have	_	VERB	VB	_	0	root	_	_
-5	pasokon	_	ADV	FW	_	4	obj	_	_
+5	pasokon	_	NOUN	FW	_	4	obj	_	_
 6	.	_	PUNCT	.	_	4	punct	_	_
 
 # sent_id = file00306.txt_82
@@ -2150,7 +2150,7 @@
 2	went	_	VERB	VBD	_	0	root	_	_
 3	to	_	PART	TO	_	4	case	_	_
 4	Fuji	_	PROPN	NNP	_	2	obl	_	_
-5	jukai	_	ADV	FW	_	4	flat:foreign	_	_
+5	jukai	_	X	FW	_	4	flat:foreign	_	_
 6	.	_	PUNCT	.	_	2	punct	_	_
 
 # sent_id = file00493.txt_62
