@@ -7,7 +7,7 @@ This repository includes the Dependency Treebank of Spoken L2 English (SL2E).
 All
 Fine-grained part of speech tags (XPOS) were based on the Penn Treebank Tagset and were manually annotated from scratch by at least two annotators. The XPOS annotation guidelines <a href="https://kristopherkyle.github.io/L2-Annotation-Project/anno_overview.html" target="_blank">can be found here</a>. Dependency annotations followed the Universal Dependencies (version 2.0) and were also manually annotated from scratch by at least two trained annotators.  Dependency annotation guidelines <a href="https://kristopherkyle.github.io/L2-Annotation-Project/dep_anno_overview.html" target="_blank">can be found here</a>. 
 
-Universal part of speech tags (UPOS) were added to the portion of the treebank that includes dependency annotation using a probabilistic model trained using both L1 and L2 sections of the English UD treebanks (EWT, GUM, GUMReddit, Pronouns, PUD, and ESL). Automatic tagging accuracy was .9885 (macro accuracy), and all tags acheived an f1 above .97.
+Universal part of speech tags (UPOS) were added to the portion of the treebank that includes dependency annotation using a probabilistic model trained using both L1 and L2 sections of the English UD treebanks (EWT, GUM, GUMReddit, Pronouns, PUD, and ESL). Automatic tagging accuracy was .9885 (macro accuracy), and all tags acheived an f1 above .97. Subsequent manual fixes to the UPOS tags were also made.
 
 ## Citation
 If you use the treebank in your research, please cite the following paper:
